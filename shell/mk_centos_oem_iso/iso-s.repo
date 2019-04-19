@@ -1,0 +1,43 @@
+#
+# The mirror system uses the connecting IP address of the client and the
+# update status of each mirror to pick mirrors that are updated to and
+# geographically close to the client.  You should use this for TaishanOS updates
+# unless you are manually picking other mirrors.
+#
+# If the mirrorlist= does not work for you, as a fall back you can try the 
+# remarked out baseurl= line instead.
+#
+#
+
+[iso-base]
+name=iso-Base
+#baseurl=http://mirrors.emindsoft.com.cn/emindserver/$releasever/os/$basearch/
+#baseurl=http://192.168.0.170/ems-iso/7.4/os/x86_64/
+#baseurl=file:///home/gavin/repo/7.5.1804/base/aarch64/
+#baseurl=file:///data/gavin/rootfs/data/iso-tools/iso_centos_repo/
+#is base repo
+baseurl=file:///res5/
+
+gpgcheck=0
+#gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-EmindServer-7
+#gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-CentOS-7
+#gpgkey=http://192.168.0.170/ems-iso/7.4/RPM-GPG-KEY-EmindServer-7
+#gpgkey=https://mirrors.tuna.tsinghua.edu.cn/centos/7.5.1804/os/x86_64/RPM-GPG-KEY-CentOS-7
+gpgkey=file:///data/iso-tools/RPM-GPG-KEY-TaishanOS-7
+
+[iso-extras]
+name=iso-Extras
+baseurl=file:///data/ts7-server_repo/7.5.1804/extras/x86_64/
+gpgcheck=1
+gpgkey=file:///data/iso-tools/RPM-GPG-KEY-TaishanOS-7
+enabled=1
+
+#released updates 
+[iso-updates]
+name=iso-Updates
+#baseurl=http://mirrors.emindsoft.com.cn/emindserver/$releasever/updates/$basearch/
+baseurl=file:///resu5/
+gpgcheck=1
+gpgkey=file:///data/iso-tools/RPM-GPG-KEY-TaishanOS-7
+enabled=0
+

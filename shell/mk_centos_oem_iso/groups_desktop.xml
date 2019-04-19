@@ -1,0 +1,2604 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE comps PUBLIC "-//TaishanOS//DTD Comps info//EN" "comps.dtd">
+<comps>
+  <group>
+    <id>gnome-desktop</id>
+    <name>GNOME</name>
+    <name xml:lang="af">GNOME</name>
+    <name xml:lang="af_ZA">GNOME</name>
+    <name xml:lang="am">ኖም</name>
+    <name xml:lang="ar">جينوم</name>
+    <name xml:lang="as">GNOME</name>
+    <name xml:lang="be">GNOME</name>
+    <name xml:lang="bn">GNOME</name>
+    <name xml:lang="bn_IN">GNOME</name>
+    <name xml:lang="bs">GNOME</name>
+    <name xml:lang="ca">GNOME</name>
+    <name xml:lang="cs">GNOME</name>
+    <name xml:lang="cs_CZ">GNOME</name>
+    <name xml:lang="cy">GNOME</name>
+    <name xml:lang="de">GNOME</name>
+    <name xml:lang="de_CH">GNOME</name>
+    <name xml:lang="en_GB">GNOME</name>
+    <name xml:lang="es">GNOME</name>
+    <name xml:lang="es_ES">GNOME</name>
+    <name xml:lang="eu">GNOME</name>
+    <name xml:lang="eu_ES">GNOME</name>
+    <name xml:lang="fa">گنوم</name>
+    <name xml:lang="fa_IR">گنوم</name>
+    <name xml:lang="fi">Gnome</name>
+    <name xml:lang="fr">GNOME</name>
+    <name xml:lang="gl">GNOME</name>
+    <name xml:lang="gu">GNOME</name>
+    <name xml:lang="hi">GNOME</name>
+    <name xml:lang="hr">GNOME</name>
+    <name xml:lang="hr_HR">GNOME</name>
+    <name xml:lang="hu">GNOME</name>
+    <name xml:lang="hy">GNOME</name>
+    <name xml:lang="id">GNOME</name>
+    <name xml:lang="ilo">GNOME</name>
+    <name xml:lang="it">GNOME</name>
+    <name xml:lang="it_IT">GNOME</name>
+    <name xml:lang="ja">GNOME</name>
+    <name xml:lang="ja_JP">GNOME</name>
+    <name xml:lang="ka">GNOME</name>
+    <name xml:lang="kn">GNOME</name>
+    <name xml:lang="ko">GNOME</name>
+    <name xml:lang="lv">GNOME</name>
+    <name xml:lang="mk">Гном</name>
+    <name xml:lang="ml">ഗ്നോം</name>
+    <name xml:lang="mr">GNOME</name>
+    <name xml:lang="no">GNOME</name>
+    <name xml:lang="nso">GNOME</name>
+    <name xml:lang="or">GNOME</name>
+    <name xml:lang="pa">ਗਨੋਮ</name>
+    <name xml:lang="pl">GNOME</name>
+    <name xml:lang="ru">GNOME</name>
+    <name xml:lang="ru_RU">GNOME</name>
+    <name xml:lang="si">GNOME</name>
+    <name xml:lang="sl">GNOME</name>
+    <name xml:lang="sq">GNOME</name>
+    <name xml:lang="ta">GNOME</name>
+    <name xml:lang="ta_IN">GNOME</name>
+    <name xml:lang="te">GNOME</name>
+    <name xml:lang="th">GNOME</name>
+    <name xml:lang="tr">GNOME</name>
+    <name xml:lang="uk">GNOME</name>
+    <name xml:lang="uk_UA">GNOME</name>
+    <name xml:lang="ur">جينوم</name>
+    <name xml:lang="vi">GNOME</name>
+    <name xml:lang="zh">GNOME</name>
+    <name xml:lang="zh_CN">GNOME</name>
+    <name xml:lang="zh_TW">GNOME</name>
+    <name xml:lang="zu">I-GNOME</name>
+    <description>GNOME is a highly intuitive and user friendly desktop environment.</description>
+    <description xml:lang="as">GNOME উচ্চভাৱে আন্তদৃষ্টিক আৰু ব্যৱহাৰকাৰীৰ বাবে সহজ ডেস্কটপ পৰিৱেশ।</description>
+    <description xml:lang="cs">GNOME je intuitivní a uživatelsky příjemné pracovní prostředí.</description>
+    <description xml:lang="cs_CZ">GNOME je intuitivní a uživatelsky příjemné pracovní prostředí.</description>
+    <description xml:lang="de">GNOME ist eine sehr intuitive und benutzerfreundliche Desktop-Umgebung.</description>
+    <description xml:lang="de_CH">GNOME ist eine sehr intuitive und benutzerfreundliche Desktop-Umgebung.</description>
+    <description xml:lang="es">GNOME es un entorno de escritorio altamente intuitivo y fácil de manejar</description>
+    <description xml:lang="es_ES">GNOME es un entorno de escritorio altamente intuitivo y fácil de manejar</description>
+    <description xml:lang="fr">GNOME est un environnement de bureau convivial et hautement intuitif.</description>
+    <description xml:lang="gu">GNOME એ ખૂબ ઊંચુ સાહજિક અને વપરાશકર્તા મૈત્રી ડૅસ્કટોપ પર્યાવરણ છે.</description>
+    <description xml:lang="hi">गनोम काफी पारस्परिका और उपयोक्ता मैत्रीयुक्त डेस्कटॉप वातावरण है.</description>
+    <description xml:lang="it">GNOME è un ambiente desktop facile da usare e altamente intuitivo.</description>
+    <description xml:lang="it_IT">GNOME è un ambiente desktop facile da usare e altamente intuitivo.</description>
+    <description xml:lang="ja">GNOME は非常に直観的でユーザーフレンドリーなデスクトップ環境になります。</description>
+    <description xml:lang="ja_JP">GNOME は非常に直観的でユーザーフレンドリーなデスクトップ環境になります。</description>
+    <description xml:lang="kn">GNOME ಒಂದು ಅತ್ಯಂತ ಸುಲಭವಾಗಿ ಅರ್ಥವಾಗುವ ಬಳಕೆದಾರ ಸ್ನೇಹಿ ಗಣಕತೆರೆ ಪರಿಸರ.</description>
+    <description xml:lang="ko">GNOME은 사용하기 쉽고 사용자 친화적인 데스크탑 환경입니다.</description>
+    <description xml:lang="ml">വളരെ അവബോധജന്യവും ഉപയോക്താവിനോടു് വളരെ സൌഹൃദ്യവുമുള്ള രീതിയിലുള്ള പണിയിടമാണു് ഗ്നോം.</description>
+    <description xml:lang="mr">GNOME हे अत्यंत ज्ञानी आणि वापरकर्ता मदतगार डेस्कटॉप वातावरण आहे.</description>
+    <description xml:lang="or">GNOME ଅତି ମାତ୍ରାରେ ସହଜଜ୍ଞାନ ସମ୍ପନ୍ନ ଏବଂ ବ୍ୟବହାରକାରୀଙ୍କ ପାଇଁ ସହଜମୟ ଡେସ୍କଟପ ପରିବେଶ।</description>
+    <description xml:lang="pa">GNOME ਇੱਕ ਬਹੁਤ ਹੀ ਅਨੁਭਵੀ ਅਤੇ ਵਰਤੋਂਕਾਰ ਹਿਤਕਾਰੀ ਡੈਸਕਟਾਪ ਵਾਤਾਵਰਣ ਹੈ।</description>
+    <description xml:lang="pl">GNOME to intuicyjne i przyjazne dla użytkownika środowisko pulpitu.</description>
+    <description xml:lang="ru">GNOME — интуитивное окружение рабочего стола.</description>
+    <description xml:lang="ru_RU">GNOME — интуитивное окружение рабочего стола.</description>
+    <description xml:lang="ta">GNOME புத்திசாலித்தனமான மற்றும் பயன்படுத்த எளிதான பணிமேடைச் சூழலாகும்.</description>
+    <description xml:lang="ta_IN">GNOME புத்திசாலித்தனமான மற்றும் பயன்படுத்த எளிதான பணிமேடைச் சூழலாகும்.</description>
+    <description xml:lang="te">గ్నోమ్ అనేది తేలికగా తెలుసుకొనే మరియు వాడుకరికి అనుకూలమైన డెస్కుటాప్ పరిసరం.</description>
+    <description xml:lang="uk">GNOME — зручне у користуванні та інтуїтивно зрозуміле стільничне середовище.</description>
+    <description xml:lang="uk_UA">GNOME — зручне у користуванні та інтуїтивно зрозуміле стільничне середовище.</description>
+    <description xml:lang="zh">GNOME 是個容易上手且容易使用的桌面環境。</description>
+    <description xml:lang="zh_CN">GNOME 是一个非常直观且用户友好的桌面环境。</description>
+    <description xml:lang="zh_TW">GNOME 是個容易上手且容易使用的桌面環境。</description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq type="mandatory">at-spi2-atk</packagereq>
+      <packagereq type="mandatory">at-spi2-core</packagereq>
+      <packagereq type="mandatory">avahi</packagereq>
+      <packagereq type="mandatory">baobab</packagereq>
+      <packagereq type="mandatory">caribou</packagereq>
+      <packagereq type="mandatory">caribou-gtk2-module</packagereq>
+      <packagereq type="mandatory">caribou-gtk3-module</packagereq>
+      <packagereq type="mandatory">cheese</packagereq>
+      <packagereq type="mandatory">compat-cheese314</packagereq>
+      <packagereq type="mandatory">control-center</packagereq>
+      <packagereq type="mandatory">dconf</packagereq>
+      <packagereq type="mandatory">empathy</packagereq>
+      <packagereq type="mandatory">eog</packagereq>
+      <packagereq type="mandatory">evince</packagereq>
+      <packagereq type="mandatory">evince-nautilus</packagereq>
+      <packagereq type="mandatory">file-roller</packagereq>
+      <packagereq type="mandatory">file-roller-nautilus</packagereq>
+      <packagereq type="mandatory">firewall-config</packagereq>
+      <packagereq type="mandatory">firstboot</packagereq>
+      <packagereq type="mandatory">fprintd-pam</packagereq>
+      <packagereq type="mandatory">gdm</packagereq>
+      <packagereq type="mandatory">gedit</packagereq>
+      <packagereq type="mandatory">glib-networking</packagereq>
+      <packagereq type="mandatory">gnome-bluetooth</packagereq>
+      <packagereq type="mandatory">gnome-boxes</packagereq>
+      <packagereq type="mandatory">gnome-calculator</packagereq>
+      <packagereq type="mandatory">gnome-classic-session</packagereq>
+      <packagereq type="mandatory">gnome-clocks</packagereq>
+      <packagereq type="mandatory">gnome-color-manager</packagereq>
+      <packagereq type="mandatory">gnome-dictionary</packagereq>
+      <packagereq type="mandatory">gnome-disk-utility</packagereq>
+      <packagereq type="mandatory">gnome-font-viewer</packagereq>
+      <packagereq type="mandatory">gnome-getting-started-docs</packagereq>
+      <packagereq type="mandatory">gnome-icon-theme</packagereq>
+      <packagereq type="mandatory">gnome-icon-theme-extras</packagereq>
+      <packagereq type="mandatory">gnome-icon-theme-symbolic</packagereq>
+      <packagereq type="mandatory">gnome-packagekit</packagereq>
+      <packagereq type="mandatory">gnome-packagekit-updater</packagereq>
+      <packagereq type="mandatory">gnome-screenshot</packagereq>
+      <packagereq type="mandatory">gnome-session</packagereq>
+      <packagereq type="mandatory">gnome-session-xsession</packagereq>
+      <packagereq type="mandatory">gnome-settings-daemon</packagereq>
+      <packagereq type="mandatory">gnome-shell</packagereq>
+      <packagereq type="mandatory">gnome-system-log</packagereq>
+      <packagereq type="mandatory">gnome-system-monitor</packagereq>
+      <packagereq type="mandatory">gnome-terminal</packagereq>
+      <packagereq type="mandatory">gnome-terminal-nautilus</packagereq>
+      <packagereq type="mandatory">gnome-themes-standard</packagereq>
+      <packagereq type="mandatory">gnome-tweak-tool</packagereq>
+      <packagereq type="mandatory">gnome-user-docs</packagereq>
+      <packagereq type="mandatory">gnome-weather</packagereq>
+      <packagereq type="mandatory">gucharmap</packagereq>
+      <packagereq type="mandatory">gvfs-afc</packagereq>
+      <packagereq type="mandatory">gvfs-afp</packagereq>
+      <packagereq type="mandatory">gvfs-archive</packagereq>
+      <packagereq type="mandatory">gvfs-fuse</packagereq>
+      <packagereq type="mandatory">gvfs-goa</packagereq>
+      <packagereq type="mandatory">gvfs-gphoto2</packagereq>
+      <packagereq type="mandatory">gvfs-mtp</packagereq>
+      <packagereq type="mandatory">gvfs-smb</packagereq>
+      <packagereq type="mandatory">initial-setup-gui</packagereq>
+      <packagereq type="mandatory">libcanberra-gtk2</packagereq>
+      <packagereq type="mandatory">libcanberra-gtk3</packagereq>
+      <packagereq type="mandatory">libproxy-mozjs</packagereq>
+      <packagereq type="mandatory">librsvg2</packagereq>
+      <packagereq type="mandatory">libsane-hpaio</packagereq>
+      <packagereq type="mandatory">metacity</packagereq>
+      <packagereq type="mandatory">mousetweaks</packagereq>
+      <packagereq type="mandatory">nautilus</packagereq>
+      <packagereq type="mandatory">nautilus-sendto</packagereq>
+      <packagereq type="mandatory">NetworkManager-libreswan-gnome</packagereq>
+      <packagereq type="mandatory">nm-connection-editor</packagereq>
+      <packagereq type="mandatory">orca</packagereq>
+      <packagereq type="mandatory">PackageKit-command-not-found</packagereq>
+      <packagereq type="mandatory">PackageKit-gtk3-module</packagereq>
+      <packagereq type="mandatory">redhat-access-gui</packagereq>
+      <packagereq type="mandatory">sane-backends-drivers-scanners</packagereq>
+      <packagereq type="mandatory">seahorse</packagereq>
+      <packagereq type="mandatory">sushi</packagereq>
+      <packagereq type="mandatory">vinagre</packagereq>
+      <packagereq type="mandatory">vino</packagereq>
+      <packagereq type="mandatory">xdg-user-dirs-gtk</packagereq>
+      <packagereq type="mandatory">yelp</packagereq>
+      <packagereq type="mandatory">taishanos-theme-icon-gov</packagereq>
+      <packagereq type="mandatory">desktop-theme-gtk</packagereq>
+      <packagereq type="mandatory">flat-remix</packagereq>
+      <packagereq type="mandatory">gnome-shell-extensions</packagereq>
+      <packagereq type="mandatory">gsettings-desktop-schemas</packagereq>
+      <packagereq type="mandatory">gnome-shell-extension-dash-to-panel</packagereq>
+      <packagereq type="mandatory">gnome-shell-extension-gnomenu</packagereq>
+      <packagereq type="mandatory">smplayer</packagereq>
+      <packagereq type="mandatory">gstreamer1-libav</packagereq>
+      <packagereq type="mandatory">gstreamer1-vaapi</packagereq>
+      <packagereq type="mandatory">gtk-murrine-engine</packagereq>
+      <packagereq type="mandatory">libpng12</packagereq>
+      <packagereq type="mandatory">qt-config</packagereq>
+      <packagereq type="default">qgnomeplatform</packagereq>
+      <packagereq type="default">xdg-desktop-portal-gtk</packagereq>
+      <packagereq type="optional">alacarte</packagereq>
+      <packagereq type="optional">dconf-editor</packagereq>
+      <packagereq type="optional">dvgrab</packagereq>
+      <packagereq type="optional">fonts-tweak-tool</packagereq>
+      <packagereq type="optional">gconf-editor</packagereq>
+      <packagereq type="optional">gedit-plugins</packagereq>
+      <packagereq type="optional">gnome-shell-browser-plugin</packagereq>
+      <packagereq type="optional">gnote</packagereq>
+      <packagereq type="optional">libappindicator-gtk3</packagereq>
+      <packagereq type="optional">seahorse-nautilus</packagereq>
+      <packagereq type="optional">seahorse-sharing</packagereq>
+      <packagereq type="optional">vim-X11</packagereq>
+      <packagereq type="optional">xguest</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>anaconda-tools</id>
+    <name>Anaconda Tools</name>
+    <name xml:lang="as">Anaconda সঁজুলিসমূহ</name>
+    <name xml:lang="cs">Nástroje instalátoru Anaconda</name>
+    <name xml:lang="cs_CZ">Nástroje instalátoru Anaconda</name>
+    <name xml:lang="de">Anaconda-Werkzeuge</name>
+    <name xml:lang="de_CH">Anaconda-Werkzeuge</name>
+    <name xml:lang="es">Herramientas de Anaconda</name>
+    <name xml:lang="es_ES">Herramientas de Anaconda</name>
+    <name xml:lang="fr">Outils Anaconda</name>
+    <name xml:lang="gu">એનાકોન્ડા સાધનો</name>
+    <name xml:lang="hi">एनाकोंडा औज़ार</name>
+    <name xml:lang="it">Strumenti di Anaconda</name>
+    <name xml:lang="it_IT">Strumenti di Anaconda</name>
+    <name xml:lang="ja">Anaconda ツール</name>
+    <name xml:lang="ja_JP">Anaconda ツール</name>
+    <name xml:lang="kn">Anaconda ಉಪಕರಣಗಳು</name>
+    <name xml:lang="ko">Anaconda 도구</name>
+    <name xml:lang="ml">അനക്കോണ്ട പ്രയോഗങ്ങള്‍</name>
+    <name xml:lang="mr">ॲनाकाँडा साधने</name>
+    <name xml:lang="or">Anaconda ସାଧନଗୁଡ଼ିକ</name>
+    <name xml:lang="pa">ਐਨਾਕੋਂਡਾ ਸੰਦ</name>
+    <name xml:lang="pl">Narzędzia dla instalatora Anaconda</name>
+    <name xml:lang="ru">Инструменты Anaconda.</name>
+    <name xml:lang="ru_RU">Инструменты Anaconda.</name>
+    <name xml:lang="ta">Anaconda கருவிகள்</name>
+    <name xml:lang="ta_IN">Anaconda கருவிகள்</name>
+    <name xml:lang="te">అనకొండ సాధనాలు</name>
+    <name xml:lang="uk">Інструменти Anaconda</name>
+    <name xml:lang="uk_UA">Інструменти Anaconda</name>
+    <name xml:lang="zh">Anaconda 工具</name>
+    <name xml:lang="zh_CN">Anaconda 工具</name>
+    <name xml:lang="zh_TW">Anaconda 工具</name>
+    <description/>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq type="mandatory">authconfig</packagereq>
+      <packagereq type="mandatory">btrfs-progs</packagereq>
+      <packagereq type="mandatory">chkconfig</packagereq>
+      <packagereq type="mandatory">chrony</packagereq>
+      <packagereq type="mandatory">cryptsetup</packagereq>
+      <packagereq type="mandatory">device-mapper-multipath</packagereq>
+      <packagereq type="mandatory">dmraid</packagereq>
+      <packagereq type="mandatory">dosfstools</packagereq>
+      <packagereq type="mandatory">dracut-network</packagereq>
+      <packagereq type="mandatory">e2fsprogs</packagereq>
+      <packagereq type="mandatory">efibootmgr</packagereq>
+      <packagereq type="mandatory">fcoe-utils</packagereq>
+      <packagereq type="mandatory">firewalld</packagereq>
+      <packagereq type="mandatory">gfs2-utils</packagereq>
+      <packagereq type="mandatory">iscsi-initiator-utils</packagereq>
+      <packagereq type="mandatory">lvm2</packagereq>
+      <packagereq type="mandatory">lvm2-python-boom</packagereq>
+      <packagereq type="mandatory">mdadm</packagereq>
+      <packagereq type="mandatory">system-config-firewall-base</packagereq>
+      <packagereq type="mandatory">tboot</packagereq>
+      <packagereq type="mandatory">tmux</packagereq>
+      <packagereq type="mandatory">xfsprogs</packagereq>
+      <packagereq type="default">grub2</packagereq>
+      <packagereq type="default">shim-x64</packagereq>
+      <packagereq type="optional">dbxtool</packagereq>
+      <packagereq type="optional">grub2-efi-ia32</packagereq>
+      <packagereq type="optional">grub2-efi-ia32-modules</packagereq>
+      <packagereq type="optional">grub2-efi-x64</packagereq>
+      <packagereq type="optional">grub2-efi-x64-modules</packagereq>
+      <packagereq type="optional">grub2-pc</packagereq>
+      <packagereq type="optional">oscap-anaconda-addon</packagereq>
+      <packagereq type="optional">shim-ia32</packagereq>
+      <packagereq type="optional">shim-unsigned-ia32</packagereq>
+      <packagereq type="optional">shim-unsigned-x64</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>base</id>
+    <name>Base</name>
+    <name xml:lang="af">Basis</name>
+    <name xml:lang="af_ZA">Basis</name>
+    <name xml:lang="am">መሠረት</name>
+    <name xml:lang="ar">أساسيّة</name>
+    <name xml:lang="as">ভিত্তি</name>
+    <name xml:lang="bal">اساس</name>
+    <name xml:lang="be">Падмурак</name>
+    <name xml:lang="bg">Основа</name>
+    <name xml:lang="bn">ভিত্তি (Base)</name>
+    <name xml:lang="bn_IN">ভিত্তি (Base)</name>
+    <name xml:lang="bs">Osnova</name>
+    <name xml:lang="ca">Bàsic</name>
+    <name xml:lang="cs">Základ</name>
+    <name xml:lang="cs_CZ">Základ</name>
+    <name xml:lang="cy">Sail</name>
+    <name xml:lang="da">Base</name>
+    <name xml:lang="de">Basis</name>
+    <name xml:lang="de_CH">Basis</name>
+    <name xml:lang="el">Βάση</name>
+    <name xml:lang="en_GB">Base</name>
+    <name xml:lang="es">Base</name>
+    <name xml:lang="es_ES">Base</name>
+    <name xml:lang="et">Baas</name>
+    <name xml:lang="fa">پایه</name>
+    <name xml:lang="fa_IR">پایه</name>
+    <name xml:lang="fi">Peruspaketit</name>
+    <name xml:lang="fr">Base</name>
+    <name xml:lang="gu">આધાર</name>
+    <name xml:lang="he">בסיס</name>
+    <name xml:lang="hi">आधार</name>
+    <name xml:lang="hr">Osnova</name>
+    <name xml:lang="hr_HR">Osnova</name>
+    <name xml:lang="hu">Alap</name>
+    <name xml:lang="hy">բազա</name>
+    <name xml:lang="ia">Base</name>
+    <name xml:lang="id">Dasar</name>
+    <name xml:lang="is">Grunnur</name>
+    <name xml:lang="it">Base</name>
+    <name xml:lang="it_IT">Base</name>
+    <name xml:lang="ja">ベース</name>
+    <name xml:lang="ja_JP">ベース</name>
+    <name xml:lang="ka">ძირითადი</name>
+    <name xml:lang="kn">ಮೂಲ</name>
+    <name xml:lang="ko">기본</name>
+    <name xml:lang="lv">Pamatsistēma</name>
+    <name xml:lang="mai">आधार</name>
+    <name xml:lang="mk">Основни</name>
+    <name xml:lang="ml">ബെയ്സ്</name>
+    <name xml:lang="mr">आधार</name>
+    <name xml:lang="ms">Asas</name>
+    <name xml:lang="ms_MY">Asas</name>
+    <name xml:lang="nb">Grunnpakker</name>
+    <name xml:lang="ne">आधार</name>
+    <name xml:lang="nl">Basis</name>
+    <name xml:lang="no">Grunnpakker</name>
+    <name xml:lang="nso">Motheo</name>
+    <name xml:lang="or">ଆଧାର</name>
+    <name xml:lang="pa">ਮੂਲ</name>
+    <name xml:lang="pl">Część podstawowa</name>
+    <name xml:lang="pt">Base</name>
+    <name xml:lang="pt_BR">Base</name>
+    <name xml:lang="ro">Bază</name>
+    <name xml:lang="ru">Основные</name>
+    <name xml:lang="ru_RU">Основные</name>
+    <name xml:lang="si">පාදම</name>
+    <name xml:lang="sk">Základ</name>
+    <name xml:lang="sl">Osnovno</name>
+    <name xml:lang="sq">Bazë</name>
+    <name xml:lang="sr">Основа</name>
+    <name xml:lang="sr@latin">Osnova</name>
+    <name xml:lang="sr@Latn">Osnova</name>
+    <name xml:lang="sv">Bas</name>
+    <name xml:lang="ta">அடிப்படை</name>
+    <name xml:lang="ta_IN">அடிப்படை</name>
+    <name xml:lang="te">ఆధారం</name>
+    <name xml:lang="tg">Асосҳо</name>
+    <name xml:lang="th">พื้นฐาน</name>
+    <name xml:lang="tr">Temel</name>
+    <name xml:lang="uk">Основа</name>
+    <name xml:lang="uk_UA">Основа</name>
+    <name xml:lang="ur">مرکز</name>
+    <name xml:lang="vi">Cở sở</name>
+    <name xml:lang="zh">基礎</name>
+    <name xml:lang="zh_CN">基本</name>
+    <name xml:lang="zh_TW">基礎</name>
+    <name xml:lang="zu">Isiqu</name>
+    <description>The basic installation of TaishanOS Linux.</description>
+    <description xml:lang="as">TaishanOS Linux ৰ মৌলিক ইনস্টল।</description>
+    <description xml:lang="bn">TaishanOS Linux-র মৌলিক ইনস্টলেশন।</description>
+    <description xml:lang="bn_IN">TaishanOS Linux-র মৌলিক ইনস্টলেশন।</description>
+    <description xml:lang="cs">Základní instalace systému TaishanOS Linux.</description>
+    <description xml:lang="cs_CZ">Základní instalace systému TaishanOS Linux.</description>
+    <description xml:lang="de">Die Basis-Installation von TaishanOS Linux.</description>
+    <description xml:lang="de_CH">Die Basis-Installation von TaishanOS Linux.</description>
+    <description xml:lang="es">Instalación básica de TaishanOS Linux.</description>
+    <description xml:lang="es_ES">Instalación básica de TaishanOS Linux.</description>
+    <description xml:lang="fr">Installation de base de TaishanOS Linux.</description>
+    <description xml:lang="gu">TaishanOS Linux નું આધાર સ્થાપન.</description>
+    <description xml:lang="hi">TaishanOS Linux का मौलिक संस्थापन.</description>
+    <description xml:lang="it">Installazione di base di TaishanOS Linux.</description>
+    <description xml:lang="it_IT">Installazione di base di TaishanOS Linux.</description>
+    <description xml:lang="ja">TaishanOS Linux の基本インストール</description>
+    <description xml:lang="ja_JP">TaishanOS Linux の基本インストール</description>
+    <description xml:lang="kn">TaishanOS Linuxನ ಮೂಲಭೂತ ಅನುಸ್ಥಾಪನೆ.</description>
+    <description xml:lang="ko">TaishanOS Linux 기본 설치.</description>
+    <description xml:lang="ml">TaishanOS Linux-ന്റെ അടിസ്ഥാന ഇന്‍സ്റ്റലേഷന്‍.</description>
+    <description xml:lang="mr">TaishanOS Linux चे मुळ प्रतिष्ठापन.</description>
+    <description xml:lang="or">TaishanOS Linux ର ମୌଳିକ ସ୍ଥାପନା।</description>
+    <description xml:lang="pa">TaishanOS Linux ਦੀ ਮੁਢਲੀ ਇੰਸਟਾਲੇਸ਼ਨ।</description>
+    <description xml:lang="pl">Podstawowa instalacja systemu TaishanOS Linux.</description>
+    <description xml:lang="ru">Стандартная установка TaishanOS Linux.</description>
+    <description xml:lang="ru_RU">Стандартная установка TaishanOS Linux.</description>
+    <description xml:lang="sv">Grundinstallationen av TaishanOS Linux.</description>
+    <description xml:lang="ta">TaishanOS Linuxன் அடிப்படை நிறுவல்.</description>
+    <description xml:lang="ta_IN">TaishanOS Linuxன் அடிப்படை நிறுவல்.</description>
+    <description xml:lang="te">TaishanOS Linux యొక్క ప్రాధమిక సంస్థాపన.</description>
+    <description xml:lang="uk">Стандартне встановлення TaishanOS Linux.</description>
+    <description xml:lang="uk_UA">Стандартне встановлення TaishanOS Linux.</description>
+    <description xml:lang="zh">TaishanOS Linux 的基本安裝。</description>
+    <description xml:lang="zh_CN">国心服务器版 Linux 基本安装。</description>
+    <description xml:lang="zh_TW">TaishanOS Linux 的基本安裝。</description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq type="mandatory">pam</packagereq>
+      <packagereq type="mandatory">monit</packagereq>
+      <packagereq type="mandatory">biba-manage</packagereq>
+      <packagereq type="mandatory">selinux-policy</packagereq>
+      <packagereq type="mandatory">acl</packagereq>
+      <packagereq type="mandatory">at</packagereq>
+      <packagereq type="mandatory">attr</packagereq>
+      <packagereq type="mandatory">authconfig</packagereq>
+      <packagereq type="mandatory">bc</packagereq>
+      <packagereq type="mandatory">bind-utils</packagereq>
+      <packagereq type="mandatory">taishanos-indexhtml</packagereq>
+      <packagereq type="mandatory">cpio</packagereq>
+      <packagereq type="mandatory">crda</packagereq>
+      <packagereq type="mandatory">crontabs</packagereq>
+      <packagereq type="mandatory">cyrus-sasl-plain</packagereq>
+      <packagereq type="mandatory">dbus</packagereq>
+      <packagereq type="mandatory">ed</packagereq>
+      <packagereq type="mandatory">file</packagereq>
+      <packagereq type="mandatory">logrotate</packagereq>
+      <packagereq type="mandatory">lsof</packagereq>
+      <packagereq type="mandatory">man-db</packagereq>
+      <packagereq type="mandatory">net-tools</packagereq>
+      <packagereq type="mandatory">ntsysv</packagereq>
+      <packagereq type="mandatory">pciutils</packagereq>
+      <packagereq type="mandatory">psacct</packagereq>
+      <packagereq type="mandatory">quota</packagereq>
+      <packagereq type="mandatory">setserial</packagereq>
+      <packagereq type="mandatory">traceroute</packagereq>
+      <packagereq type="mandatory">usb_modeswitch</packagereq>
+      <packagereq type="mandatory">ntfs-3g</packagereq>
+      <packagereq type="mandatory">ntfsprogs</packagereq>
+      <packagereq type="mandatory">unar</packagereq>
+      <packagereq type="mandatory">p7zip</packagereq>
+      <packagereq type="mandatory">p7zip-plugins</packagereq>
+      <packagereq type="mandatory">p7zip-gui</packagereq>
+      <packagereq type="mandatory">exfat-utils</packagereq>
+      <packagereq type="conditional" requires="ruby">rubygem-abrt</packagereq>
+      <packagereq type="default">bash-completion</packagereq>
+      <packagereq type="default">blktrace</packagereq>
+      <packagereq type="default">bridge-utils</packagereq>
+      <packagereq type="default">bzip2</packagereq>
+      <packagereq type="default">chrony</packagereq>
+      <packagereq type="default">cryptsetup</packagereq>
+      <packagereq type="default">dmraid</packagereq>
+      <packagereq type="default">dosfstools</packagereq>
+      <packagereq type="default">ethtool</packagereq>
+      <packagereq type="default">fprintd-pam</packagereq>
+      <packagereq type="default">gnupg2</packagereq>
+      <packagereq type="default">hunspell</packagereq>
+      <packagereq type="default">hunspell-en</packagereq>
+      <packagereq type="default">kmod-kvdo</packagereq>
+      <packagereq type="default">kpatch</packagereq>
+      <packagereq type="default">ledmon</packagereq>
+      <packagereq type="default">libaio</packagereq>
+      <packagereq type="default">libreport-plugin-mailx</packagereq>
+      <packagereq type="default">libstoragemgmt</packagereq>
+      <packagereq type="default">lvm2</packagereq>
+      <packagereq type="default">man-pages</packagereq>
+      <packagereq type="default">man-pages-overrides</packagereq>
+      <packagereq type="default">mdadm</packagereq>
+      <packagereq type="default">mlocate</packagereq>
+      <packagereq type="default">mtr</packagereq>
+      <packagereq type="default">nano</packagereq>
+      <packagereq type="default">ntpdate</packagereq>
+      <packagereq type="default">pinfo</packagereq>
+      <packagereq type="default">plymouth</packagereq>
+      <packagereq type="default">pm-utils</packagereq>
+      <packagereq type="default">rdate</packagereq>
+      <packagereq type="default">rfkill</packagereq>
+      <packagereq type="default">rng-tools</packagereq>
+      <packagereq type="default">rsync</packagereq>
+      <packagereq type="default">scl-utils</packagereq>
+      <packagereq type="default">setuptool</packagereq>
+      <packagereq type="default">smartmontools</packagereq>
+      <packagereq type="default">sos</packagereq>
+      <packagereq type="default">sssd-client</packagereq>
+      <packagereq type="default">strace</packagereq>
+      <packagereq type="default">sysstat</packagereq>
+      <packagereq type="default">systemtap-runtime</packagereq>
+      <packagereq type="default">tcpdump</packagereq>
+      <packagereq type="default">tcsh</packagereq>
+      <packagereq type="default">teamd</packagereq>
+      <packagereq type="default">time</packagereq>
+      <packagereq type="default">unzip</packagereq>
+      <packagereq type="default">usbutils</packagereq>
+      <packagereq type="default">vdo</packagereq>
+      <packagereq type="default">vim-enhanced</packagereq>
+      <packagereq type="default">virt-what</packagereq>
+      <packagereq type="default">wget</packagereq>
+      <packagereq type="default">which</packagereq>
+      <packagereq type="default">words</packagereq>
+      <packagereq type="default">xfsdump</packagereq>
+      <packagereq type="default">xz</packagereq>
+      <packagereq type="default">yum-langpacks</packagereq>
+      <packagereq type="default">yum-utils</packagereq>
+      <packagereq type="default">zip</packagereq>
+      <packagereq type="optional">acpid</packagereq>
+      <packagereq type="optional">audispd-plugins</packagereq>
+      <packagereq type="optional">augeas</packagereq>
+      <packagereq type="optional">brltty</packagereq>
+      <packagereq type="optional">ceph-common</packagereq>
+      <packagereq type="optional">cryptsetup-reencrypt</packagereq>
+      <packagereq type="optional">device-mapper-persistent-data</packagereq>
+      <packagereq type="optional">dos2unix</packagereq>
+      <packagereq type="optional">dumpet</packagereq>
+      <packagereq type="optional">fwupd</packagereq>
+      <packagereq type="optional">fwupdate</packagereq>
+      <packagereq type="optional">genisoimage</packagereq>
+      <packagereq type="optional">gpm</packagereq>
+      <packagereq type="optional">i2c-tools</packagereq>
+      <packagereq type="optional">ima-evm-utils</packagereq>
+      <packagereq type="optional">insights-client</packagereq>
+      <packagereq type="optional">kabi-yum-plugins</packagereq>
+      <packagereq type="optional">libatomic</packagereq>
+      <packagereq type="optional">libcgroup</packagereq>
+      <packagereq type="optional">libcgroup-tools</packagereq>
+      <packagereq type="optional">libitm</packagereq>
+      <packagereq type="optional">libstoragemgmt-netapp-plugin</packagereq>
+      <packagereq type="optional">libstoragemgmt-nstor-plugin</packagereq>
+      <packagereq type="optional">libstoragemgmt-smis-plugin</packagereq>
+      <packagereq type="optional">libstoragemgmt-targetd-plugin</packagereq>
+      <packagereq type="optional">libstoragemgmt-udev</packagereq>
+      <packagereq type="optional">linuxptp</packagereq>
+      <packagereq type="optional">logwatch</packagereq>
+      <packagereq type="optional">mkbootdisk</packagereq>
+      <packagereq type="optional">mtools</packagereq>
+      <packagereq type="optional">ncurses-term</packagereq>
+      <packagereq type="optional">ntp</packagereq>
+      <packagereq type="optional">nvmetcli</packagereq>
+      <packagereq type="optional">oddjob</packagereq>
+      <packagereq type="optional">pax</packagereq>
+      <packagereq type="optional">prelink</packagereq>
+      <packagereq type="optional">PyPAM</packagereq>
+      <packagereq type="optional">python-volume_key</packagereq>
+      <packagereq type="optional">redhat-lsb-core</packagereq>
+      <packagereq type="optional">redhat-upgrade-dracut</packagereq>
+      <packagereq type="optional">redhat-upgrade-tool</packagereq>
+      <packagereq type="optional">rsyslog-gnutls</packagereq>
+      <packagereq type="optional">rsyslog-gssapi</packagereq>
+      <packagereq type="optional">rsyslog-relp</packagereq>
+      <packagereq type="optional">sgpio</packagereq>
+      <packagereq type="optional">sox</packagereq>
+      <packagereq type="optional">squashfs-tools</packagereq>
+      <packagereq type="optional">star</packagereq>
+      <packagereq type="optional">tmpwatch</packagereq>
+      <packagereq type="optional">udftools</packagereq>
+      <packagereq type="optional">usbguard</packagereq>
+      <packagereq type="optional">uuidd</packagereq>
+      <packagereq type="optional">volume_key</packagereq>
+      <packagereq type="optional">wodim</packagereq>
+      <packagereq type="optional">x86info</packagereq>
+      <packagereq type="optional">yum-plugin-aliases</packagereq>
+      <packagereq type="optional">yum-plugin-changelog</packagereq>
+      <packagereq type="optional">yum-plugin-tmprepo</packagereq>
+      <packagereq type="optional">yum-plugin-verify</packagereq>
+      <packagereq type="optional">yum-plugin-versionlock</packagereq>
+      <packagereq type="optional">zsh</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>client-product</id>
+    <name>TaishanOS Linux Client product core</name>
+    <description>Packages mandatory for the client product.</description>
+    <default>true</default>
+    <uservisible>false</uservisible>
+    <packagelist/>
+  </group>
+  <group>
+    <id>core</id>
+    <name>Core</name>
+    <name xml:lang="af">Kern</name>
+    <name xml:lang="af_ZA">Kern</name>
+    <name xml:lang="am">ማዕከላዊ ቦታ</name>
+    <name xml:lang="ar">اللبّ</name>
+    <name xml:lang="as">ভিত্তি</name>
+    <name xml:lang="bal">هستگ</name>
+    <name xml:lang="be">Падмурак</name>
+    <name xml:lang="bg">Основа</name>
+    <name xml:lang="bn">কোর</name>
+    <name xml:lang="bn_IN">কোর</name>
+    <name xml:lang="bs">Jezgra</name>
+    <name xml:lang="ca">Nucli</name>
+    <name xml:lang="cs">Úplný základ</name>
+    <name xml:lang="cs_CZ">Úplný základ</name>
+    <name xml:lang="cy">Craidd</name>
+    <name xml:lang="da">Grundlæggende</name>
+    <name xml:lang="de">Kern</name>
+    <name xml:lang="de_CH">Kern</name>
+    <name xml:lang="el">Πυρήνας</name>
+    <name xml:lang="en_GB">Core</name>
+    <name xml:lang="es">Núcleo</name>
+    <name xml:lang="es_ES">Núcleo</name>
+    <name xml:lang="et">Tuum</name>
+    <name xml:lang="fa">اصل</name>
+    <name xml:lang="fa_IR">اصل</name>
+    <name xml:lang="fi">Keskeiset</name>
+    <name xml:lang="fr">Core</name>
+    <name xml:lang="gl">Núcleo</name>
+    <name xml:lang="gu">મૂળ</name>
+    <name xml:lang="he">ליבה</name>
+    <name xml:lang="hi">कोर</name>
+    <name xml:lang="hr">Jezgra</name>
+    <name xml:lang="hr_HR">Jezgra</name>
+    <name xml:lang="hu">Mag</name>
+    <name xml:lang="hy">Հիմք</name>
+    <name xml:lang="ia">Nucleo</name>
+    <name xml:lang="id">Inti</name>
+    <name xml:lang="ilo">Bugas</name>
+    <name xml:lang="is">Lágmarkskerfi</name>
+    <name xml:lang="it">Principale</name>
+    <name xml:lang="it_IT">Principale</name>
+    <name xml:lang="ja">コア</name>
+    <name xml:lang="ja_JP">コア</name>
+    <name xml:lang="ka">ბირთვი</name>
+    <name xml:lang="kn">ಅಂತಸ್ಸಾರ</name>
+    <name xml:lang="ko">핵심</name>
+    <name xml:lang="lv">Pamatsistēma</name>
+    <name xml:lang="mai">कोर</name>
+    <name xml:lang="mk">Основни</name>
+    <name xml:lang="ml">കോറ്‍</name>
+    <name xml:lang="mr">कोर</name>
+    <name xml:lang="ms">Teras</name>
+    <name xml:lang="ms_MY">Teras</name>
+    <name xml:lang="nb">Kjerne</name>
+    <name xml:lang="ne">कोर</name>
+    <name xml:lang="nl">Kern</name>
+    <name xml:lang="no">Kjerne</name>
+    <name xml:lang="nso">Bogare</name>
+    <name xml:lang="or">ପ୍ରମୂଖ</name>
+    <name xml:lang="pa">ਮੂਲ</name>
+    <name xml:lang="pl">Rdzeń</name>
+    <name xml:lang="pt">Núcleo</name>
+    <name xml:lang="pt_BR">Núcleo</name>
+    <name xml:lang="ro">Nucleu</name>
+    <name xml:lang="ru">Основа</name>
+    <name xml:lang="ru_RU">Основа</name>
+    <name xml:lang="si">න්‍යෂ්ඨිය</name>
+    <name xml:lang="sk">Jadro</name>
+    <name xml:lang="sl">Jedro</name>
+    <name xml:lang="sq">Bërthama</name>
+    <name xml:lang="sr">Срж</name>
+    <name xml:lang="sr@latin">Srž</name>
+    <name xml:lang="sr@Latn">Srž</name>
+    <name xml:lang="sv">Grund</name>
+    <name xml:lang="ta">கோர்</name>
+    <name xml:lang="ta_IN">கோர்</name>
+    <name xml:lang="te">అంతర్భాగం</name>
+    <name xml:lang="tg">Система</name>
+    <name xml:lang="th">แกนหลัก</name>
+    <name xml:lang="tr">Çekirdek</name>
+    <name xml:lang="uk">Основа</name>
+    <name xml:lang="uk_UA">Основа</name>
+    <name xml:lang="ur">مرکز</name>
+    <name xml:lang="vi">Lõi</name>
+    <name xml:lang="zh">核心</name>
+    <name xml:lang="zh_CN">核心</name>
+    <name xml:lang="zh_TW">核心</name>
+    <name xml:lang="zu">Okuyikhona</name>
+    <description>Smallest possible installation.</description>
+    <description xml:lang="as">ন্যূনতম ইনস্টল।</description>
+    <description xml:lang="bn">ন্যূনতম ইনস্টলেশন।</description>
+    <description xml:lang="bn_IN">ন্যূনতম ইনস্টলেশন।</description>
+    <description xml:lang="cs">Nejmenší možná instalace.</description>
+    <description xml:lang="cs_CZ">Nejmenší možná instalace.</description>
+    <description xml:lang="de">Kleinstmögliche Installation.</description>
+    <description xml:lang="de_CH">Kleinstmögliche Installation.</description>
+    <description xml:lang="es">La instalación más pequeña posible.</description>
+    <description xml:lang="es_ES">La instalación más pequeña posible.</description>
+    <description xml:lang="fr">Plus petite installation possible.</description>
+    <description xml:lang="gu">નાનામાં નાના શક્ય સ્થાપન.</description>
+    <description xml:lang="hi">लघुतम संभावित संस्थापन.</description>
+    <description xml:lang="ia">Le minime possibile installation.</description>
+    <description xml:lang="it">Minima installazione possibile.</description>
+    <description xml:lang="it_IT">Minima installazione possibile.</description>
+    <description xml:lang="ja">最小限のインストール</description>
+    <description xml:lang="ja_JP">最小限のインストール</description>
+    <description xml:lang="kn">ಅತ್ಯಲ್ಪಸಾಧ್ಯ ಅನುಸ್ಥಾಪನೆ.</description>
+    <description xml:lang="ko">가능한 최소 설치</description>
+    <description xml:lang="ml">സാധ്യമായ ഏറ്റവും ചെറിയ ഇന്‍സ്റ്റലേഷന്‍.</description>
+    <description xml:lang="mr">शक्यतया सर्वात लहान प्रतिष्ठापन.</description>
+    <description xml:lang="or">କ୍ଷୁଦ୍ରତମ ସମ୍ଭାବ୍ଯ ସ୍ଥାପନା।</description>
+    <description xml:lang="pa">ਘੱਟੋ-ਘੱਟ ਸੰਭਵ ਇੰਸਟਾਲੇਸ਼ਨ।</description>
+    <description xml:lang="pl">Najmniejsza możliwa instalacja.</description>
+    <description xml:lang="ru">Минимально возможная установка</description>
+    <description xml:lang="ru_RU">Минимально возможная установка</description>
+    <description xml:lang="sv">Minsta möjliga installation</description>
+    <description xml:lang="ta">மிகச் சிறிய செயல்படுத்தக்கூடிய நிறுவல்.</description>
+    <description xml:lang="ta_IN">மிகச் சிறிய செயல்படுத்தக்கூடிய நிறுவல்.</description>
+    <description xml:lang="te">సాధ్యమగు అతిచిన్న సంస్థాపన.</description>
+    <description xml:lang="uk">Мінімально можливе встановлення.</description>
+    <description xml:lang="uk_UA">Мінімально можливе встановлення.</description>
+    <description xml:lang="zh">最小型安裝。</description>
+    <description xml:lang="zh_CN">最小可能安装。</description>
+    <description xml:lang="zh_TW">最小型安裝。</description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq type="mandatory">audit</packagereq>
+      <packagereq type="mandatory">basesystem</packagereq>
+      <packagereq type="mandatory">bash</packagereq>
+      <packagereq type="mandatory">btrfs-progs</packagereq>
+      <packagereq type="mandatory">coreutils</packagereq>
+      <packagereq type="mandatory">cronie</packagereq>
+      <packagereq type="mandatory">curl</packagereq>
+      <packagereq type="mandatory">dhclient</packagereq>
+      <packagereq type="mandatory">e2fsprogs</packagereq>
+      <packagereq type="mandatory">filesystem</packagereq>
+      <packagereq type="mandatory">firewalld</packagereq>
+      <packagereq type="mandatory">glibc</packagereq>
+      <packagereq type="mandatory">hostname</packagereq>
+      <packagereq type="mandatory">initscripts</packagereq>
+      <packagereq type="mandatory">iproute</packagereq>
+      <packagereq type="mandatory">iprutils</packagereq>
+      <packagereq type="mandatory">iptables</packagereq>
+      <packagereq type="mandatory">iputils</packagereq>
+      <packagereq type="mandatory">irqbalance</packagereq>
+      <packagereq type="mandatory">kbd</packagereq>
+      <packagereq type="mandatory">kexec-tools</packagereq>
+      <packagereq type="mandatory">less</packagereq>
+      <packagereq type="mandatory">man-db</packagereq>
+      <packagereq type="mandatory">ncurses</packagereq>
+      <packagereq type="mandatory">openssh-clients</packagereq>
+      <packagereq type="mandatory">openssh-server</packagereq>
+      <packagereq type="mandatory">parted</packagereq>
+      <packagereq type="mandatory">passwd</packagereq>
+      <packagereq type="mandatory">plymouth</packagereq>
+      <packagereq type="mandatory">policycoreutils</packagereq>
+      <packagereq type="mandatory">procps-ng</packagereq>
+      <packagereq type="mandatory">rootfiles</packagereq>
+      <packagereq type="mandatory">rpm</packagereq>
+      <packagereq type="mandatory">rsyslog</packagereq>
+      <packagereq type="mandatory">selinux-policy-targeted</packagereq>
+      <packagereq type="mandatory">setup</packagereq>
+      <packagereq type="mandatory">shadow-utils</packagereq>
+      <packagereq type="mandatory">sudo</packagereq>
+      <packagereq type="mandatory">systemd</packagereq>
+      <packagereq type="mandatory">tar</packagereq>
+      <packagereq type="mandatory">tuned</packagereq>
+      <packagereq type="mandatory">util-linux</packagereq>
+      <packagereq type="mandatory">vim-minimal</packagereq>
+      <packagereq type="mandatory">xfsprogs</packagereq>
+      <packagereq type="mandatory">yum</packagereq>
+      <packagereq type="default">aic94xx-firmware</packagereq>
+      <packagereq type="default">alsa-firmware</packagereq>
+      <packagereq type="default">biosdevname</packagereq>
+      <packagereq type="default">dracut-config-rescue</packagereq>
+      <packagereq type="default">ivtv-firmware</packagereq>
+      <packagereq type="default">iwl100-firmware</packagereq>
+      <packagereq type="default">iwl1000-firmware</packagereq>
+      <packagereq type="default">iwl105-firmware</packagereq>
+      <packagereq type="default">iwl135-firmware</packagereq>
+      <packagereq type="default">iwl2000-firmware</packagereq>
+      <packagereq type="default">iwl2030-firmware</packagereq>
+      <packagereq type="default">iwl3160-firmware</packagereq>
+      <packagereq type="default">iwl3945-firmware</packagereq>
+      <packagereq type="default">iwl4965-firmware</packagereq>
+      <packagereq type="default">iwl5000-firmware</packagereq>
+      <packagereq type="default">iwl5150-firmware</packagereq>
+      <packagereq type="default">iwl6000-firmware</packagereq>
+      <packagereq type="default">iwl6000g2a-firmware</packagereq>
+      <packagereq type="default">iwl6000g2b-firmware</packagereq>
+      <packagereq type="default">iwl6050-firmware</packagereq>
+      <packagereq type="default">iwl7260-firmware</packagereq>
+      <packagereq type="default">iwl7265-firmware</packagereq>
+      <packagereq type="default">kernel-tools</packagereq>
+      <packagereq type="default">libsysfs</packagereq>
+      <packagereq type="default">linux-firmware</packagereq>
+      <packagereq type="default">lshw</packagereq>
+      <packagereq type="default">microcode_ctl</packagereq>
+      <packagereq type="default">NetworkManager</packagereq>
+      <packagereq type="default">NetworkManager-team</packagereq>
+      <packagereq type="default">NetworkManager-tui</packagereq>
+      <packagereq type="default">postfix</packagereq>
+      <packagereq type="default">sg3_utils</packagereq>
+      <packagereq type="default">sg3_utils-libs</packagereq>
+      <packagereq type="optional">dracut-config-generic</packagereq>
+      <packagereq type="optional">dracut-fips</packagereq>
+      <packagereq type="optional">dracut-fips-aesni</packagereq>
+      <packagereq type="optional">dracut-network</packagereq>
+      <packagereq type="optional">initial-setup</packagereq>
+      <packagereq type="optional">openssh-keycat</packagereq>
+      <packagereq type="optional">rdma-core</packagereq>
+      <packagereq type="optional">selinux-policy-mls</packagereq>
+      <packagereq type="optional">tboot</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>desktop-debugging</id>
+    <name>Desktop Debugging and Performance Tools</name>
+    <name xml:lang="as">ডেস্কটপ ডিবাগ আৰু কাৰ্য্যক্ষমতাৰ সম্বন্ধীয় সঁজুলিসমূহ</name>
+    <name xml:lang="bn">ডেস্কটপ ডিবাগ ও কর্মক্ষমতার সম্বন্ধীয় সামগ্রী</name>
+    <name xml:lang="bn_IN">ডেস্কটপ ডিবাগ ও কর্মক্ষমতার সম্বন্ধীয় সামগ্রী</name>
+    <name xml:lang="cs">Nástroje pro ladění pracovního prostředí a sledování výkonu</name>
+    <name xml:lang="cs_CZ">Nástroje pro ladění pracovního prostředí a sledování výkonu</name>
+    <name xml:lang="de">Debugging- und Performance-Tools für den Desktop</name>
+    <name xml:lang="de_CH">Debugging- und Performance-Tools für den Desktop</name>
+    <name xml:lang="es">Depuración de escritorio y herramientas de rendimiento</name>
+    <name xml:lang="es_ES">Depuración de escritorio y herramientas de rendimiento</name>
+    <name xml:lang="fr">Outils de débogage et performance du bureau</name>
+    <name xml:lang="gu">ડેસ્કટોપ ડિબગીંગ અને પ્રભાવ સાધનો</name>
+    <name xml:lang="hi">डेस्कटॉप डिबगिंग और प्रदर्शन औज़ार</name>
+    <name xml:lang="ia">Instrumentos de scriptorio pro depuration e rendimento</name>
+    <name xml:lang="it">Tool per le prestazioni e di debug del desktop</name>
+    <name xml:lang="it_IT">Tool per le prestazioni e di debug del desktop</name>
+    <name xml:lang="ja">デスクトップのデバッグとパフォーマンスツール</name>
+    <name xml:lang="ja_JP">デスクトップのデバッグとパフォーマンスツール</name>
+    <name xml:lang="kn">ಗಣಕತೆರೆ ದೋಷನಿವಾರಣೆ ಹಾಗು ಕಾರ್ಯನಿರ್ವಹಣಾ ಉಪಕರಣಗಳು</name>
+    <name xml:lang="ko">데스크탑 디버깅과 성능 도구</name>
+    <name xml:lang="ml">ഡസ്ക്ടോപ്പ് ഡീബഗ്ഗിങും പ്രവര്‍ത്തനത്തിനുമുള്ള ഉപകരണങ്ങള്‍</name>
+    <name xml:lang="mr">डेस्कटॉप डिबगींग व क्षमता साधने</name>
+    <name xml:lang="or">ଡେସ୍କଟପ ତ୍ରୁଟିନିବାରଣ ଏବଂ କାର୍ଯ୍ୟକ୍ଷମତା ସାଧନଗୁଡ଼ିକ</name>
+    <name xml:lang="pa">ਡੈਸਕਟਾਪ ਡੀਬੱਗਿੰਗ ਅਤੇ ਕਾਰਜਕੁਸ਼ਲਤਾ ਸੰਦ</name>
+    <name xml:lang="pl">Narzędzia debugowania i obliczania wydajności środowisk graficznych</name>
+    <name xml:lang="ru">Средства отладки и поддержки производительности рабочего стола.</name>
+    <name xml:lang="ru_RU">Средства отладки и поддержки производительности рабочего стола.</name>
+    <name xml:lang="sv">Skrivbordsfelsöknings- och prestandaverktyg</name>
+    <name xml:lang="ta">பணிமேடை பிழைதிருத்தி மற்றும் செயற்படுத்தல் கருவிகள்</name>
+    <name xml:lang="ta_IN">பணிமேடை பிழைதிருத்தி மற்றும் செயற்படுத்தல் கருவிகள்</name>
+    <name xml:lang="te">డెస్కుటాప్ డీబగ్గింగ్ మరియు పనితనం సాధనములు</name>
+    <name xml:lang="uk">Програми для діагностики та перевірки швидкодії робочої станції</name>
+    <name xml:lang="uk_UA">Програми для діагностики та перевірки швидкодії робочої станції</name>
+    <name xml:lang="zh">桌面環境除錯與效能工具</name>
+    <name xml:lang="zh_CN">桌面调试和运行工具</name>
+    <name xml:lang="zh_TW">桌面環境除錯與效能工具</name>
+    <description>GUI tools for debugging applications and performance.</description>
+    <description xml:lang="as">এপ্লিকেচন ডিবাগ কৰিবলৈ আৰু কাৰ্য্যক্ষমতা সম্বন্ধীয় GUI সঁজুলিসমূহ।</description>
+    <description xml:lang="bn">অ্যাপ্লিকেশন ডিবাগ করতে ও কর্মক্ষমতা সম্বন্ধীয় GUI সরঞ্জাম।</description>
+    <description xml:lang="bn_IN">অ্যাপ্লিকেশন ডিবাগ করতে ও কর্মক্ষমতা সম্বন্ধীয় GUI সরঞ্জাম।</description>
+    <description xml:lang="cs">Grafické nástroje pro ladění aplikací a výkonu.</description>
+    <description xml:lang="cs_CZ">Grafické nástroje pro ladění aplikací a výkonu.</description>
+    <description xml:lang="de">GUI-Tools für das Debuggen von Applikationen und deren Performanz.</description>
+    <description xml:lang="de_CH">GUI-Tools für das Debuggen von Applikationen und deren Performanz.</description>
+    <description xml:lang="es">Herramientas GUI para aplicaciones de depuración y rendimiento.</description>
+    <description xml:lang="es_ES">Herramientas GUI para aplicaciones de depuración y rendimiento.</description>
+    <description xml:lang="fr">Outils de GUI pour le débogage et la performance d'applications.</description>
+    <description xml:lang="gu">ડિબગીંગ કાર્યક્રમો અને પ્રભાવ માટે GUI સાધનો.</description>
+    <description xml:lang="hi">अनुप्रयोग डबगिंग और प्रदर्शन के लिए GUI औजार.</description>
+    <description xml:lang="ia">Utensiles graphic pro depuration e rendimento de applicationes.</description>
+    <description xml:lang="it">Tool della GUI per prestazioni ed il debug delle applicazioni.</description>
+    <description xml:lang="it_IT">Tool della GUI per prestazioni ed il debug delle applicazioni.</description>
+    <description xml:lang="ja">アプリケーションやパフォーマンスのデバッグを行うための GUI ツール</description>
+    <description xml:lang="ja_JP">アプリケーションやパフォーマンスのデバッグを行うための GUI ツール</description>
+    <description xml:lang="kn">ದೋಷನಿವಾರಣೆ ಹಾಗು ಕಾರ್ಯನಿರ್ವಹಣೆಗಾಗಿನ GUI ಉಪಕರಣಗಳು.</description>
+    <description xml:lang="ko">프로그램 디버깅과 성능 향상을 위한 GUI 도구</description>
+    <description xml:lang="ml">പ്രയോഗങ്ങളും പ്രവര്‍ത്തനവും ഡീബഗ്ഗ് ചെയ്യുന്നതിനുള്ള GUI പ്രയോഗങ്ങള്‍.</description>
+    <description xml:lang="mr">ऍप्लिकेशन्स् व क्षमता डिबग करण्यासाठी GUI साधने.</description>
+    <description xml:lang="or">ପ୍ରୟୋଗଗୁଡ଼ିକର ତ୍ରୁଟି ନିବାରଣ ଏବଂ କାର୍ଯ୍ୟକ୍ଷମତା ପାଇଁ GUI ସାଧନଗୁଡ଼ିକ।</description>
+    <description xml:lang="pa">ਐਪਲੀਕੇਸ਼ਨ ਅਤੇ ਕਾਰਜਕੁਸ਼ਲਤਾ ਡੀਬੱਗਿੰਗ ਲਈ GUI ਸੰਦ।</description>
+    <description xml:lang="pl">Narzędzia graficzne do debugowania aplikacji i mierzenia wydajności.</description>
+    <description xml:lang="ru">Графические инструменты отладки приложений и контроля производительности.</description>
+    <description xml:lang="ru_RU">Графические инструменты отладки приложений и контроля производительности.</description>
+    <description xml:lang="sv">Grafiska verktyg för felsökning av program och prestanda.</description>
+    <description xml:lang="ta">பிழைதிருத்த பயன்பாடுகள் மற்றும் செயற்படுதலுக்கான GUI கருவிகள்.</description>
+    <description xml:lang="ta_IN">பிழைதிருத்த பயன்பாடுகள் மற்றும் செயற்படுதலுக்கான GUI கருவிகள்.</description>
+    <description xml:lang="te">అనువర్తనముల మరియు పనితనం డీబగ్గింగ్‌కు GUI సాధనములు.</description>
+    <description xml:lang="uk">Графічні інструмент для діагностики програм та визначення джерел проблем зі швидкодією.</description>
+    <description xml:lang="uk_UA">Графічні інструмент для діагностики програм та визначення джерел проблем зі швидкодією.</description>
+    <description xml:lang="zh">用來為應用程式和效能進行除錯的 GUI 工具。</description>
+    <description xml:lang="zh_CN">调试应用程序和性能的 GUI 工具。</description>
+    <description xml:lang="zh_TW">用來為應用程式和效能進行除錯的 GUI 工具。</description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq type="default">crash</packagereq>
+      <packagereq type="default">libreport-gtk</packagereq>
+      <packagereq type="optional">bltk</packagereq>
+      <packagereq type="optional">oprofile-gui</packagereq>
+      <packagereq type="optional">pcp-gui</packagereq>
+      <packagereq type="optional">tuna</packagereq>
+      <packagereq type="optional">xrestop</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>dial-up</id>
+    <name>Dial-up Networking Support</name>
+    <name xml:lang="ar">دعم شبكات الاتصال الهاتفي</name>
+    <name xml:lang="as">ডায়েল-আপ কৰা নেটৱাৰ্কিং সমৰ্থন</name>
+    <name xml:lang="bal">حمایت شبکه ای دیال آپ</name>
+    <name xml:lang="bg">Поддръжка на Dailup мрежи</name>
+    <name xml:lang="bn">ডায়াল-আপ নেটওয়ার্কিং ব্যবস্থা</name>
+    <name xml:lang="bn_IN">ডায়াল-আপ নেটওয়ার্কিং ব্যবস্থা</name>
+    <name xml:lang="bs">Podrška za telefoniranje</name>
+    <name xml:lang="ca">Suport per a la connexió a la xarxa</name>
+    <name xml:lang="cs">Telefonické připojení</name>
+    <name xml:lang="cs_CZ">Telefonické připojení</name>
+    <name xml:lang="da">Understøttelse for opkaldt netopkobling</name>
+    <name xml:lang="de">Unterstützung für DFÜ-Netzwerke</name>
+    <name xml:lang="de_CH">Unterstützung für DFÜ-Netzwerke</name>
+    <name xml:lang="el">Υποστήριξη δικτύωσης μέσω τηλεφώνου</name>
+    <name xml:lang="es">Soporte de Red por Módem</name>
+    <name xml:lang="es_ES">Soporte de Red por Módem</name>
+    <name xml:lang="et">Sissehelistamisega võrgutamise tugi</name>
+    <name xml:lang="fi">Tuki puhelinverkkoyhteyksille</name>
+    <name xml:lang="fr">Prise en charge de l'accès à distance au réseau</name>
+    <name xml:lang="gu">ડાયલ-અપ નેટવર્કીંગ આધાર</name>
+    <name xml:lang="he">תמיכה בחיוג לרשת</name>
+    <name xml:lang="hi">ड़ायलअप संजालन समर्थन</name>
+    <name xml:lang="hr">Podrška za telefoniranje</name>
+    <name xml:lang="hr_HR">Podrška za telefoniranje</name>
+    <name xml:lang="hu">Telefonos hálózat támogatása</name>
+    <name xml:lang="hy">Հեռախոսային միացման հնարավորություն</name>
+    <name xml:lang="ia">Supporto de connexion a rete per modem</name>
+    <name xml:lang="id">Dukungan Dialup Networking</name>
+    <name xml:lang="is">Upphringinetsstuðningur</name>
+    <name xml:lang="it">Supporto Networking dialup</name>
+    <name xml:lang="it_IT">Supporto Networking dialup</name>
+    <name xml:lang="ja">ダイヤルアップネットワークサポート</name>
+    <name xml:lang="ja_JP">ダイヤルアップネットワークサポート</name>
+    <name xml:lang="kn">ದೂರವಾಣಿ ಮೂಲಕ ಜಾಲವ್ಯವಸ್ಥೆಯ ಬೆಂಬಲ</name>
+    <name xml:lang="ko">전화연결 네트워킹 지원</name>
+    <name xml:lang="lv">Iezvanpiekļuve datortīkliem</name>
+    <name xml:lang="mai">ड़ायलअप संजालन समर्थन</name>
+    <name xml:lang="ml">ഡൈല്‍-അപ്പ് നെറ്റ്‍വര്‍ക്കിങ് പിന്തുണ</name>
+    <name xml:lang="mr">डायल-अप संजालन समर्थन</name>
+    <name xml:lang="ms">Sokongan Rangkaian Dail-up</name>
+    <name xml:lang="ms_MY">Sokongan Rangkaian Dail-up</name>
+    <name xml:lang="nb">Støtte for oppringt nettverk</name>
+    <name xml:lang="ne">डायल-अप नेटवर्किङ समर्थन</name>
+    <name xml:lang="nl">Inbelnetwerk ondersteuning</name>
+    <name xml:lang="or">ଡାଏଲ-ଅପ ନେଟୱାର୍କିଙ୍ଗ ସହାୟତା</name>
+    <name xml:lang="pa">ਡਾਇਲ-ਅੱਪ ਨੈੱਟਵਰਕ ਸਹਿਯੋਗ</name>
+    <name xml:lang="pl">Obsługa sieci dial-up</name>
+    <name xml:lang="pt">Suporte a Redes Telefónicas</name>
+    <name xml:lang="pt_BR">Suporte a Redes Telefónicas</name>
+    <name xml:lang="ro">Suport pentru acces la reţea prin telefon</name>
+    <name xml:lang="ru">Удалённый доступ к сети</name>
+    <name xml:lang="ru_RU">Удалённый доступ к сети</name>
+    <name xml:lang="si">ඩයල්අප් ජාල පහසුකම</name>
+    <name xml:lang="sk">Podpora telefonického pripojenia</name>
+    <name xml:lang="sl">Podpora za klicne povezave</name>
+    <name xml:lang="sq">Mbulim Punimi në Rrjet Dial-up</name>
+    <name xml:lang="sr">Подршка за телефонско умрежавање</name>
+    <name xml:lang="sr@latin">Podrška za telefonsko umrežavanje</name>
+    <name xml:lang="sr@Latn">Podrška za telefonsko umrežavanje</name>
+    <name xml:lang="sv">Stöd för uppringt nätverk</name>
+    <name xml:lang="ta">டயல்-அப் பிணைய ஆதரவு</name>
+    <name xml:lang="ta_IN">டயல்-அப் பிணைய ஆதரவு</name>
+    <name xml:lang="te">డయిల్-అప్ నెట్ వర్కు మద్దతు</name>
+    <name xml:lang="tg">Рақамзании Интернет Dial-up</name>
+    <name xml:lang="tr">Çevirmeli Ağ Desteği</name>
+    <name xml:lang="uk">Комутований доступ до мережі</name>
+    <name xml:lang="uk_UA">Комутований доступ до мережі</name>
+    <name xml:lang="zh">撥號網路支援</name>
+    <name xml:lang="zh_CN">拨号网络支持</name>
+    <name xml:lang="zh_TW">撥號網路支援</name>
+    <description>Tools for connecting via WWAN, PPP or ISDN.</description>
+    <description xml:lang="as">WWAN, PPP বা ISDN ৰে সংযোগ কৰিবলে সঁজুলিসমূহ।</description>
+    <description xml:lang="cs">Nástroje pro připojení pomocí protokolů WWAN, PPP nebo ISDN.</description>
+    <description xml:lang="cs_CZ">Nástroje pro připojení pomocí protokolů WWAN, PPP nebo ISDN.</description>
+    <description xml:lang="de">Werkzeuge zur Verbindung über WWAN, PPP oder ISDN.</description>
+    <description xml:lang="de_CH">Werkzeuge zur Verbindung über WWAN, PPP oder ISDN.</description>
+    <description xml:lang="es">Herramientas para conexión vía WWAN, PPP o ISDN.</description>
+    <description xml:lang="es_ES">Herramientas para conexión vía WWAN, PPP o ISDN.</description>
+    <description xml:lang="fr">Outils de connexion via WWAN, PPP ou ISDN.</description>
+    <description xml:lang="gu">WWAN, PPP અથવા ISDN મારફતે જોડાવા માટેના સાધનો.</description>
+    <description xml:lang="hi">WWAN, PPP या ISDN के द्वारा कनेक्टिंग के लिए औज़ार.</description>
+    <description xml:lang="it">Strumenti per il collegamento tramite WWAN, PPP o ISDN.</description>
+    <description xml:lang="it_IT">Strumenti per il collegamento tramite WWAN, PPP o ISDN.</description>
+    <description xml:lang="ja">WWAN、PPP、または ISDN 経由の接続に使用するツールです。</description>
+    <description xml:lang="ja_JP">WWAN、PPP、または ISDN 経由の接続に使用するツールです。</description>
+    <description xml:lang="kn">WWAN, PPP ಅಥವ ISDN ಮೂಲಕ ಸಂಪರ್ಕಸಾಧಿಸಲು ಬಳಸಲಾಗುವ ಉಪಕರಣಗಳು.</description>
+    <description xml:lang="ko">WWAN, PPP나 ISDN을 통한 연결을 위한 도구.</description>
+    <description xml:lang="ml">ഡബ്ല്യൂഡബ്ല്യൂഎഎന്‍, പിപിപി അല്ലെങ്കില്‍ ഐഎസ്ഡിഎന്‍ മുഖേന കണക്ട് ചെയ്യുന്നതിനുള്ള പ്രയോഗങ്ങള്‍</description>
+    <description xml:lang="mr">WWAN, PPP किंवा ISDN मार्फत जोडणीकरिता साधने.</description>
+    <description xml:lang="or">WWAN, PPP କିମ୍ବା ISDN ମାଧ୍ଯମରେ ସଂଯୋଗ କରିବା ପାଇଁ ସାଧନଗୁଡ଼ିକ।</description>
+    <description xml:lang="pa">WWAN, PPP ਜਾਂ ISDN ਦੁਆਰਾ ਸੰਪਰਕ ਜੋੜਨ ਲਈ ਸੰਦ।</description>
+    <description xml:lang="pl">Narzędzia do łączenia się przez WWAN, PPP lub ISDN.</description>
+    <description xml:lang="ru">Средства подключения через WWAN, PPP, ISDN.</description>
+    <description xml:lang="ru_RU">Средства подключения через WWAN, PPP, ISDN.</description>
+    <description xml:lang="ta">WWAN, PPP அல்லது ISDN வழியாக இணைப்பதற்கான கருவிகள்.</description>
+    <description xml:lang="ta_IN">WWAN, PPP அல்லது ISDN வழியாக இணைப்பதற்கான கருவிகள்.</description>
+    <description xml:lang="te">WWAN, PPP లేదా ISDN ద్వారా అనుసంధానమగుటకు సాధనాలు.</description>
+    <description xml:lang="uk">Програми для встановлення з’єднання за допомогою WWAN, PPP або ISDN.</description>
+    <description xml:lang="uk_UA">Програми для встановлення з’єднання за допомогою WWAN, PPP або ISDN.</description>
+    <description xml:lang="zh">用來透過 WWAN、PPP 或是 ISDN 連線的工具</description>
+    <description xml:lang="zh_CN">通过 WWAN、PPP 或者 ISDN 连接的工具。</description>
+    <description xml:lang="zh_TW">用來透過 WWAN、PPP 或是 ISDN 連線的工具</description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq type="mandatory">lrzsz</packagereq>
+      <packagereq type="mandatory">ModemManager</packagereq>
+      <packagereq type="mandatory">NetworkManager-adsl</packagereq>
+      <packagereq type="mandatory">NetworkManager-ppp</packagereq>
+      <packagereq type="mandatory">ppp</packagereq>
+      <packagereq type="mandatory">usb_modeswitch-data</packagereq>
+      <packagereq type="mandatory">wvdial</packagereq>
+      <packagereq type="optional">efax</packagereq>
+      <packagereq type="optional">isdn4k-utils</packagereq>
+      <packagereq type="optional">minicom</packagereq>
+      <packagereq type="optional">pptp</packagereq>
+      <packagereq type="optional">rp-pppoe</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>directory-client</id>
+    <name>Directory Client</name>
+    <name xml:lang="as">ডাইৰেকটৰি ক্লাএন্ট</name>
+    <name xml:lang="bn">ডিরেক্টরি ক্লায়েন্ট</name>
+    <name xml:lang="bn_IN">ডিরেক্টরি ক্লায়েন্ট</name>
+    <name xml:lang="cs">klient LDAP</name>
+    <name xml:lang="cs_CZ">klient LDAP</name>
+    <name xml:lang="de">Verzeichnis-Client</name>
+    <name xml:lang="de_CH">Verzeichnis-Client</name>
+    <name xml:lang="es">Cliente de directorio</name>
+    <name xml:lang="es_ES">Cliente de directorio</name>
+    <name xml:lang="eu">Direktorio-bezeroa</name>
+    <name xml:lang="eu_ES">Direktorio-bezeroa</name>
+    <name xml:lang="fr">Client LDAP</name>
+    <name xml:lang="gu">ડિરેક્ટરી ક્લાયન્ટ</name>
+    <name xml:lang="hi">निर्देशिका क्लाइंट</name>
+    <name xml:lang="ia">Cliente de directorio</name>
+    <name xml:lang="it">Directory Client</name>
+    <name xml:lang="it_IT">Directory Client</name>
+    <name xml:lang="ja">ディレクトリー接続クライアント</name>
+    <name xml:lang="ja_JP">ディレクトリー接続クライアント</name>
+    <name xml:lang="kn">ಡಿರೆಕ್ಟರಿ ಕ್ಲೈಂಟ್</name>
+    <name xml:lang="ko">디렉터리 클라이언트</name>
+    <name xml:lang="ml">ഡയറക്ടറി ക്ലയന്റ്</name>
+    <name xml:lang="mr">डिरेक्ट्री क्लाएंट</name>
+    <name xml:lang="or">ଡିରେକ୍ଟୋରୀ କ୍ଲାଏଣ୍ଟ</name>
+    <name xml:lang="pa">ਡਾਇਰੈਕਟਰੀ ਕਲਾਈਂਟ</name>
+    <name xml:lang="pl">Klient katalogu</name>
+    <name xml:lang="ru">Клиент каталогов</name>
+    <name xml:lang="ru_RU">Клиент каталогов</name>
+    <name xml:lang="sv">Katalogklient</name>
+    <name xml:lang="ta">அடைவு வாடிக்கையாளர்</name>
+    <name xml:lang="ta_IN">அடைவு வாடிக்கையாளர்</name>
+    <name xml:lang="te">డైరెక్టరీ క్లైంట్</name>
+    <name xml:lang="uk">Клієнт служби каталогів</name>
+    <name xml:lang="uk_UA">Клієнт служби каталогів</name>
+    <name xml:lang="zh">目錄客戶端</name>
+    <name xml:lang="zh_CN">目录客户端</name>
+    <name xml:lang="zh_TW">目錄客戶端</name>
+    <description>Clients for integration into a network managed by a directory service.</description>
+    <description xml:lang="as">নেটৱাৰ্ক দ্বাৰা পৰিচালিত ডাইৰেকটৰি সেৱাৰ সৈতে অনুকলনৰ বাবে ব্যৱহাৰযোগ্য ক্লাএন্ট।</description>
+    <description xml:lang="bn">নেটওয়ার্ক দ্বারা পরিচালিত ডিরেক্টরি পরিসেবার সাথে একত্রিকরণের জন্য ব্যবহারযোগ্য ক্লায়েন্ট।</description>
+    <description xml:lang="bn_IN">নেটওয়ার্ক দ্বারা পরিচালিত ডিরেক্টরি পরিসেবার সাথে একত্রিকরণের জন্য ব্যবহারযোগ্য ক্লায়েন্ট।</description>
+    <description xml:lang="cs">Klienti pro integraci do sítí spravovaných adresářovou službou.</description>
+    <description xml:lang="cs_CZ">Klienti pro integraci do sítí spravovaných adresářovou službou.</description>
+    <description xml:lang="de">Clients zur Integration in ein via Directory Service verwaltetes Netzwerk.</description>
+    <description xml:lang="de_CH">Clients zur Integration in ein via Directory Service verwaltetes Netzwerk.</description>
+    <description xml:lang="es">Clientes para integración en una red administrada por un servicio de directorio.</description>
+    <description xml:lang="es_ES">Clientes para integración en una red administrada por un servicio de directorio.</description>
+    <description xml:lang="fr">Clients pour intégration dans un réseau géré par un service répertoire.</description>
+    <description xml:lang="gu">ડિરેક્ટરી સેવા દ્દારા સંચાલિત થયેલ નેટવર્કમાં એકત્રીકરણ માટે ક્લાયન્ટો.</description>
+    <description xml:lang="hi">निर्देशिका सेवा के द्वारा प्रबंधित संजाल में एकीकरण के लिए क्लाइंट.</description>
+    <description xml:lang="ia">Clientes pro integrar a un rete administrate per un servicio de directorio.</description>
+    <description xml:lang="it">Client per l'integrazione in una rete gestita da un servizio della directory.</description>
+    <description xml:lang="it_IT">Client per l'integrazione in una rete gestita da un servizio della directory.</description>
+    <description xml:lang="ja">ディレクトリーサービスによって管理されるネットワークに統合するための接続クライアントです。</description>
+    <description xml:lang="ja_JP">ディレクトリーサービスによって管理されるネットワークに統合するための接続クライアントです。</description>
+    <description xml:lang="kn">ಡಿರೆಕ್ಟರಿ ಸೇವೆಯಿಂದ ನಿರ್ವಹಿಸಲಾಗುತ್ತಿರುವ ಜಾಲಬಂಧದೊಂದಿಗೆ ಸೇರ್ಪಡಿಸುವ ಕ್ಲೈಂಟ್‌ಗಳು.</description>
+    <description xml:lang="ko">디렉터리 서비스에 의해 관리되는 네트워크에 통합하기 위한 클라이언트</description>
+    <description xml:lang="ml">ഒരു ഡയറക്ടറി സര്‍വീസ് കൈകാര്യം ചെയ്യുന്ന നെറ്റ്‌വര്‍ക്കിലേക്ക് ചേര്‍ക്കുന്നതിനുള്ള ക്ലയന്റുകള്‍.</description>
+    <description xml:lang="mr">डिरेक्ट्री सर्व्हिस द्वारे व्यवस्थापीत नेटवर्कमध्ये एकत्रीत करण्यासाठी क्लाएंट्स्.</description>
+    <description xml:lang="or">ଡିରେକ୍ଟୋରୀ ସର୍ଭିସ ଦ୍ୱାରା ପରିଚାଳିତ ନେଟୱର୍କ ଭିତରେ ସଂଯୁକ୍ତ କରିବା ପାଇଁ କ୍ଲାଏଣ୍ଟ।</description>
+    <description xml:lang="pa">ਡਾਇਰੈਕਟਰੀ ਸਰਵਿਸ ਦੁਆਰਾ ਪਰਬੰਧਿਤ ਨੈੱਟਵਰਕ ਨਾਲ ਜੁੜਨ ਲਈ ਕਲਾਂਈਟ।</description>
+    <description xml:lang="pl">Klienci do integrowania z siecią zarządzaną przez usługę katalogu.</description>
+    <description xml:lang="ru">Клиенты для интеграции с сетью под управлением службы каталогов.</description>
+    <description xml:lang="ru_RU">Клиенты для интеграции с сетью под управлением службы каталогов.</description>
+    <description xml:lang="sv">Klienter för integrering i ett nätverk som hanteras med en katalogtjänst.</description>
+    <description xml:lang="ta">ஒரு அடைவு சேவையால் பராமரிக்கப்பட்ட ஒரு பிணையத்தின் ஒருமைபாட்டிற்கான வாடிக்கையாளர்கள்</description>
+    <description xml:lang="ta_IN">ஒரு அடைவு சேவையால் பராமரிக்கப்பட்ட ஒரு பிணையத்தின் ஒருமைபாட்டிற்கான வாடிக்கையாளர்கள்</description>
+    <description xml:lang="te">డైరెక్టరీ సేవ ద్వారా నిర్వహించబడుచున్న నెట్వర్కులోనికి విలీనం చెందుటకు క్లైంట్లు.</description>
+    <description xml:lang="uk">Клієнтські програми для інтеграції до мережі, якою керує служба каталогів.</description>
+    <description xml:lang="uk_UA">Клієнтські програми для інтеграції до мережі, якою керує служба каталогів.</description>
+    <description xml:lang="zh">用來整合入一個由目錄服務所管理的網路的客戶端。</description>
+    <description xml:lang="zh_CN">用于整合到使用目录服务管理的网络的客户端。</description>
+    <description xml:lang="zh_TW">用來整合入一個由目錄服務所管理的網路的客戶端。</description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq type="default">adcli</packagereq>
+      <packagereq type="default">certmonger</packagereq>
+      <packagereq type="default">ipa-client</packagereq>
+      <packagereq type="default">oddjob-mkhomedir</packagereq>
+      <packagereq type="default">realmd</packagereq>
+      <packagereq type="default">sssd</packagereq>
+      <packagereq type="optional">clevis-dracut</packagereq>
+      <packagereq type="optional">clevis-udisks2</packagereq>
+      <packagereq type="optional">krb5-pkinit</packagereq>
+      <packagereq type="optional">krb5-workstation</packagereq>
+      <packagereq type="optional">ldapjdk</packagereq>
+      <packagereq type="optional">luksmeta</packagereq>
+      <packagereq type="optional">nscd</packagereq>
+      <packagereq type="optional">nss-pam-ldapd</packagereq>
+      <packagereq type="optional">openldap-clients</packagereq>
+      <packagereq type="optional">pam_krb5</packagereq>
+      <packagereq type="optional">samba-winbind</packagereq>
+      <packagereq type="optional">samba-winbind-clients</packagereq>
+      <packagereq type="optional">sssd-dbus</packagereq>
+      <packagereq type="optional">sssd-kcm</packagereq>
+      <packagereq type="optional">sssd-polkit-rules</packagereq>
+      <packagereq type="optional">sssd-tools</packagereq>
+      <packagereq type="optional">sssd-winbind-idmap</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>fonts</id>
+    <name>Fonts</name>
+    <name xml:lang="ar">خطوط</name>
+    <name xml:lang="as">ফন্টসমূহ</name>
+    <name xml:lang="bal">فونت آن</name>
+    <name xml:lang="bg">Шрифтове</name>
+    <name xml:lang="bn">ফন্ট</name>
+    <name xml:lang="bn_IN">ফন্ট</name>
+    <name xml:lang="ca">Tipus de lletra</name>
+    <name xml:lang="cs">Sada fontů</name>
+    <name xml:lang="cs_CZ">Sada fontů</name>
+    <name xml:lang="da">Skrifttyper</name>
+    <name xml:lang="de">Schriftarten</name>
+    <name xml:lang="de_CH">Schriftarten</name>
+    <name xml:lang="el">Γραμματοσειρές</name>
+    <name xml:lang="es">Fuentes</name>
+    <name xml:lang="es_ES">Fuentes</name>
+    <name xml:lang="et">Kirjatüübid (fondid)</name>
+    <name xml:lang="eu">Letra-tipoak</name>
+    <name xml:lang="eu_ES">Letra-tipoak</name>
+    <name xml:lang="fi">Kirjasimet</name>
+    <name xml:lang="fr">Police</name>
+    <name xml:lang="gu">ફોન્ટ</name>
+    <name xml:lang="he">גופנים</name>
+    <name xml:lang="hi">फ़ॉन्ट</name>
+    <name xml:lang="hu">Betűkészletek</name>
+    <name xml:lang="ia">Characteres</name>
+    <name xml:lang="id">Huruf</name>
+    <name xml:lang="is">Letur</name>
+    <name xml:lang="it">Caratteri</name>
+    <name xml:lang="it_IT">Caratteri</name>
+    <name xml:lang="ja">フォント</name>
+    <name xml:lang="ja_JP">フォント</name>
+    <name xml:lang="kn">ಅಕ್ಷರಶೈಲಿಗಳು</name>
+    <name xml:lang="ko">폰트</name>
+    <name xml:lang="lv">Fonti</name>
+    <name xml:lang="mai">फान्ट्स</name>
+    <name xml:lang="ml">ലിപികള്‍</name>
+    <name xml:lang="mr">फॉन्ट</name>
+    <name xml:lang="ms">Font</name>
+    <name xml:lang="ms_MY">Font</name>
+    <name xml:lang="nb">Skrifter</name>
+    <name xml:lang="ne">फन्ट</name>
+    <name xml:lang="nl">Lettertypes</name>
+    <name xml:lang="or">ଅକ୍ଷରରୂପଗୁଡ଼ିକ</name>
+    <name xml:lang="pa">ਫੌਂਟ</name>
+    <name xml:lang="pl">Czcionki</name>
+    <name xml:lang="pt">Tipos de Letra</name>
+    <name xml:lang="pt_BR">Tipos de Letra</name>
+    <name xml:lang="ru">Шрифты</name>
+    <name xml:lang="ru_RU">Шрифты</name>
+    <name xml:lang="sk">Písma</name>
+    <name xml:lang="sr">Фонтови</name>
+    <name xml:lang="sr@latin">Fontovi</name>
+    <name xml:lang="sr@Latn">Fontovi</name>
+    <name xml:lang="sv">Typsnitt</name>
+    <name xml:lang="ta">எழுத்துருக்கள்</name>
+    <name xml:lang="ta_IN">எழுத்துருக்கள்</name>
+    <name xml:lang="te">ఫాంట్లు</name>
+    <name xml:lang="tg">Ҳарфҳо</name>
+    <name xml:lang="th">แบบอักษร</name>
+    <name xml:lang="uk">Шрифти</name>
+    <name xml:lang="uk_UA">Шрифти</name>
+    <name xml:lang="zh">字型</name>
+    <name xml:lang="zh_CN">字体</name>
+    <name xml:lang="zh_TW">字型</name>
+    <description>Fonts for rendering text in a variety of languages and scripts.</description>
+    <description xml:lang="as">বিভিন্ন ভাষা আৰু লিপিত লিখা টেক্সট ৰেন্ডাৰ কৰিবলৈ ব্যৱহৃত ফন্ট সঁজুলিসমূহ।</description>
+    <description xml:lang="bn">বিভিন্ন ভাষা ও লীপিতে লেখা টেক্সট রেন্ডার করতে ব্যবহৃত ফন্ট প্যাকেজ।</description>
+    <description xml:lang="bn_IN">বিভিন্ন ভাষা ও লীপিতে লেখা টেক্সট রেন্ডার করতে ব্যবহৃত ফন্ট প্যাকেজ।</description>
+    <description xml:lang="cs">Fonty pro zobrazování textu v různých jazycích a zápisech.</description>
+    <description xml:lang="cs_CZ">Fonty pro zobrazování textu v různých jazycích a zápisech.</description>
+    <description xml:lang="de">Font-Pakete für das Rendering von Text in einer Vielfalt von Sprachen und Skripten.</description>
+    <description xml:lang="de_CH">Font-Pakete für das Rendering von Text in einer Vielfalt von Sprachen und Skripten.</description>
+    <description xml:lang="es">Paquetes de tipos de letra para crear una variedad de idiomas y scripts.</description>
+    <description xml:lang="es_ES">Paquetes de tipos de letra para crear una variedad de idiomas y scripts.</description>
+    <description xml:lang="fr">Polices pour la restitution de textes dans un éventail de langues et scripts.</description>
+    <description xml:lang="gu">ભાષાઓ અને સ્ક્રિપ્ટોની વિવિધતામાં રેન્ડરિંગ લખાણ માટે ફોન્ટો.</description>
+    <description xml:lang="hi">विभिन्न भाषा और स्क्रिप्ट में पाठ रेंडरिंग के लिए फ़ॉन्ट.</description>
+    <description xml:lang="ia">Characteres pro render texto in varie linguas e scriptos.</description>
+    <description xml:lang="it">Caratteri per la rappresentazione del testo in una varietà di lingue e script.</description>
+    <description xml:lang="it_IT">Caratteri per la rappresentazione del testo in una varietà di lingue e script.</description>
+    <description xml:lang="ja">異なる言語やスクリプトにテキストをレンダリングするためのフォント</description>
+    <description xml:lang="ja_JP">異なる言語やスクリプトにテキストをレンダリングするためのフォント</description>
+    <description xml:lang="kn">ಹಲವಾರು ಭಾಷೆಗಳು ಹಾಗು ಲಿಪಿಗಳಲ್ಲಿ ಪಠ್ಯವನ್ನು ರೆಂಡರ್ ಮಾಡುವ ಅಕ್ಷರಶೈಲಿಗಳು.</description>
+    <description xml:lang="ko">여러 언어와 문자에서 텍스트를 표시하기 위한 폰트</description>
+    <description xml:lang="ml">അനവധി ഭാഷകളിലും സ്ക്രിപ്റ്റുകളിലും വാക്യം റെണ്ടര്‍ ചെയ്യുവാനുള്ള അക്ഷരസഞ്ചയങ്ങള്‍.</description>
+    <description xml:lang="mr">विविध भाषा व स्क्रिप्टस् मध्ये मजकूर दाखवण्याकरीता फाँट्स्.</description>
+    <description xml:lang="or">ବିଭିନ୍ନ ଭାଷା ଏବଂ ସ୍କ୍ରିପ୍ଟଗୁଡ଼ିକରେ ପାଠ୍ୟ ଚିତ୍ରଣ ପାଇଁ ଅକ୍ଷରରୂପ।</description>
+    <description xml:lang="pa">ਵੱਖ-ਵੱਖ ਭਾਸ਼ਾਵਾਂ ਅਤੇ ਸਕਰਿਪਟਾਂ ਵਿੱਚ ਟੈਕਸਟ ਰੈਂਡਰਿੰਗ ਲਈ ਫੌਂਟ।</description>
+    <description xml:lang="pl">Czcionki do wyświetlania tekstu w różnych językach i pismach.</description>
+    <description xml:lang="ru">Шрифты для отображения текста на различных языках.</description>
+    <description xml:lang="ru_RU">Шрифты для отображения текста на различных языках.</description>
+    <description xml:lang="sv">Typsnitt för att rendera text i ett antal olika språk och alfabeten.</description>
+    <description xml:lang="ta">பல்வேறு மொழிகள் மற்றும் எழுத்துக்களில் உள்ள உரைகளை திரும்ப தருகின்றன.</description>
+    <description xml:lang="ta_IN">பல்வேறு மொழிகள் மற்றும் எழுத்துக்களில் உள்ள உரைகளை திரும்ப தருகின்றன.</description>
+    <description xml:lang="te">పాఠమును వివిధ భాషలనందు మరియు లిపులనందు చూపుటకు ఫాంట్లు.</description>
+    <description xml:lang="uk">Шрифти для показу тексту різними мовами та писемностями.</description>
+    <description xml:lang="uk_UA">Шрифти для показу тексту різними мовами та писемностями.</description>
+    <description xml:lang="zh">用來處理各種語言與 script 中的文字的字型。</description>
+    <description xml:lang="zh_CN">在各种语言和脚本中输入文本的字体。</description>
+    <description xml:lang="zh_TW">用來處理各種語言與 script 中的文字的字型。</description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq type="default">cjkuni-uming-fonts</packagereq>
+      <packagereq type="default">dejavu-sans-fonts</packagereq>
+      <packagereq type="default">dejavu-sans-mono-fonts</packagereq>
+      <packagereq type="default">dejavu-serif-fonts</packagereq>
+      <packagereq type="default">gnu-free-mono-fonts</packagereq>
+      <packagereq type="default">gnu-free-sans-fonts</packagereq>
+      <packagereq type="default">gnu-free-serif-fonts</packagereq>
+      <packagereq type="default">google-crosextra-caladea-fonts</packagereq>
+      <packagereq type="default">google-crosextra-carlito-fonts</packagereq>
+      <packagereq type="default">jomolhari-fonts</packagereq>
+      <packagereq type="default">khmeros-base-fonts</packagereq>
+      <packagereq type="default">liberation-mono-fonts</packagereq>
+      <packagereq type="default">liberation-sans-fonts</packagereq>
+      <packagereq type="default">liberation-serif-fonts</packagereq>
+      <packagereq type="default">lklug-fonts</packagereq>
+      <packagereq type="default">lohit-assamese-fonts</packagereq>
+      <packagereq type="default">lohit-bengali-fonts</packagereq>
+      <packagereq type="default">lohit-devanagari-fonts</packagereq>
+      <packagereq type="default">lohit-gujarati-fonts</packagereq>
+      <packagereq type="default">lohit-kannada-fonts</packagereq>
+      <packagereq type="default">lohit-malayalam-fonts</packagereq>
+      <packagereq type="default">lohit-marathi-fonts</packagereq>
+      <packagereq type="default">lohit-nepali-fonts</packagereq>
+      <packagereq type="default">lohit-oriya-fonts</packagereq>
+      <packagereq type="default">lohit-punjabi-fonts</packagereq>
+      <packagereq type="default">lohit-tamil-fonts</packagereq>
+      <packagereq type="default">lohit-telugu-fonts</packagereq>
+      <packagereq type="default">madan-fonts</packagereq>
+      <packagereq type="default">nhn-nanum-gothic-fonts</packagereq>
+      <packagereq type="default">open-sans-fonts</packagereq>
+      <packagereq type="default">overpass-fonts</packagereq>
+      <packagereq type="default">paktype-naskh-basic-fonts</packagereq>
+      <packagereq type="default">paratype-pt-sans-fonts</packagereq>
+      <packagereq type="default">sil-abyssinica-fonts</packagereq>
+      <packagereq type="default">sil-nuosu-fonts</packagereq>
+      <packagereq type="default">sil-padauk-fonts</packagereq>
+      <packagereq type="default">smc-meera-fonts</packagereq>
+      <packagereq type="default">stix-fonts</packagereq>
+      <packagereq type="default">thai-scalable-waree-fonts</packagereq>
+      <packagereq type="default">ucs-miscfixed-fonts</packagereq>
+      <packagereq type="default">vlgothic-fonts</packagereq>
+      <packagereq type="default">wqy-microhei-fonts</packagereq>
+      <packagereq type="default">wqy-zenhei-fonts</packagereq>
+      <packagereq type="optional">bitmap-fixed-fonts</packagereq>
+      <packagereq type="optional">bitmap-lucida-typewriter-fonts</packagereq>
+      <packagereq type="optional">bpg-chveulebrivi-fonts</packagereq>
+      <packagereq type="optional">bpg-courier-fonts</packagereq>
+      <packagereq type="optional">bpg-glaho-fonts</packagereq>
+      <packagereq type="optional">cjkuni-ukai-fonts</packagereq>
+      <packagereq type="optional">culmus-aharoni-clm-fonts</packagereq>
+      <packagereq type="optional">culmus-caladings-clm-fonts</packagereq>
+      <packagereq type="optional">culmus-david-clm-fonts</packagereq>
+      <packagereq type="optional">culmus-drugulin-clm-fonts</packagereq>
+      <packagereq type="optional">culmus-ellinia-clm-fonts</packagereq>
+      <packagereq type="optional">culmus-frank-ruehl-clm-fonts</packagereq>
+      <packagereq type="optional">culmus-hadasim-clm-fonts</packagereq>
+      <packagereq type="optional">culmus-keteryg-fonts</packagereq>
+      <packagereq type="optional">culmus-miriam-clm-fonts</packagereq>
+      <packagereq type="optional">culmus-miriam-mono-clm-fonts</packagereq>
+      <packagereq type="optional">culmus-nachlieli-clm-fonts</packagereq>
+      <packagereq type="optional">culmus-simple-clm-fonts</packagereq>
+      <packagereq type="optional">culmus-stamashkenaz-clm-fonts</packagereq>
+      <packagereq type="optional">culmus-stamsefarad-clm-fonts</packagereq>
+      <packagereq type="optional">culmus-yehuda-clm-fonts</packagereq>
+      <packagereq type="optional">ghostscript-chinese</packagereq>
+      <packagereq type="optional">google-noto-sans-armenian-fonts</packagereq>
+      <packagereq type="optional">google-noto-sans-devanagari-fonts</packagereq>
+      <packagereq type="optional">google-noto-sans-devanagari-ui-fonts</packagereq>
+      <packagereq type="optional">google-noto-sans-ethiopic-fonts</packagereq>
+      <packagereq type="optional">google-noto-sans-fonts</packagereq>
+      <packagereq type="optional">google-noto-sans-georgian-fonts</packagereq>
+      <packagereq type="optional">google-noto-sans-hebrew-fonts</packagereq>
+      <packagereq type="optional">google-noto-sans-khmer-fonts</packagereq>
+      <packagereq type="optional">google-noto-sans-khmer-ui-fonts</packagereq>
+      <packagereq type="optional">google-noto-sans-lao-fonts</packagereq>
+      <packagereq type="optional">google-noto-sans-lao-ui-fonts</packagereq>
+      <packagereq type="optional">google-noto-sans-tamil-fonts</packagereq>
+      <packagereq type="optional">google-noto-sans-tamil-ui-fonts</packagereq>
+      <packagereq type="optional">google-noto-sans-thai-fonts</packagereq>
+      <packagereq type="optional">google-noto-sans-thai-ui-fonts</packagereq>
+      <packagereq type="optional">google-noto-sans-ui-fonts</packagereq>
+      <packagereq type="optional">google-noto-serif-armenian-fonts</packagereq>
+      <packagereq type="optional">google-noto-serif-fonts</packagereq>
+      <packagereq type="optional">google-noto-serif-georgian-fonts</packagereq>
+      <packagereq type="optional">google-noto-serif-lao-fonts</packagereq>
+      <packagereq type="optional">google-noto-serif-thai-fonts</packagereq>
+      <packagereq type="optional">gubbi-fonts</packagereq>
+      <packagereq type="optional">ipa-gothic-fonts</packagereq>
+      <packagereq type="optional">ipa-mincho-fonts</packagereq>
+      <packagereq type="optional">ipa-pgothic-fonts</packagereq>
+      <packagereq type="optional">ipa-pmincho-fonts</packagereq>
+      <packagereq type="optional">kacst-art-fonts</packagereq>
+      <packagereq type="optional">kacst-book-fonts</packagereq>
+      <packagereq type="optional">kacst-decorative-fonts</packagereq>
+      <packagereq type="optional">kacst-digital-fonts</packagereq>
+      <packagereq type="optional">kacst-farsi-fonts</packagereq>
+      <packagereq type="optional">kacst-letter-fonts</packagereq>
+      <packagereq type="optional">kacst-naskh-fonts</packagereq>
+      <packagereq type="optional">kacst-office-fonts</packagereq>
+      <packagereq type="optional">kacst-one-fonts</packagereq>
+      <packagereq type="optional">kacst-pen-fonts</packagereq>
+      <packagereq type="optional">kacst-poster-fonts</packagereq>
+      <packagereq type="optional">kacst-qurn-fonts</packagereq>
+      <packagereq type="optional">kacst-screen-fonts</packagereq>
+      <packagereq type="optional">kacst-title-fonts</packagereq>
+      <packagereq type="optional">kacst-titlel-fonts</packagereq>
+      <packagereq type="optional">khmeros-battambang-fonts</packagereq>
+      <packagereq type="optional">khmeros-bokor-fonts</packagereq>
+      <packagereq type="optional">khmeros-handwritten-fonts</packagereq>
+      <packagereq type="optional">khmeros-metal-chrieng-fonts</packagereq>
+      <packagereq type="optional">khmeros-muol-fonts</packagereq>
+      <packagereq type="optional">khmeros-siemreap-fonts</packagereq>
+      <packagereq type="optional">kurdit-unikurd-web-fonts</packagereq>
+      <packagereq type="optional">liberation-narrow-fonts</packagereq>
+      <packagereq type="optional">nafees-web-naskh-fonts</packagereq>
+      <packagereq type="optional">navilu-fonts</packagereq>
+      <packagereq type="optional">nhn-nanum-brush-fonts</packagereq>
+      <packagereq type="optional">nhn-nanum-myeongjo-fonts</packagereq>
+      <packagereq type="optional">nhn-nanum-pen-fonts</packagereq>
+      <packagereq type="optional">paktype-naqsh-fonts</packagereq>
+      <packagereq type="optional">paktype-tehreer-fonts</packagereq>
+      <packagereq type="optional">pothana2000-fonts</packagereq>
+      <packagereq type="optional">saab-fonts</packagereq>
+      <packagereq type="optional">samyak-devanagari-fonts</packagereq>
+      <packagereq type="optional">samyak-gujarati-fonts</packagereq>
+      <packagereq type="optional">samyak-malayalam-fonts</packagereq>
+      <packagereq type="optional">samyak-oriya-fonts</packagereq>
+      <packagereq type="optional">samyak-tamil-fonts</packagereq>
+      <packagereq type="optional">smc-anjalioldlipi-fonts</packagereq>
+      <packagereq type="optional">smc-dyuthi-fonts</packagereq>
+      <packagereq type="optional">smc-kalyani-fonts</packagereq>
+      <packagereq type="optional">smc-rachana-fonts</packagereq>
+      <packagereq type="optional">smc-raghumalayalam-fonts</packagereq>
+      <packagereq type="optional">smc-suruma-fonts</packagereq>
+      <packagereq type="optional">thai-scalable-garuda-fonts</packagereq>
+      <packagereq type="optional">thai-scalable-kinnari-fonts</packagereq>
+      <packagereq type="optional">thai-scalable-loma-fonts</packagereq>
+      <packagereq type="optional">thai-scalable-norasi-fonts</packagereq>
+      <packagereq type="optional">thai-scalable-purisa-fonts</packagereq>
+      <packagereq type="optional">thai-scalable-sawasdee-fonts</packagereq>
+      <packagereq type="optional">thai-scalable-tlwgmono-fonts</packagereq>
+      <packagereq type="optional">thai-scalable-tlwgtypewriter-fonts</packagereq>
+      <packagereq type="optional">thai-scalable-tlwgtypist-fonts</packagereq>
+      <packagereq type="optional">thai-scalable-tlwgtypo-fonts</packagereq>
+      <packagereq type="optional">thai-scalable-umpush-fonts</packagereq>
+      <packagereq type="optional">tibetan-machine-uni-fonts</packagereq>
+      <packagereq type="optional">vemana2000-fonts</packagereq>
+      <packagereq type="optional">vlgothic-p-fonts</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>guest-agents</id>
+    <name>Guest Agents</name>
+    <name xml:lang="as">অতিথি সহায়ক</name>
+    <name xml:lang="cs">Agenti pro virtualizované hosty</name>
+    <name xml:lang="cs_CZ">Agenti pro virtualizované hosty</name>
+    <name xml:lang="de">Gast-Agenten</name>
+    <name xml:lang="de_CH">Gast-Agenten</name>
+    <name xml:lang="es">Agentes de huésped</name>
+    <name xml:lang="es_ES">Agentes de huésped</name>
+    <name xml:lang="fr">Agents invités</name>
+    <name xml:lang="gu">મહેમાન એજન્ટો</name>
+    <name xml:lang="hi">अतिथि प्रतिनिधि</name>
+    <name xml:lang="it">Agente guest</name>
+    <name xml:lang="it_IT">Agente guest</name>
+    <name xml:lang="ja">ゲストエージェント</name>
+    <name xml:lang="ja_JP">ゲストエージェント</name>
+    <name xml:lang="kn">ಅತಿಥಿ ಮಧ್ಯವರ್ತಿಗಳು</name>
+    <name xml:lang="ko">게스트 에이전트</name>
+    <name xml:lang="ml">ഗസ്റ്റ് ഏജന്റുകള്‍</name>
+    <name xml:lang="mr">अतिथी अजेंट्स</name>
+    <name xml:lang="or">ଅତିଥି ସଦସ୍ୟମାନେ</name>
+    <name xml:lang="pa">ਪ੍ਰਾਹੁਣੇ ਏਜੰਟ</name>
+    <name xml:lang="pl">Agenty gościa</name>
+    <name xml:lang="ru">Гостевые агенты</name>
+    <name xml:lang="ru_RU">Гостевые агенты</name>
+    <name xml:lang="ta">விருந்தினர் முகவர்கள்</name>
+    <name xml:lang="ta_IN">விருந்தினர் முகவர்கள்</name>
+    <name xml:lang="te">అతిథి ఏజెంట్లు</name>
+    <name xml:lang="uk">Агенти гостьових систем</name>
+    <name xml:lang="uk_UA">Агенти гостьових систем</name>
+    <name xml:lang="zh">客座代理程式</name>
+    <name xml:lang="zh_CN">虚拟机代理</name>
+    <name xml:lang="zh_TW">客座代理程式</name>
+    <description>Agents used when running under a hypervisor.</description>
+    <description xml:lang="as">এটা হাইপাৰভাইছৰৰ অন্তৰ্গত চলোতে ব্যৱহৃত সহায়কসমূহ।</description>
+    <description xml:lang="cs">Nástroje používané při virtualizaci s hypervizorem.</description>
+    <description xml:lang="cs_CZ">Nástroje používané při virtualizaci s hypervizorem.</description>
+    <description xml:lang="de">Verwendete Agenten bei Ausführung unter einem Hypervisor.</description>
+    <description xml:lang="de_CH">Verwendete Agenten bei Ausführung unter einem Hypervisor.</description>
+    <description xml:lang="es">Agentes utilizados al ejecutarse en un hipervisor.</description>
+    <description xml:lang="es_ES">Agentes utilizados al ejecutarse en un hipervisor.</description>
+    <description xml:lang="fr">Agents utilisés lors d'une exécution sous un hyperviseur.</description>
+    <description xml:lang="gu">હાયપરવાઇઝર હેઠળ ચલાવી રહ્યા હોય ત્યારે વપરાતા એજન્ટો.</description>
+    <description xml:lang="hi">हाइपरविज़र के अंतर्गत प्रयुक्त होने वाले प्रतिनिधि.</description>
+    <description xml:lang="it">Agenti usati durante l'esecuzione con un hypervisor.</description>
+    <description xml:lang="it_IT">Agenti usati durante l'esecuzione con un hypervisor.</description>
+    <description xml:lang="ja">ハイパーバイザー配下で稼働する場合に使用するエージェントです。</description>
+    <description xml:lang="ja_JP">ハイパーバイザー配下で稼働する場合に使用するエージェントです。</description>
+    <description xml:lang="kn">ಒಂದು ಹೈಪರ್ವೈಸರಿನ ಅಡಿಯಲ್ಲಿ ಚಲಾಯಿತಗೊಳ್ಳುವಾಗ ಬಳಸಲಾಗುವ ಮಧ್ಯವರ್ತಿಗಳು.</description>
+    <description xml:lang="ko">하이퍼바이저에서 실행 시 사용되는 에이전트</description>
+    <description xml:lang="ml">ഒരു ഹൈപ്പര്‍വൈസറില്‍ പ്രവര്‍ത്തിയ്ക്കുമ്പോള്‍ ഉപയോഗിയ്ക്കുന്ന ഏജന്റുകള്‍.</description>
+    <description xml:lang="mr">हाइपरवाजर अंतर्गत चालवतेवेळी वापरण्याजोगी एजंट्स.</description>
+    <description xml:lang="or">ଏକ ହାଇପରଭାଇଜର ଅନ୍ତର୍ଗତରେ ଚଲାଉଥିବା ସମୟରେ ବ୍ୟବହୃତ ସଦସ୍ୟମାନେ।</description>
+    <description xml:lang="pa">ਜਦੋਂ ਹਾਈਪਰਵਾਈਜ਼ਰ ਹੇਠਾਂ ਚਲਾਏ ਜਾਣ ਤਾਂ ਵਰਤੇ ਜਾਂਦੇ ਏਜੰਟ।</description>
+    <description xml:lang="pl">Agenty używane podczas działania pod nadzorcą.</description>
+    <description xml:lang="ru">Агенты, работающие под управлением гипервизора.</description>
+    <description xml:lang="ru_RU">Агенты, работающие под управлением гипервизора.</description>
+    <description xml:lang="ta">ஒரு ஹைப்பர்வைசரின் கீழ் இயக்கப்படும் போது பயன்படுத்தப்படும் முகவர்கள்.</description>
+    <description xml:lang="ta_IN">ஒரு ஹைப்பர்வைசரின் கீழ் இயக்கப்படும் போது பயன்படுத்தப்படும் முகவர்கள்.</description>
+    <description xml:lang="te">హైపర్విజర్ కిందన నడుస్తున్నప్పుడు అతిథులు ఉపయోగించబడును.</description>
+    <description xml:lang="uk">Агенти, що використовуються під час роботи під керування гіпервізора.</description>
+    <description xml:lang="uk_UA">Агенти, що використовуються під час роботи під керування гіпервізора.</description>
+    <description xml:lang="zh">在 hypervisor 下執行時所使用的代理程式。</description>
+    <description xml:lang="zh_CN">在 hypervisor 中运行时使用的代理。</description>
+    <description xml:lang="zh_TW">在 hypervisor 下執行時所使用的代理程式。</description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq type="mandatory">hyperv-daemons</packagereq>
+      <packagereq type="mandatory">open-vm-tools</packagereq>
+      <packagereq type="mandatory">qemu-guest-agent</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>guest-desktop-agents</id>
+    <name>Guest Desktop Agents</name>
+    <name xml:lang="as">অতিথি ডেস্কটপ সহায়কসমূহ</name>
+    <name xml:lang="cs">Agenti pro pracovní prostředí hostů</name>
+    <name xml:lang="cs_CZ">Agenti pro pracovní prostředí hostů</name>
+    <name xml:lang="de">Gast-Desktop-Agenten</name>
+    <name xml:lang="de_CH">Gast-Desktop-Agenten</name>
+    <name xml:lang="es">Agentes de escritorio de huésped</name>
+    <name xml:lang="es_ES">Agentes de escritorio de huésped</name>
+    <name xml:lang="fr">Agents de bureau invités</name>
+    <name xml:lang="gu">મહેમાન ડૅસ્કટોપ એજન્ટો</name>
+    <name xml:lang="hi">अतिथि डेस्कटॉप प्रतिनिधि</name>
+    <name xml:lang="it">Agenti desktop del guest</name>
+    <name xml:lang="it_IT">Agenti desktop del guest</name>
+    <name xml:lang="ja">ゲストデスクトップエージェント</name>
+    <name xml:lang="ja_JP">ゲストデスクトップエージェント</name>
+    <name xml:lang="kn">ಅತಿಥಿ ಗಣಕತೆರೆ ಮಧ್ಯವರ್ತಿಗಳು</name>
+    <name xml:lang="ko">게스트 데스크탑 에이전트</name>
+    <name xml:lang="ml">ഗസ്റ്റ് പണിയിടത്തിനുള്ള ഏജന്റുകള്‍</name>
+    <name xml:lang="mr">अतिथी डेस्कटॉप एजंट्स</name>
+    <name xml:lang="or">ଅତିଥି ଡେସ୍କଟପ ସଦସ୍ୟମାନେ</name>
+    <name xml:lang="pa">ਪ੍ਰਾਹੁਣੇ ਡੈਸਕਟਾਪ ਏਜੰਟ</name>
+    <name xml:lang="pl">Agenty pulpitu gościa</name>
+    <name xml:lang="ru">Агенты гостевого рабочего стола</name>
+    <name xml:lang="ru_RU">Агенты гостевого рабочего стола</name>
+    <name xml:lang="ta">விருந்தினர் பணிமேடை முகவர்கள்</name>
+    <name xml:lang="ta_IN">விருந்தினர் பணிமேடை முகவர்கள்</name>
+    <name xml:lang="te">అతిథి డెస్కుటాప్ ఏజెంట్లు</name>
+    <name xml:lang="uk">Стільничні агенти гостьових систем</name>
+    <name xml:lang="uk_UA">Стільничні агенти гостьових систем</name>
+    <name xml:lang="zh">客座桌面環境代理程式</name>
+    <name xml:lang="zh_CN">虚拟机桌面代理</name>
+    <name xml:lang="zh_TW">客座桌面環境代理程式</name>
+    <description>Agents used when running as a virtualized desktop.</description>
+    <description xml:lang="as">এটা ভাৰছুৱেলাইজ্ড ডেস্কটপ ৰূপে চলোতে ব্যৱহৃত সহায়কসমূহ।</description>
+    <description xml:lang="cs">Nástroje používané s virtualizovaným pracovním prostředím.</description>
+    <description xml:lang="cs_CZ">Nástroje používané s virtualizovaným pracovním prostředím.</description>
+    <description xml:lang="de">Verwendete Agenten bei Ausführung als virtualisierter Desktop.</description>
+    <description xml:lang="de_CH">Verwendete Agenten bei Ausführung als virtualisierter Desktop.</description>
+    <description xml:lang="es">Agentes utilizados cuando se ejecutan como un escritorio virtualizado.</description>
+    <description xml:lang="es_ES">Agentes utilizados cuando se ejecutan como un escritorio virtualizado.</description>
+    <description xml:lang="fr">Agents utilisés lors d'une exécution en tant que bureau virtualisé.</description>
+    <description xml:lang="gu">વર્ચ્યુઅલાઇઝ્ડ ડેસ્કટોપ તરીકે ચલાવતી વખતે વપરાતા એજન્ટો.</description>
+    <description xml:lang="hi">प्रतिनिधि प्रयुक्त जब बतौर वर्चुअलाइज्ड डेस्कटॉप चले.</description>
+    <description xml:lang="it">Agenti usati durante l'esecuzione come desktop virtualizzato.</description>
+    <description xml:lang="it_IT">Agenti usati durante l'esecuzione come desktop virtualizzato.</description>
+    <description xml:lang="ja">仮想化したデスクトップとして稼働する場合に使用するエージェントです。</description>
+    <description xml:lang="ja_JP">仮想化したデスクトップとして稼働する場合に使用するエージェントです。</description>
+    <description xml:lang="kn">ವರ್ಚುವಲ್ ಆದ ಗಣಕತೆರೆಯಾಗಿ ಚಲಾಯಿತಗೊಳ್ಳುವಾಗ ಬಳಸಲಾಗುವ ಮಧ್ಯವರ್ತಿಗಳು.</description>
+    <description xml:lang="ko">가상화 데스크탑으로 실행할 때 사용되는 에이전트</description>
+    <description xml:lang="ml">ഒരു വിര്‍ച്ച്വലൈസ്ഡ് പണിയിടമായി പ്രവര്‍ത്തിയ്ക്കുമ്പോള്‍ ഉപയോഗിയ്ക്കുന്ന ഏജന്റുകള്‍</description>
+    <description xml:lang="mr">वर्च्युअलाइज्ड डेस्कटॉप अंतर्गत चालवतेवेळी वापरण्याजोगी एजंट्स.</description>
+    <description xml:lang="or">ଆଭାସୀ ଡେସ୍କଟପ ଭାବରେ ଚଲାଉଥିବା ସମୟରେ ବ୍ୟବହୃତ ସଦସ୍ୟ।</description>
+    <description xml:lang="pa">ਜਦੋਂ ਆਭਾਸੀਕ੍ਰਿਤ ਡੈਸਕਟਾਪ ਵਜੋਂ ਚਲਾਏ ਜਾਣ ਤਾਂ ਵਰਤੇ ਜਾਂਦੇ ਏਜੰਟ।</description>
+    <description xml:lang="pl">Agenty używane podczas działania jako wirtualizowane środowisko graficzne.</description>
+    <description xml:lang="ru">Агенты виртуального рабочего стола.</description>
+    <description xml:lang="ru_RU">Агенты виртуального рабочего стола.</description>
+    <description xml:lang="ta">ஒரு மெய்நிகராக்கப்பட்ட பணிமேடையாக இயக்கப்படும் போது பயன்படுத்தப்படும் முகவர்கள்.</description>
+    <description xml:lang="ta_IN">ஒரு மெய்நிகராக்கப்பட்ட பணிமேடையாக இயக்கப்படும் போது பயன்படுத்தப்படும் முகவர்கள்.</description>
+    <description xml:lang="te">వర్చ్యులైజ్డు డెస్కుటాప్ వలె నడుచుచున్నప్పుడు ఏజెంట్లు ఉపయోగించబడెను.</description>
+    <description xml:lang="uk">Агенти, що використовуються під час роботи у режимі віртуалізованої стільниці.</description>
+    <description xml:lang="uk_UA">Агенти, що використовуються під час роботи у режимі віртуалізованої стільниці.</description>
+    <description xml:lang="zh">以虛擬化桌面環境執行時所使用的代理程式。</description>
+    <description xml:lang="zh_CN">作为虚拟桌面运行时使用的代理。</description>
+    <description xml:lang="zh_TW">以虛擬化桌面環境執行時所使用的代理程式。</description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq type="mandatory">open-vm-tools-desktop</packagereq>
+      <packagereq type="mandatory">qemu-guest-agent</packagereq>
+      <packagereq type="mandatory">spice-vdagent</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>input-methods</id>
+    <name>Input Methods</name>
+    <name xml:lang="ar">طرق الإدخال</name>
+    <name xml:lang="as">ইনপুট পদ্ধতিসমূহ</name>
+    <name xml:lang="bn">ইনপুট পদ্ধতি</name>
+    <name xml:lang="bn_IN">ইনপুট পদ্ধতি</name>
+    <name xml:lang="ca">Mètodes d'entrada</name>
+    <name xml:lang="cs">Vstupní metody</name>
+    <name xml:lang="cs_CZ">Vstupní metody</name>
+    <name xml:lang="da">Inddatametoder</name>
+    <name xml:lang="de">Eingabemethoden</name>
+    <name xml:lang="de_CH">Eingabemethoden</name>
+    <name xml:lang="el">Μέθοδοι εισαγωγής</name>
+    <name xml:lang="es">Métodos de Entrada</name>
+    <name xml:lang="es_ES">Métodos de Entrada</name>
+    <name xml:lang="et">Sisendmeetodid</name>
+    <name xml:lang="fi">Syöttömenetelmät</name>
+    <name xml:lang="fr">Méthodes de saisie</name>
+    <name xml:lang="gu">ઇનપુટ પદ્દતિઓ</name>
+    <name xml:lang="he">שיטות קלט</name>
+    <name xml:lang="hi">इनपुट विधि</name>
+    <name xml:lang="hu">Bevitel eljárások</name>
+    <name xml:lang="ia">Methodos de entrata</name>
+    <name xml:lang="id">Metoda Input</name>
+    <name xml:lang="is">Innsetningaraðferðir</name>
+    <name xml:lang="it">Metodi di input</name>
+    <name xml:lang="it_IT">Metodi di input</name>
+    <name xml:lang="ja">入力メソッド</name>
+    <name xml:lang="ja_JP">入力メソッド</name>
+    <name xml:lang="kn">ಇನ್‌ಪುಟ್ ವಿಧಾನಗಳು</name>
+    <name xml:lang="ko">입력 방식</name>
+    <name xml:lang="lv">Ievades metodes</name>
+    <name xml:lang="mai">इनपुट पद्धति</name>
+    <name xml:lang="ml">ഇന്‍പുട്ട് രീതികള്‍</name>
+    <name xml:lang="mr">इंपुट पध्दती</name>
+    <name xml:lang="nb">Inndatametoder</name>
+    <name xml:lang="nl">Invoermethoden</name>
+    <name xml:lang="or">ନିବେଶ ପଦ୍ଧତି</name>
+    <name xml:lang="pa">ਇੰਪੁੰਟ ਢੰਗ</name>
+    <name xml:lang="pl">Metody wprowadzania</name>
+    <name xml:lang="pt">Métodos de Introdução de Dados</name>
+    <name xml:lang="pt_BR">Métodos de Introdução de Dados</name>
+    <name xml:lang="ru">Методы ввода</name>
+    <name xml:lang="ru_RU">Методы ввода</name>
+    <name xml:lang="sk">Metódy vstupu</name>
+    <name xml:lang="sr">Методе уноса</name>
+    <name xml:lang="sr@latin">Metode unosa</name>
+    <name xml:lang="sr@Latn">Metode unosa</name>
+    <name xml:lang="sv">Inmatningsmetoder</name>
+    <name xml:lang="ta">உள்ளீடு முறைகள்</name>
+    <name xml:lang="ta_IN">உள்ளீடு முறைகள்</name>
+    <name xml:lang="te">ఎగుబడి పద్దతులు</name>
+    <name xml:lang="tg">Услубҳои воридотӣ</name>
+    <name xml:lang="th">วิธีป้อนข้อความ</name>
+    <name xml:lang="uk">Методи вводу</name>
+    <name xml:lang="uk_UA">Методи вводу</name>
+    <name xml:lang="zh">輸入法</name>
+    <name xml:lang="zh_CN">输入法</name>
+    <name xml:lang="zh_TW">輸入法</name>
+    <description>Software for the input of international text.</description>
+    <description xml:lang="as">বিভিন্ন আন্তৰ্জাতিক ভাষাত লিখাৰ বাবে প্ৰয়োজনীয় চফ্টৱেৰ।</description>
+    <description xml:lang="bn">বিভিন্ন আন্তর্জাতিক ভাষায় লেখার জন্য প্রয়োজনীয় সফ্টওয়্যার।</description>
+    <description xml:lang="bn_IN">বিভিন্ন আন্তর্জাতিক ভাষায় লেখার জন্য প্রয়োজনীয় সফ্টওয়্যার।</description>
+    <description xml:lang="cs">Vstupní metody pro podporu exotických jazyků s obrázkovým písmem (např. japonština, korejština, čínština).</description>
+    <description xml:lang="cs_CZ">Vstupní metody pro podporu exotických jazyků s obrázkovým písmem (např. japonština, korejština, čínština).</description>
+    <description xml:lang="de">Software zur Eingabe von internationalem Text.</description>
+    <description xml:lang="de_CH">Software zur Eingabe von internationalem Text.</description>
+    <description xml:lang="es">Paquetes de métodos de entrada de texto internacional.</description>
+    <description xml:lang="es_ES">Paquetes de métodos de entrada de texto internacional.</description>
+    <description xml:lang="fr">Logiciel pour la saisie de texte international.</description>
+    <description xml:lang="gu">આંતરરાષ્ટ્રીય લખાણનાં ઇનપુટ માટે સોફ્ટવેર.</description>
+    <description xml:lang="hi">अंतरराष्ट्रीय पाठ की इनपुट के लिए सॉफ्टवेयर.</description>
+    <description xml:lang="ia">Software pro le entrata de texto international.</description>
+    <description xml:lang="it">Software per l'inserimento di testo internazionale.</description>
+    <description xml:lang="it_IT">Software per l'inserimento di testo internazionale.</description>
+    <description xml:lang="ja">国際的なテキストを入力するためのソフトウェアです。</description>
+    <description xml:lang="ja_JP">国際的なテキストを入力するためのソフトウェアです。</description>
+    <description xml:lang="kn">ಅಂತರಾಷ್ಟ್ರೀಯ ಪಠ್ಯವನ್ನು ನಮೂದಿಸಲು ಬಳಸಲಾಗುವ ಇನ್‌ಪುಟ್ ತಂತ್ರಾಂಶ.</description>
+    <description xml:lang="ko">다국어 텍스트 입력을 위한 소프트웨어.</description>
+    <description xml:lang="ml">ഇന്റര്‍ണാഷണല്‍ ടെക്സ്റ്റ് ഇന്‍പുട്ടിനുള്ള സോഫ്റ്റ്‌വെയര്‍.</description>
+    <description xml:lang="mr">अंतरराष्ट्रीय मजकूरच्या इंपुट करीता सॉफ्टवेअर.</description>
+    <description xml:lang="or">ଆନ୍ତର୍ଜାତିକ ପାଠ୍ୟର ନିବେଶ ପାଇଁ ସଫ୍ଟୱେର।</description>
+    <description xml:lang="pa">ਇੰਟਰਨੈਸ਼ਨਲ ਟੈਕਸਟ ਦੀ ਇੱਪੁੱਟ ਲਈ ਸਾਫਟਵੇਅਰ।</description>
+    <description xml:lang="pl">Oprogramowanie do wpisywania międzynarodowego tekstu.</description>
+    <description xml:lang="ru">Программы для набора текста на различных языках.</description>
+    <description xml:lang="ru_RU">Программы для набора текста на различных языках.</description>
+    <description xml:lang="sv">Programvara för inmatning av internationell text.</description>
+    <description xml:lang="ta">உலகளாவிய உரையின் உள்ளீட்டிற்கான மென்பொருள்.</description>
+    <description xml:lang="ta_IN">உலகளாவிய உரையின் உள்ளீட்டிற்கான மென்பொருள்.</description>
+    <description xml:lang="te">అంతర్జాతీయ పాఠము యొక్క యిన్పుట్ కొరకు సాఫ్టువేరు.</description>
+    <description xml:lang="uk">Програми для введення тексту різними мовами.</description>
+    <description xml:lang="uk_UA">Програми для введення тексту різними мовами.</description>
+    <description xml:lang="zh">用來輸入國際文字的軟體。</description>
+    <description xml:lang="zh_CN">输入国际文本的软件。</description>
+    <description xml:lang="zh_TW">用來輸入國際文字的軟體。</description>
+    <default>true</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq type="conditional" requires="gtk2">gtk2-immodule-xim</packagereq>
+      <packagereq type="conditional" requires="gtk3">gtk3-immodule-xim</packagereq>
+      <packagereq type="conditional" requires="gtk2">fcitx-gtk2</packagereq>
+      <packagereq type="conditional" requires="gtk3">fcitx-gtk3</packagereq>
+      <packagereq type="conditional" requires="gnome-session">imsettings-gsettings</packagereq>
+      <packagereq type="conditional" requires="qt">imsettings-qt</packagereq>
+      <packagereq type="default">fcitx-pinyin</packagereq>
+      <packagereq type="default">fcitx-data</packagereq>
+      <packagereq type="default">fcitx-libs</packagereq>
+      <packagereq type="default">fcitx-table</packagereq>
+      <packagereq type="default">fcitx-table-chinese</packagereq>
+      <packagereq type="default">fcitx-configtool</packagereq>
+      <packagereq type="default">m17n-contrib</packagereq>
+      <packagereq type="default">m17n-db</packagereq>
+      <packagereq type="optional">ibus-typing-booster</packagereq>
+      <packagereq type="optional">iok</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>internet-browser</id>
+    <name>Internet Browser</name>
+    <name xml:lang="as">ইন্টাৰনেট ব্ৰাউছাৰ</name>
+    <name xml:lang="bn">ইন্টারনেট ব্রাউজার</name>
+    <name xml:lang="bn_IN">ইন্টারনেট ব্রাউজার</name>
+    <name xml:lang="cs">Prohlížeč internetu</name>
+    <name xml:lang="cs_CZ">Prohlížeč internetu</name>
+    <name xml:lang="de">Internet-Browser</name>
+    <name xml:lang="de_CH">Internet-Browser</name>
+    <name xml:lang="es">Navegador de Internet</name>
+    <name xml:lang="es_ES">Navegador de Internet</name>
+    <name xml:lang="fr">Navigateur Internet</name>
+    <name xml:lang="gu">ઇન્ટરનેટ બ્રાઉઝર</name>
+    <name xml:lang="hi">इंटरनेट ब्राउज़र</name>
+    <name xml:lang="ia">Navigator de Rete</name>
+    <name xml:lang="it">Internet Browser</name>
+    <name xml:lang="it_IT">Internet Browser</name>
+    <name xml:lang="ja">インターネットブラウザー</name>
+    <name xml:lang="ja_JP">インターネットブラウザー</name>
+    <name xml:lang="kn">ಅಂತರಜಾಲ ವೀಕ್ಷಕ</name>
+    <name xml:lang="ko">인터넷 브라우저</name>
+    <name xml:lang="ml">ഇന്റര്‍നെറ്റ് ബ്രൌസര്‍</name>
+    <name xml:lang="mr">इंटरनेट ब्राऊजर</name>
+    <name xml:lang="or">ଇଣ୍ଟରନେଟ ବ୍ରାଉଜର</name>
+    <name xml:lang="pa">ਇੰਟਰਨੈੱਟ ਬਰਾਊਜ਼ਿੰਗ</name>
+    <name xml:lang="pl">Przeglądarka internetowa</name>
+    <name xml:lang="ru">Интернет-браузер</name>
+    <name xml:lang="ru_RU">Интернет-браузер</name>
+    <name xml:lang="sv">Internetbläddrare</name>
+    <name xml:lang="ta">இணைய உலாவி</name>
+    <name xml:lang="ta_IN">இணைய உலாவி</name>
+    <name xml:lang="te">ఇంటర్నెట్ బ్రౌజర్</name>
+    <name xml:lang="uk">Програма для перегляду інтернету</name>
+    <name xml:lang="uk_UA">Програма для перегляду інтернету</name>
+    <name xml:lang="zh">網路瀏覽器</name>
+    <name xml:lang="zh_CN">互联网浏览器</name>
+    <name xml:lang="zh_TW">網路瀏覽器</name>
+    <description>Firefox web browser.</description>
+    <description xml:lang="as">Firefox ৱেব ব্ৰাউছাৰ।</description>
+    <description xml:lang="cs">Webový prohlížeč Firefox.</description>
+    <description xml:lang="cs_CZ">Webový prohlížeč Firefox.</description>
+    <description xml:lang="de">Firefox Web-Browser.</description>
+    <description xml:lang="de_CH">Firefox Web-Browser.</description>
+    <description xml:lang="es">Navegador web de Firefox</description>
+    <description xml:lang="es_ES">Navegador web de Firefox</description>
+    <description xml:lang="fr">Navigateur web Firefox.</description>
+    <description xml:lang="gu">Firefox વેબ બ્રાઉઝર.</description>
+    <description xml:lang="hi">फ़ायरफ़ॉक्स वेब ब्राउज़र</description>
+    <description xml:lang="it">Web browser Firefox.</description>
+    <description xml:lang="it_IT">Web browser Firefox.</description>
+    <description xml:lang="ja">Firefox web ブラウザです。</description>
+    <description xml:lang="ja_JP">Firefox web ブラウザです。</description>
+    <description xml:lang="kn">ಫೈರ್ಫಾಕ್ಸ್ ಜಾಲ ವೀಕ್ಷಕ.</description>
+    <description xml:lang="ko">Firefox 웹브라우저</description>
+    <description xml:lang="ml">ഫയര്‍ഫോക്സ് വെബ് ബ്രൌസര്‍.</description>
+    <description xml:lang="mr">Firefox वेब ब्राउजर.</description>
+    <description xml:lang="or">Firefox ୱେବ ବ୍ରାଉଜର।</description>
+    <description xml:lang="pa">ਫਾਇਰਫਾਕਸ ਵੈੱਬ ਸਰਵਰ।</description>
+    <description xml:lang="pl">Przeglądarka WWW Firefox.</description>
+    <description xml:lang="ru">Браузер Firefox</description>
+    <description xml:lang="ru_RU">Браузер Firefox</description>
+    <description xml:lang="ta">Firefox வலை உலாவி.</description>
+    <description xml:lang="ta_IN">Firefox வலை உலாவி.</description>
+    <description xml:lang="te">ఫైర్‌ఫాక్స్ వెబ్‌బ్రౌజర్.</description>
+    <description xml:lang="uk">Браузер Firefox.</description>
+    <description xml:lang="uk_UA">Браузер Firefox.</description>
+    <description xml:lang="zh">Firefox 網站瀏覽器。</description>
+    <description xml:lang="zh_CN">Firefox 网页浏览器。</description>
+    <description xml:lang="zh_TW">Firefox 網站瀏覽器。</description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq type="default">firefox</packagereq>
+      <packagereq type="mandatory">nss</packagereq>
+      <packagereq type="mandatory">nss-util</packagereq>
+      <packagereq type="default">icedtea-web</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>java-platform</id>
+    <name>Java Platform</name>
+    <name xml:lang="as">Java প্লেটফৰ্ম</name>
+    <name xml:lang="bn">Java প্ল্যাটফর্ম</name>
+    <name xml:lang="bn_IN">Java প্ল্যাটফর্ম</name>
+    <name xml:lang="cs">Prostředí pro Javu</name>
+    <name xml:lang="cs_CZ">Prostředí pro Javu</name>
+    <name xml:lang="de">Java-Plattform</name>
+    <name xml:lang="de_CH">Java-Plattform</name>
+    <name xml:lang="es">Plataforma de Java</name>
+    <name xml:lang="es_ES">Plataforma de Java</name>
+    <name xml:lang="fr">Plateforme Java</name>
+    <name xml:lang="gu">Java પ્લેટફોર્મ</name>
+    <name xml:lang="hi">जावा प्लैटफॉर्म</name>
+    <name xml:lang="ia">Platteforma Java</name>
+    <name xml:lang="it">Piattaforma Java</name>
+    <name xml:lang="it_IT">Piattaforma Java</name>
+    <name xml:lang="ja">Java プラットフォーム</name>
+    <name xml:lang="ja_JP">Java プラットフォーム</name>
+    <name xml:lang="kn">ಜಾವಾ ಪ್ಲಾಟ್‌ಫಾರ್ಮ್</name>
+    <name xml:lang="ko">자바 플랫폼</name>
+    <name xml:lang="ml">ജാവാ പ്ലാറ്റ്ഫോം</name>
+    <name xml:lang="mr">Java प्लॅटफॉर्म</name>
+    <name xml:lang="or">Java ପ୍ଲାଟଫର୍ମ</name>
+    <name xml:lang="pa">ਜਾਵਾ ਪਲੇਟਫਾਰਮ</name>
+    <name xml:lang="pl">Platforma Java</name>
+    <name xml:lang="ru">Java</name>
+    <name xml:lang="ru_RU">Java</name>
+    <name xml:lang="sv">Javaplattform</name>
+    <name xml:lang="ta">ஜாவா ஃப்ளாட்பார்ம்</name>
+    <name xml:lang="ta_IN">ஜாவா ஃப்ளாட்பார்ம்</name>
+    <name xml:lang="te">జావా ప్లాట్‌ఫాం</name>
+    <name xml:lang="uk">Платформа Java</name>
+    <name xml:lang="uk_UA">Платформа Java</name>
+    <name xml:lang="zh">Java 平台</name>
+    <name xml:lang="zh_CN">Java 平台</name>
+    <name xml:lang="zh_TW">Java 平台</name>
+    <description>Java support for the TaishanOS Linux Server and Desktop Platforms.</description>
+    <description xml:lang="as">TaishanOS Linux Server আৰু Desktop Platform ৰ বাবে Java সমৰ্থন।</description>
+    <description xml:lang="bn">TaishanOS Linux Server ও Desktop Platform-র জন্য Java সমর্থন।</description>
+    <description xml:lang="bn_IN">TaishanOS Linux Server ও Desktop Platform-র জন্য Java সমর্থন।</description>
+    <description xml:lang="cs">Podpora pro Javu na platformách TaishanOS Linux Server a Desktop.</description>
+    <description xml:lang="cs_CZ">Podpora pro Javu na platformách TaishanOS Linux Server a Desktop.</description>
+    <description xml:lang="de">Java-Unterstützung für die TaishanOS Linux- und Desktop-Plattformen.</description>
+    <description xml:lang="de_CH">Java-Unterstützung für die TaishanOS Linux- und Desktop-Plattformen.</description>
+    <description xml:lang="es">Soporte de Java para Servidor de TaishanOS Linux y plataformas de escritorio.</description>
+    <description xml:lang="es_ES">Soporte de Java para Servidor de TaishanOS Linux y plataformas de escritorio.</description>
+    <description xml:lang="fr">Prise en charge Java pour les plateformes serveur et bureau de TaishanOS Linux.</description>
+    <description xml:lang="gu">TaishanOS Linux સર્વર અને ડેસ્કટોપ પ્લેટફોર્મ માટે Java આધાર.</description>
+    <description xml:lang="hi">TaishanOS Linux Server और Desktop प्लैटफॉर्म के लिए जावा स्क्रिप्ट.</description>
+    <description xml:lang="it">Supporto Java per piattaforme desktop e TaishanOS Linux Server.</description>
+    <description xml:lang="it_IT">Supporto Java per piattaforme desktop e TaishanOS Linux Server.</description>
+    <description xml:lang="ja">TaishanOS Linux Server Platform と Desktop Platform の Java サポート</description>
+    <description xml:lang="ja_JP">TaishanOS Linux Server Platform と Desktop Platform の Java サポート</description>
+    <description xml:lang="kn">TaishanOS Linux ಪೂರೈಕೆಗಣಕ ಹಾಗು ಗಣಕತೆರೆ ಪ್ಲಾಟ್‌ಫಾರ್ಮುಗಳಿಗಾಗಿನ Java ಬೆಂಬಲ.</description>
+    <description xml:lang="ko">TaishanOS Linux 서버와 데스크탑 플랫폼을 위한 자바 지원</description>
+    <description xml:lang="ml">TaishanOS Linux സര്‍വര്‍, ഡസ്ക്ടോപ്പ് പ്ലാറ്റ്ഫോമുകള്‍ക്കുള്ള ജാവാ പിന്തുണ.</description>
+    <description xml:lang="mr">TaishanOS Linux Server व Desktop Platforms करीता Java समर्थन.</description>
+    <description xml:lang="or">TaishanOS Linux ସର୍ଭର ଏବଂ Desktop ପ୍ଲାଟଫର୍ମଗୁଡ଼ିକ ପାଇଁ Java ସମର୍ଥନ।</description>
+    <description xml:lang="pa">TaishanOS Linux ਸਰਵਰ ਅਤੇ ਡੈਸਕਟਾਪ ਪਲੇਟਫਾਰਮ ਲਈ ਜਾਵਾ ਸਮਰਥਨ।</description>
+    <description xml:lang="pl">Obsługa języka Java dla platformy serwerowej i pulpitu systemu TaishanOS Linux.</description>
+    <description xml:lang="ru">Поддержка Java для TaishanOS Linux Server и Desktop.</description>
+    <description xml:lang="ru_RU">Поддержка Java для TaishanOS Linux Server и Desktop.</description>
+    <description xml:lang="sv">Javastöd för TaishanOS Linux server- och skrivbordsplattformar.</description>
+    <description xml:lang="ta">TaishanOS Linux சேவையகம் மற்றும் பணிமேடை ஃப்ளாட்பார்மிற்கான ஜாவா ஆதரவு.</description>
+    <description xml:lang="ta_IN">TaishanOS Linux சேவையகம் மற்றும் பணிமேடை ஃப்ளாட்பார்மிற்கான ஜாவா ஆதரவு.</description>
+    <description xml:lang="te">TaishanOS Linux సర్వర్ మరియు డెస్కుటాప్ ప్లాట్‌ఫాంల కొరకు జావా మద్దతు.</description>
+    <description xml:lang="uk">Підтримка Java для TaishanOS Linux Server та Desktop.</description>
+    <description xml:lang="uk_UA">Підтримка Java для TaishanOS Linux Server та Desktop.</description>
+    <description xml:lang="zh">TaishanOS Linux Server 和 Desktop Platforms 的 Java 支援。</description>
+    <description xml:lang="zh_CN">国心服务器版 Linux 服务器和桌面平台的 Java 支持。</description>
+    <description xml:lang="zh_TW">TaishanOS Linux Server 和 Desktop Platforms 的 Java 支援。</description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq type="mandatory">java-1.7.0-openjdk</packagereq>
+      <packagereq type="optional">java-1.6.0-openjdk</packagereq>
+      <packagereq type="optional">java-1.8.0-openjdk</packagereq>
+      <packagereq type="optional">system-switch-java</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>multimedia</id>
+    <name>Multimedia</name>
+    <name xml:lang="ar">وسائط متعددة</name>
+    <name xml:lang="as">মাল্টিমিডিয়া</name>
+    <name xml:lang="bn">মাল্টি-মিডিয়া</name>
+    <name xml:lang="bn_IN">মাল্টি-মিডিয়া</name>
+    <name xml:lang="bs">Multimedija</name>
+    <name xml:lang="ca">Multimèdia</name>
+    <name xml:lang="cs">Multimédia</name>
+    <name xml:lang="cs_CZ">Multimédia</name>
+    <name xml:lang="cy">Amlgyfryngau</name>
+    <name xml:lang="da">Multimedie</name>
+    <name xml:lang="de">Multimedia</name>
+    <name xml:lang="de_CH">Multimedia</name>
+    <name xml:lang="en_GB">Multimedia</name>
+    <name xml:lang="es">Multimedia</name>
+    <name xml:lang="es_ES">Multimedia</name>
+    <name xml:lang="eu">Multimedia</name>
+    <name xml:lang="eu_ES">Multimedia</name>
+    <name xml:lang="fi">Multimedia</name>
+    <name xml:lang="fr">Multimédia</name>
+    <name xml:lang="gu">મલ્ટીમીડિયા</name>
+    <name xml:lang="hi">मल्टीमीडिया</name>
+    <name xml:lang="hr">Multimedija</name>
+    <name xml:lang="hr_HR">Multimedija</name>
+    <name xml:lang="hu">Multimédia</name>
+    <name xml:lang="hy">Մուլտիմեդիա</name>
+    <name xml:lang="id">Multimedia</name>
+    <name xml:lang="it">Multimedia</name>
+    <name xml:lang="it_IT">Multimedia</name>
+    <name xml:lang="ja">マルチメディア</name>
+    <name xml:lang="ja_JP">マルチメディア</name>
+    <name xml:lang="ka">მულტიმედია</name>
+    <name xml:lang="kn">ಮಲ್ಟಿಮೀಡಿಯಾ</name>
+    <name xml:lang="ko">멀티미디어</name>
+    <name xml:lang="lv">Multimedija</name>
+    <name xml:lang="ml">മള്‍ട്ടിമീഡിയാ</name>
+    <name xml:lang="mr">मल्टिमिडीया</name>
+    <name xml:lang="or">ଏକାଧିକ ପ୍ରସାର ମାଧ୍ଯମ</name>
+    <name xml:lang="pa">ਮਲਟੀਮੀਡੀਆ</name>
+    <name xml:lang="pl">Multimedia</name>
+    <name xml:lang="ru">Мультимедиа</name>
+    <name xml:lang="ru_RU">Мультимедиа</name>
+    <name xml:lang="si">බහු මාධ්‍ය</name>
+    <name xml:lang="sl">Večpredstavnost</name>
+    <name xml:lang="sq">Multimedia</name>
+    <name xml:lang="sv">Multimedia</name>
+    <name xml:lang="ta">பல்லூடகம்</name>
+    <name xml:lang="ta_IN">பல்லூடகம்</name>
+    <name xml:lang="te">బహుళమాద్యమం</name>
+    <name xml:lang="th">มัลติมีเดีย</name>
+    <name xml:lang="tr">Çoklu Ortam</name>
+    <name xml:lang="uk">Мультимедіа</name>
+    <name xml:lang="uk_UA">Мультимедіа</name>
+    <name xml:lang="zh">多媒體</name>
+    <name xml:lang="zh_CN">多媒体</name>
+    <name xml:lang="zh_TW">多媒體</name>
+    <description>Audio/video framework common to desktops.</description>
+    <description xml:lang="cs">Podpora pro běžně používané audio a video.</description>
+    <description xml:lang="cs_CZ">Podpora pro běžně používané audio a video.</description>
+    <description xml:lang="de">Audio/Video-Framework für Desktops.</description>
+    <description xml:lang="de_CH">Audio/Video-Framework für Desktops.</description>
+    <description xml:lang="es">Marco común de audio y vídeo para escritorios.</description>
+    <description xml:lang="es_ES">Marco común de audio y vídeo para escritorios.</description>
+    <description xml:lang="fr">Environnement audio/vidéo commun aux bureaux.</description>
+    <description xml:lang="gu">ડૅસ્કટોપમાં સામાન્ય ઓડિયો/વીડિયો ફ્રેમવર્ક.</description>
+    <description xml:lang="hi">डेस्कटॉप में साझा किए जानेवाले ऑडियो/वीडियो फ्रेमवर्क</description>
+    <description xml:lang="it">Framework audio/video comune per i desktop.</description>
+    <description xml:lang="it_IT">Framework audio/video comune per i desktop.</description>
+    <description xml:lang="ja">デスクトップに共通するオーディオ／ビデオフレームワークです。</description>
+    <description xml:lang="ja_JP">デスクトップに共通するオーディオ／ビデオフレームワークです。</description>
+    <description xml:lang="kn">ಗಣಕತೆರೆಗಳಿಗಾಗಿ (ಡೆಸ್ಕ್‌ಟಾಪ್‌) ಸಾಮಾನ್ಯವಾಗಿರುವ ಆಡಿಯೋ/ವೀಡಿಯೊ ಫ್ರೇಮ್‌ವರ್ಕ್.</description>
+    <description xml:lang="ko">데스트탑에 일반적인 오디오/비디오 프레임워크입니다.</description>
+    <description xml:lang="ml">പണിയിടങ്ങള്‍ക്കു് പൊതുവായുള്ള ഓഡിയോ/വീഡിയോ ചട്ടക്കൂടു്.</description>
+    <description xml:lang="mr">डेस्कटॉपकरिता सामान्य ऑडिओ किंवा व्हिडीओ फ्रेमवर्क.</description>
+    <description xml:lang="or">ଡେସ୍କଟପଗୁଡିକରେ ସମାନତା ଥିବା ଧ୍ୱନି/ଭିଡ଼ିଓ ଫ୍ରେମୱର୍କ।</description>
+    <description xml:lang="pa">ਸਰਵਰਾਂ ਲਈ ਸਾਂਝਾ ਆਡੀਉ/ਵੀਡੀਉ ਫਰੇਮਵਰਕ।</description>
+    <description xml:lang="pl">Struktura audio/wideo wspólna dla środowisk pulpitu.</description>
+    <description xml:lang="ru">Аудио и видео для рабочих станций.</description>
+    <description xml:lang="ru_RU">Аудио и видео для рабочих станций.</description>
+    <description xml:lang="ta">பணிமேடைகளுக்கான பொதுவான ஆடியோ/வீடியோ சட்டமைப்பு.</description>
+    <description xml:lang="ta_IN">பணிமேடைகளுக்கான பொதுவான ஆடியோ/வீடியோ சட்டமைப்பு.</description>
+    <description xml:lang="te">డెస్కుటాప్‌లకు మామూలు అయిన దృశ్యకం/శ్రవ్యకం ఫ్రేమ్‌వర్క్.</description>
+    <description xml:lang="uk">Система бібліотек для роботи з відео та звуком, типова для робочих станцій.</description>
+    <description xml:lang="uk_UA">Система бібліотек для роботи з відео та звуком, типова для робочих станцій.</description>
+    <description xml:lang="zh">桌面環境常用的音效/影像基礎框架。</description>
+    <description xml:lang="zh_CN">桌面通用的音频/视频框架。</description>
+    <description xml:lang="zh_TW">桌面環境常用的音效/影像基礎框架。</description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq type="mandatory">alsa-plugins-pulseaudio</packagereq>
+      <packagereq type="mandatory">alsa-utils</packagereq>
+      <packagereq type="mandatory">dvd+rw-tools</packagereq>
+      <packagereq type="mandatory">gstreamer-plugins-bad-free</packagereq>
+      <packagereq type="mandatory">gstreamer-plugins-good</packagereq>
+      <packagereq type="mandatory">libyami</packagereq>
+      <packagereq type="mandatory">PackageKit-gstreamer-plugin</packagereq>
+      <packagereq type="mandatory">pulseaudio</packagereq>
+      <packagereq type="mandatory">pulseaudio-module-x11</packagereq>
+      <packagereq type="mandatory">pulseaudio-utils</packagereq>
+      <packagereq type="mandatory">wodim</packagereq>
+      <packagereq type="conditional" requires="gstreamer1">gstreamer1-plugins-bad-free</packagereq>
+      <packagereq type="conditional" requires="gstreamer1">gstreamer1-plugins-good</packagereq>
+      <packagereq type="conditional" requires="gstreamer1">gstreamer1-plugins-ugly-free</packagereq>
+      <packagereq type="optional">pavucontrol</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>network-file-system-client</id>
+    <name>Network File System Client</name>
+    <name xml:lang="as">নেটৱাৰ্ক ফাইল চিস্টেম ক্লাএন্ট</name>
+    <name xml:lang="cs">Klient pro síťový souborový systém</name>
+    <name xml:lang="cs_CZ">Klient pro síťový souborový systém</name>
+    <name xml:lang="de">Network File System Client</name>
+    <name xml:lang="de_CH">Network File System Client</name>
+    <name xml:lang="es">Cliente de sistema de archivos de red</name>
+    <name xml:lang="es_ES">Cliente de sistema de archivos de red</name>
+    <name xml:lang="fr">Client NFS</name>
+    <name xml:lang="gu">નેટવર્ક ફાઇલ સિસ્ટમ ક્લાયન્ટ</name>
+    <name xml:lang="hi">संजाल फाइल तंत्र क्लाइंट</name>
+    <name xml:lang="it">Client del file system di rete</name>
+    <name xml:lang="it_IT">Client del file system di rete</name>
+    <name xml:lang="ja">ネットワークファイルシステムクライアント</name>
+    <name xml:lang="ja_JP">ネットワークファイルシステムクライアント</name>
+    <name xml:lang="kn">ಜಾಲ ಕಡತ ವ್ಯವಸ್ಥೆ ಕ್ಲೈಂಟ್</name>
+    <name xml:lang="ko">네트워크 파일 시스템 클라이언트</name>
+    <name xml:lang="ml">നെറ്റ്‌വര്‍ക്ക് ഫയല്‍ സിസ്റ്റം ക്ലയന്റ്</name>
+    <name xml:lang="mr">नेटवर्क फाइल सिस्टम क्लाएंट</name>
+    <name xml:lang="or">ନେଟୱର୍କ ଫାଇଲତନ୍ତ୍ର କ୍ଲାଏଣ୍ଟ</name>
+    <name xml:lang="pa">ਨੈੱਟਵਰਕ ਫਾਈਲ ਸਿਸਟਮ ਕਲਾਈਂਟ</name>
+    <name xml:lang="pl">Klient sieciowego systemu plików</name>
+    <name xml:lang="ru">Клиент NFS</name>
+    <name xml:lang="ru_RU">Клиент NFS</name>
+    <name xml:lang="ta">பிணைய கோப்பு முறைமை கிளையன்</name>
+    <name xml:lang="ta_IN">பிணைய கோப்பு முறைமை கிளையன்</name>
+    <name xml:lang="te">నెట్వర్కు ఫైల్ సిస్టమ్ క్లైంట్</name>
+    <name xml:lang="uk">Клієнт мережевих файлових систем</name>
+    <name xml:lang="uk_UA">Клієнт мережевих файлових систем</name>
+    <name xml:lang="zh">網路檔案系統客戶端</name>
+    <name xml:lang="zh_CN">网络文件系统客户端</name>
+    <name xml:lang="zh_TW">網路檔案系統客戶端</name>
+    <description>Enables the system to attach to network storage.</description>
+    <description xml:lang="as">নেটৱাৰ্ক সংৰক্ষণৰ সৈতে কমপিউটাৰক সংযুক্ত কৰাৰ সুবিধা উপলব্ধ কৰা হয়।</description>
+    <description xml:lang="bn">নেটওয়ার্ক সংগ্রহস্থলের সাথে কম্পিউটার সংযুক্ত করার সুবিধা উপলব্ধ করা হয়।</description>
+    <description xml:lang="bn_IN">নেটওয়ার্ক সংগ্রহস্থলের সাথে কম্পিউটার সংযুক্ত করার সুবিধা উপলব্ধ করা হয়।</description>
+    <description xml:lang="cs">Umožňuje připojit počítač k síťovému úložišti.</description>
+    <description xml:lang="cs_CZ">Umožňuje připojit počítač k síťovému úložišti.</description>
+    <description xml:lang="de">Ermöglicht dem System die Anbindung an Netzwerk-Storage.</description>
+    <description xml:lang="de_CH">Ermöglicht dem System die Anbindung an Netzwerk-Storage.</description>
+    <description xml:lang="es">Permite al sistema conectarse a un almacenamiento de red.</description>
+    <description xml:lang="es_ES">Permite al sistema conectarse a un almacenamiento de red.</description>
+    <description xml:lang="fr">Permet au système de s'attacher au stockage réseau.</description>
+    <description xml:lang="gu">નેટવર્ક સંગ્રહ સાથે જોડાવા સિસ્ટમને સક્રિય કરે છે.</description>
+    <description xml:lang="hi">संजाल भंजार में जुड़ने के लिए तंत्र को सक्रिय करता है.</description>
+    <description xml:lang="ia">Illo permitte al systema de attaccar se al immagazinage de rete.</description>
+    <description xml:lang="it">Permette al sistema di collegarsi allo storage della rete.</description>
+    <description xml:lang="it_IT">Permette al sistema di collegarsi allo storage della rete.</description>
+    <description xml:lang="ja">システムがネットワークストレージに接続できるようにします。</description>
+    <description xml:lang="ja_JP">システムがネットワークストレージに接続できるようにします。</description>
+    <description xml:lang="kn">ಜಾಲಬಂಧ ಶೇಖರಣೆಯೊಂದಿಗೆ ವ್ಯವಸ್ಥೆಯೊಂದಿಗೆ ಲಗತ್ತಿಸುವುದನ್ನು ಶಕ್ತಗೊಳಿಸುತ್ತದೆ.</description>
+    <description xml:lang="ko">네트워크 저장소에 시스템을 붙이도록 함</description>
+    <description xml:lang="ml">നെറ്റ്‌വര്‍ക്ക് സ്റ്റോറേജിലേക്ക് ചേരുവാന്‍ സിസ്റ്റത്തിനെ സജ്ജമാക്കുന്നു.</description>
+    <description xml:lang="mr">नेटवर्क स्टोरेजसह जोडणीकरीता प्रणालीला समर्थीत करतो.</description>
+    <description xml:lang="or">ନେଟୱର୍କ ସଂରକ୍ଷଣ ସହିତ ସଂଲଗ୍ନ ହେବା ପାଇଁ ତନ୍ତ୍ରକୁ ସକ୍ରିୟ କରନ୍ତୁ।</description>
+    <description xml:lang="pa">ਸਿਸਟਮ ਨੂੰ ਨੈੱਟਵਰਕ ਸਟੋਰੇਮ ਨਾਲ ਜੁੜਨ ਲਈ ਯੋਗ ਕਰਦਾ ਹੈ।</description>
+    <description xml:lang="pl">Umożliwia systemowi podłączanie sieciowych pamięci masowych.</description>
+    <description xml:lang="ru">Обеспечивает подключение системы к сетевому хранилищу.</description>
+    <description xml:lang="ru_RU">Обеспечивает подключение системы к сетевому хранилищу.</description>
+    <description xml:lang="sv">Gör att systemet kan ansluta till nätverkslagring.</description>
+    <description xml:lang="ta">பிணைய சேமிபக்கத்துடன் கணினியை இணைக்க செயல்படுகிறது.</description>
+    <description xml:lang="ta_IN">பிணைய சேமிபக்கத்துடன் கணினியை இணைக்க செயல்படுகிறது.</description>
+    <description xml:lang="te">సిస్టమ్ నెట్వర్కు నిల్వనకు అనుభందింపబడునట్లు చేతనముచేయును.</description>
+    <description xml:lang="uk">Надає змогу долучати систему до мережевого сховища даних.</description>
+    <description xml:lang="uk_UA">Надає змогу долучати систему до мережевого сховища даних.</description>
+    <description xml:lang="zh">讓系統可連至網路儲存裝置。</description>
+    <description xml:lang="zh_CN">启用该系统附加到网络存储。</description>
+    <description xml:lang="zh_TW">讓系統可連至網路儲存裝置。</description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq type="mandatory">autofs</packagereq>
+      <packagereq type="mandatory">cgdcbxd</packagereq>
+      <packagereq type="mandatory">cifs-utils</packagereq>
+      <packagereq type="mandatory">device-mapper-multipath</packagereq>
+      <packagereq type="mandatory">fcoe-utils</packagereq>
+      <packagereq type="mandatory">glusterfs-fuse</packagereq>
+      <packagereq type="mandatory">gssproxy</packagereq>
+      <packagereq type="mandatory">iscsi-initiator-utils</packagereq>
+      <packagereq type="mandatory">lldpad</packagereq>
+      <packagereq type="mandatory">nfs-utils</packagereq>
+      <packagereq type="mandatory">nfs4-acl-tools</packagereq>
+      <packagereq type="mandatory">samba-client</packagereq>
+      <packagereq type="mandatory">targetcli</packagereq>
+      <packagereq type="optional">cachefilesd</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>networkmanager-submodules</id>
+    <name>Common NetworkManager submodules</name>
+    <name xml:lang="ja">一般的な NetworkManager サブモジュール</name>
+    <name xml:lang="ja_JP">一般的な NetworkManager サブモジュール</name>
+    <description>This group contains NetworkManager submodules that are commonly used, but may not be wanted in some streamlined configurations.</description>
+    <description xml:lang="ja">このグループには、一般的に使用されており複雑な設定が可能な NetworkManager サブモジュールが含まれます。</description>
+    <description xml:lang="ja_JP">このグループには、一般的に使用されており複雑な設定が可能な NetworkManager サブモジュールが含まれます。</description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq type="default">NetworkManager-bluetooth</packagereq>
+      <packagereq type="default">NetworkManager-wifi</packagereq>
+      <packagereq type="default">NetworkManager-wwan</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>office-suite</id>
+    <name>Office Suite and Productivity</name>
+    <name xml:lang="as">কাৰ্যালয় গোট আৰু কাৰ্য্যক্ষমতা</name>
+    <name xml:lang="bn">অফিস স্যুট ও কর্মক্ষমতা</name>
+    <name xml:lang="bn_IN">অফিস স্যুট ও কর্মক্ষমতা</name>
+    <name xml:lang="cs">Kancelářské aplikace</name>
+    <name xml:lang="cs_CZ">Kancelářské aplikace</name>
+    <name xml:lang="de">Büro-Suite und Produktivität</name>
+    <name xml:lang="de_CH">Büro-Suite und Produktivität</name>
+    <name xml:lang="es">Office Suite y Productividad</name>
+    <name xml:lang="es_ES">Office Suite y Productividad</name>
+    <name xml:lang="fr">Suite de bureautique et productivité</name>
+    <name xml:lang="gu">ઓફિસ સુટ અને ઉત્પાદકતા</name>
+    <name xml:lang="hi">ऑफिस सूइट और उत्पादकता</name>
+    <name xml:lang="ia">Applicationes de officio e productivitate</name>
+    <name xml:lang="it">Suite d'ufficio e Produttività</name>
+    <name xml:lang="it_IT">Suite d'ufficio e Produttività</name>
+    <name xml:lang="ja">オフィススイートと生産性</name>
+    <name xml:lang="ja_JP">オフィススイートと生産性</name>
+    <name xml:lang="kn">ಆಫೀಸ್ ಸೂಟ್ ಹಾಗು ಉತ್ಪಾದಕತೆ</name>
+    <name xml:lang="ko">오피스 스위트/생산성</name>
+    <name xml:lang="ml">ഓഫീസ് സ്യൂട്ടും പ്രൊഡക്ടിവിറ്റിയും</name>
+    <name xml:lang="mr">ऑफिस स्युट व प्रोडक्टिवीटी</name>
+    <name xml:lang="or">ଅଫିସ ଅନୁଗାମୀ ଏବଂ ଉତ୍ପାଦନ</name>
+    <name xml:lang="pa">ਦਫਤਰੀ ਸੂਟ ਅਤੇ ਉਤਪਾਦਨ</name>
+    <name xml:lang="pl">Biuro i praca biurowa</name>
+    <name xml:lang="ru">Офисный комплект</name>
+    <name xml:lang="ru_RU">Офисный комплект</name>
+    <name xml:lang="sv">Kontorssvit och produktivitet</name>
+    <name xml:lang="ta">அலுவலகம் பரிவாரம் மற்றும் உற்பத்தி திறன்</name>
+    <name xml:lang="ta_IN">அலுவலகம் பரிவாரம் மற்றும் உற்பத்தி திறன்</name>
+    <name xml:lang="te">ఆఫీస్ స్యూట్ మరియు ఉత్పాదకత</name>
+    <name xml:lang="uk">Офісні комплекси і окремі програми</name>
+    <name xml:lang="uk_UA">Офісні комплекси і окремі програми</name>
+    <name xml:lang="zh">辦公軟體和生產軟體</name>
+    <name xml:lang="zh_CN">办公套件和生产率</name>
+    <name xml:lang="zh_TW">辦公軟體和生產軟體</name>
+    <description>A full-purpose office suite, and other productivity tools.</description>
+    <description xml:lang="as">সম্পূৰ্ণ কাৰ্য্যক্ষমতা বিশিষ্ট কাৰ্যালয় গোট আৰু অন্যান্য নিৰ্মাণকাৰ্য্যৰ সামগ্ৰী।</description>
+    <description xml:lang="bn">সম্পূর্ণ কর্মক্ষমতা বিশিষ্ট অফিস স্যুট ও অন্যান্য নির্মাণকাজের সামগ্রী।</description>
+    <description xml:lang="bn_IN">সম্পূর্ণ কর্মক্ষমতা বিশিষ্ট অফিস স্যুট ও অন্যান্য নির্মাণকাজের সামগ্রী।</description>
+    <description xml:lang="cs">Univerzální kancelářský balík a další užitečné nástroje.</description>
+    <description xml:lang="cs_CZ">Univerzální kancelářský balík a další užitečné nástroje.</description>
+    <description xml:lang="de">Eine Vollzweck-Office-Suite und sonstige Produktivitäts-Tools.</description>
+    <description xml:lang="de_CH">Eine Vollzweck-Office-Suite und sonstige Produktivitäts-Tools.</description>
+    <description xml:lang="es">Un propósito total de office suite y otras herramientas de productividad.</description>
+    <description xml:lang="es_ES">Un propósito total de office suite y otras herramientas de productividad.</description>
+    <description xml:lang="fr">Suite bureautique complète et autres outils de productivité.</description>
+    <description xml:lang="gu">સંપૂર્ણ-હેતુ માટે ઓફિસ સુટ, અને બીજા ઉત્પાદકતા સાધનો.</description>
+    <description xml:lang="hi">एक पूर्ण उद्देश्यीय ऑफिस सूइट, और अन्य उत्पादकता औज़ार.</description>
+    <description xml:lang="ia">Un insimul complete del applicationes de officio e altere utensiles pro le productivitate.</description>
+    <description xml:lang="it">Una suite d'ufficio per tutti gli scopi ed altri tool di produttività.</description>
+    <description xml:lang="it_IT">Una suite d'ufficio per tutti gli scopi ed altri tool di produttività.</description>
+    <description xml:lang="ja">全目的対応のオフィススイートおよびその他生産性ツールです。</description>
+    <description xml:lang="ja_JP">全目的対応のオフィススイートおよびその他生産性ツールです。</description>
+    <description xml:lang="kn">ಸಂಪೂರ್ಣ ಸಜ್ಜಿತವಾದ ಆಫೀಸ್ ಸೂಟ್, ಹಾಗು ಇತರೆ ಉತ್ಪಾದನಾ ಉಪಕರಣಗಳು.</description>
+    <description xml:lang="ko">완전한 오피스 스위트와 다른 생산성 도구들.</description>
+    <description xml:lang="ml">പൂര്‍ണ്ണ ആവശ്യങ്ങള്‍ക്കുള്ള ഓഫീസ് സ്യൂട്ടും മറ്റ് പ്രൊഡക്ടിവിറ്റി ഉപകരണങ്ങളും.</description>
+    <description xml:lang="mr">संपूर्णतया-उपयोगी ऑफिस संच, व इतर उपयोगी साधने.</description>
+    <description xml:lang="or">ଗୋଟିଏ ସମ୍ପୂର୍ଣ୍ଣ-ଉପଯୋଗୀ ଅଫିସ ଅନୁଗାମୀ, ଏବଂ ଅନ୍ୟାନ୍ୟ ଉତ୍ପାଦନ ମୂଳକ ସାଧନଗୁଡ଼ିକ।</description>
+    <description xml:lang="pa">ਇੱਕ ਸੰਪੂਰਨ ਦਫਤਰ ਸੈੱਟ, ਅਤੇ ਹੋਰ ਉਤਪਾਦਕੀ ਜੰਤਰ।</description>
+    <description xml:lang="pl">Pakiet biurowy i inne narzędzia produkcyjne.</description>
+    <description xml:lang="ru">Многофункциональный комплект офисных приложений.</description>
+    <description xml:lang="ru_RU">Многофункциональный комплект офисных приложений.</description>
+    <description xml:lang="sv">En kontorssvit för alla ändamål, och andra produktivitetsverktyg.</description>
+    <description xml:lang="ta">ஒரு முழு-செயல்முறை அலுவக சூழல், மற்றும் மற்ற தயாரிப்பு கருவிகள்.</description>
+    <description xml:lang="ta_IN">ஒரு முழு-செயல்முறை அலுவக சூழல், மற்றும் மற்ற தயாரிப்பு கருவிகள்.</description>
+    <description xml:lang="te">ఒక పూర్తి-ప్రయోజనాత్మక ఆఫీస్ సూట్, మరియు యితర వుత్పాదక సాధనములు.</description>
+    <description xml:lang="uk">Комплекс офісних програм широкого призначення.</description>
+    <description xml:lang="uk_UA">Комплекс офісних програм широкого призначення.</description>
+    <description xml:lang="zh">完整用途的辦公軟體套件，以及其它生產用途的工具。</description>
+    <description xml:lang="zh_CN">全套办公套件以及其它产品工具。</description>
+    <description xml:lang="zh_TW">完整用途的辦公軟體套件，以及其它生產用途的工具。</description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq type="conditional" requires="gnome-session">gnome-documents</packagereq>
+      <packagereq type="default">libreoffice-calc</packagereq>
+      <packagereq type="default">libreoffice-draw</packagereq>
+      <packagereq type="default">libreoffice-emailmerge</packagereq>
+      <packagereq type="default">libreoffice-graphicfilter</packagereq>
+      <packagereq type="default">libreoffice-impress</packagereq>
+      <packagereq type="default">libreoffice-math</packagereq>
+      <packagereq type="default">libreoffice-writer</packagereq>
+      <packagereq type="default">unoconv</packagereq>
+      <packagereq type="optional">libreoffice-base</packagereq>
+      <packagereq type="optional">libreoffice-ogltrans</packagereq>
+      <packagereq type="optional">libreoffice-pyuno</packagereq>
+      <packagereq type="optional">libreoffice-wiki-publisher</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>print-client</id>
+    <name>Printing Client</name>
+    <name xml:lang="as">প্ৰিন্টিং ক্লাএন্ট</name>
+    <name xml:lang="cs">Tiskový klient</name>
+    <name xml:lang="cs_CZ">Tiskový klient</name>
+    <name xml:lang="de">Druck-Client</name>
+    <name xml:lang="de_CH">Druck-Client</name>
+    <name xml:lang="es">Cliente de impresión</name>
+    <name xml:lang="es_ES">Cliente de impresión</name>
+    <name xml:lang="fr">Client d'impression</name>
+    <name xml:lang="gu">છાપન ક્લાયન્ટ</name>
+    <name xml:lang="hi">क्लाइंट की छपाई</name>
+    <name xml:lang="it">Client di stampa</name>
+    <name xml:lang="it_IT">Client di stampa</name>
+    <name xml:lang="ja">印刷クライアント</name>
+    <name xml:lang="ja_JP">印刷クライアント</name>
+    <name xml:lang="kn">ಮುದ್ರಣ ಕ್ಲೈಂಟ್</name>
+    <name xml:lang="ko">인쇄 클라이언트</name>
+    <name xml:lang="ml">പ്രിന്റ് ചെയ്യുന്നതിനുള്ള ക്ലയന്റ്</name>
+    <name xml:lang="mr">छपाई क्लाएंट</name>
+    <name xml:lang="or">ମୂଦ୍ରଣ କ୍ଲାଏଣ୍ଟ</name>
+    <name xml:lang="pa">ਛਪਾਈ ਕਲਾਈਂਟ</name>
+    <name xml:lang="pl">Klient drukowania</name>
+    <name xml:lang="ru">Клиент печати</name>
+    <name xml:lang="ru_RU">Клиент печати</name>
+    <name xml:lang="ta">அச்சிடல் கிளையன்</name>
+    <name xml:lang="ta_IN">அச்சிடல் கிளையன்</name>
+    <name xml:lang="te">ముద్రించు క్లైంట్</name>
+    <name xml:lang="uk">Клієнт друку</name>
+    <name xml:lang="uk_UA">Клієнт друку</name>
+    <name xml:lang="zh">列印客戶端</name>
+    <name xml:lang="zh_CN">打印客户端</name>
+    <name xml:lang="zh_TW">列印客戶端</name>
+    <description>Tools for printing to a local printer or a remote print server.</description>
+    <description xml:lang="as">স্থানীয় প্ৰিন্টাৰৰ বা দূৰবৰ্তী প্ৰিন্ট চাৰ্ভাৰত প্ৰিন্ট কৰাৰ বাবে ব্যৱহৃত সঁজুলিসমূহ।</description>
+    <description xml:lang="bn">স্থানীয় প্রিন্টার অথবা দূরবর্তী প্রিন্ট সার্ভারের মধ্যে প্রিন্ট করার জন্য ব্যবহৃত সরঞ্জাম।</description>
+    <description xml:lang="bn_IN">স্থানীয় প্রিন্টার অথবা দূরবর্তী প্রিন্ট সার্ভারের মধ্যে প্রিন্ট করার জন্য ব্যবহৃত সরঞ্জাম।</description>
+    <description xml:lang="cs">Nástroje pro tisk na lokálních tiskárnách nebo vzdálených tiskových serverech.</description>
+    <description xml:lang="cs_CZ">Nástroje pro tisk na lokálních tiskárnách nebo vzdálených tiskových serverech.</description>
+    <description xml:lang="de">Tools für das Drucken auf einem lokalen oder einem entfernten Drucker-Server.</description>
+    <description xml:lang="de_CH">Tools für das Drucken auf einem lokalen oder einem entfernten Drucker-Server.</description>
+    <description xml:lang="es">Herramientas para imprimir en una impresora local o un servidor de impresión remoto.</description>
+    <description xml:lang="es_ES">Herramientas para imprimir en una impresora local o un servidor de impresión remoto.</description>
+    <description xml:lang="fr">Outils pour l'impression sur une imprimante locale ou sur un serveur d'impression à distance.</description>
+    <description xml:lang="gu">સ્થાનિય પ્રિન્ટર અથવા દૂરસ્થ છાપન સર્વર માં છાપવા માટે સાધનો.</description>
+    <description xml:lang="hi">किसी स्थानीय मुद्रक या दूरस्थ मुद्रण सर्वर में छपाई के लिए औजार.</description>
+    <description xml:lang="ia">Utensiles pro imprimer sur un imprimitor local o per un servitor de impression remote.</description>
+    <description xml:lang="it">Tool per la stampa su di una stampante locale o un server di stampa locale.</description>
+    <description xml:lang="it_IT">Tool per la stampa su di una stampante locale o un server di stampa locale.</description>
+    <description xml:lang="ja">ローカルのプリンターやリモートプリントサーバーへ印刷するためのツールです。</description>
+    <description xml:lang="ja_JP">ローカルのプリンターやリモートプリントサーバーへ印刷するためのツールです。</description>
+    <description xml:lang="kn">ಒಂದು ಸ್ಥಳೀಯ ಮುದ್ರಕಕ್ಕೆ ಅಥವ ದೂರಸ್ಥ ಮುದ್ರಣ ಪೂರೈಕೆಗಣಕಕ್ಕೆ ಮುದ್ರಿಸಲು ಉಪಕರಣಗಳು.</description>
+    <description xml:lang="ko">로컬 프린터와 원격 프린트 서버에 인쇄를 지원하는 도구.</description>
+    <description xml:lang="ml">ഒരു ലോക്കല്‍ പ്രിന്റര്‍ അല്ലെങ്കില്‍ റിമോട്ട് പ്രിന്റ് സര്‍വറിലേക്ക് പ്രിന്റ് ചെയ്യുന്നതിനുള്ള ഉപകരണങ്ങള്‍.</description>
+    <description xml:lang="mr">स्थानीय छपाईयंत्र किंवा रिमोट छपाई सर्व्हरकरीता छपाईकरीता साधने.</description>
+    <description xml:lang="or">ଗୋଟିଏ ସ୍ଥାନୀୟ ମୁଦ୍ରଣୀ କିମ୍ବା ସୁଦୂର ମୁଦ୍ରଣୀ ସର୍ଭରରେ ମୁଦ୍ରଣ ପାଇଁ ସାଧନଗୁଡ଼ିକ।</description>
+    <description xml:lang="pa">ਇੱਕ ਲੋਕਲ ਪਰਿੰਟਰ ਜਾਂ ਇੱਕ ਰਿਮੋਟ ਪਰਿੰਟਰ ਤੇ ਪਰਿੰਟਿੰਗ ਲਈ ਟੂਲ।</description>
+    <description xml:lang="pl">Narzędzia do drukowania za pomocą lokalnej drukarki lub zdalnego serwera druku.</description>
+    <description xml:lang="ru">Средства для печати на локальном принтере или удаленном сервере печати.</description>
+    <description xml:lang="ru_RU">Средства для печати на локальном принтере или удаленном сервере печати.</description>
+    <description xml:lang="sv">Verktyg för utskrift till en lokal skrivare eller fjärrskrivarserver.</description>
+    <description xml:lang="ta">ஒரு உள்ளமை அச்சடிப்பான் அல்லது ஒரு தொலை அச்சு சேவையகத்தை அச்சடிப்பதற்கான கருவிகள்.</description>
+    <description xml:lang="ta_IN">ஒரு உள்ளமை அச்சடிப்பான் அல்லது ஒரு தொலை அச்சு சேவையகத்தை அச்சடிப்பதற்கான கருவிகள்.</description>
+    <description xml:lang="te">స్థానిక ముద్రణాయంత్రముకు లేదా రిమోట్ ముద్రణా సేవికకు ముద్రించుటకు సాధనములు.</description>
+    <description xml:lang="uk">Програми для друку на локальному принтері або на віддаленому сервері друку.</description>
+    <description xml:lang="uk_UA">Програми для друку на локальному принтері або на віддаленому сервері друку.</description>
+    <description xml:lang="zh">用來列印至本機列印機或是遠端列印伺服器的工具。</description>
+    <description xml:lang="zh_CN">在本地打印机和远程打印服务器中打印的工具。</description>
+    <description xml:lang="zh_TW">用來列印至本機列印機或是遠端列印伺服器的工具。</description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq type="mandatory">cups</packagereq>
+      <packagereq type="mandatory">cups-pk-helper</packagereq>
+      <packagereq type="mandatory">enscript</packagereq>
+      <packagereq type="mandatory">ghostscript-cups</packagereq>
+      <packagereq type="default">colord</packagereq>
+      <packagereq type="default">gutenprint</packagereq>
+      <packagereq type="default">gutenprint-cups</packagereq>
+      <packagereq type="default">hpijs</packagereq>
+      <packagereq type="default">hplip</packagereq>
+      <packagereq type="default">paps</packagereq>
+      <packagereq type="default">pnm2ppa</packagereq>
+      <packagereq type="default">python-smbc</packagereq>
+      <packagereq type="default">system-config-printer</packagereq>
+      <packagereq type="default">system-config-printer-udev</packagereq>
+      <packagereq type="optional">hplip-gui</packagereq>
+      <packagereq type="optional">samba-krb5-printing</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>remote-desktop-clients</id>
+    <name>Remote Desktop Clients</name>
+    <name xml:lang="as">দূৰৰ ডেস্কটপ ক্লাএন্ট</name>
+    <name xml:lang="bn">দূরবর্তী ডেস্কটপ ক্লায়েন্ট</name>
+    <name xml:lang="bn_IN">দূরবর্তী ডেস্কটপ ক্লায়েন্ট</name>
+    <name xml:lang="cs">Klienti pro vzdálené plochy</name>
+    <name xml:lang="cs_CZ">Klienti pro vzdálené plochy</name>
+    <name xml:lang="de">Remote-Desktop-Clients</name>
+    <name xml:lang="de_CH">Remote-Desktop-Clients</name>
+    <name xml:lang="es">Cliente de escritorio remoto</name>
+    <name xml:lang="es_ES">Cliente de escritorio remoto</name>
+    <name xml:lang="fr">Clients de bureau à distance</name>
+    <name xml:lang="gu">દૂરસ્થ ડેસ્કટોપ ક્લાયન્ટો</name>
+    <name xml:lang="hi">दूरस्थ डेस्कटॉप क्लाइंट</name>
+    <name xml:lang="ia">Cliente de scriptorio remote</name>
+    <name xml:lang="it">Client desktop remoto</name>
+    <name xml:lang="it_IT">Client desktop remoto</name>
+    <name xml:lang="ja">リモートデスクトップ接続クライアント</name>
+    <name xml:lang="ja_JP">リモートデスクトップ接続クライアント</name>
+    <name xml:lang="kn">ದೂರಸ್ಥ(ರಿಮೋಟ್) ಗಣಕ ಪರಿಸರ ಕ್ಲೈಂಟ್‌ಗಳು</name>
+    <name xml:lang="ko">원격 데스크탑 클라이언트</name>
+    <name xml:lang="ml">റിമോട്ട് ഡസ്ക്ടോപ്പ് ക്ലയന്റുകള്‍</name>
+    <name xml:lang="mr">रिमोट डेस्कटॉप क्लाएंट्स्</name>
+    <name xml:lang="or">ସୁଦୂର ଡେସ୍କଟପ କ୍ଲାଏଣ୍ଟମାନ</name>
+    <name xml:lang="pa">ਰਿਮੋਟ ਡੈਸਕਟਾਪ ਕਲਾਈਂਟ</name>
+    <name xml:lang="pl">Zdalni klienci środowisk graficznych</name>
+    <name xml:lang="ru">Клиенты удалённого рабочего стола</name>
+    <name xml:lang="ru_RU">Клиенты удалённого рабочего стола</name>
+    <name xml:lang="sv">Fjärrskrivbordsklienter</name>
+    <name xml:lang="ta">தொலை பணிமேடை வாடிக்கையாளர்கள்</name>
+    <name xml:lang="ta_IN">தொலை பணிமேடை வாடிக்கையாளர்கள்</name>
+    <name xml:lang="te">రిమోట్ డెస్కుటాప్ క్లైంట్స్</name>
+    <name xml:lang="uk">Клієнти віддалених робочих столів</name>
+    <name xml:lang="uk_UA">Клієнти віддалених робочих столів</name>
+    <name xml:lang="zh">遠端桌面環境客戶端</name>
+    <name xml:lang="zh_CN">远程桌面客户端</name>
+    <name xml:lang="zh_TW">遠端桌面環境客戶端</name>
+    <description/>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq type="optional">freerdp</packagereq>
+      <packagereq type="optional">kdenetwork-krdc</packagereq>
+      <packagereq type="optional">spice-xpi</packagereq>
+      <packagereq type="optional">tigervnc</packagereq>
+      <packagereq type="optional">vinagre</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>server-product</id>
+    <name>TaishanOS Linux Server product core</name>
+    <description>Packages mandatory for the server product.</description>
+    <default>true</default>
+    <uservisible>false</uservisible>
+    <packagelist/>
+  </group>
+  <group>
+    <id>smart-card</id>
+    <name>Smart Card Support</name>
+    <name xml:lang="as">স্মাৰ্ট কাৰ্ড সমৰ্থন</name>
+    <name xml:lang="cs">Podpora Smart card</name>
+    <name xml:lang="cs_CZ">Podpora Smart card</name>
+    <name xml:lang="de">Smart-Card-Unterstützung</name>
+    <name xml:lang="de_CH">Smart-Card-Unterstützung</name>
+    <name xml:lang="es">Soporte para tarjeta inteligente</name>
+    <name xml:lang="es_ES">Soporte para tarjeta inteligente</name>
+    <name xml:lang="fr">Prise en charge Smart Card</name>
+    <name xml:lang="gu">સ્માર્ટ કાર્ડ આધાર</name>
+    <name xml:lang="hi">स्मार्ट कार्ड समर्थन</name>
+    <name xml:lang="it">Supporto smart card</name>
+    <name xml:lang="it_IT">Supporto smart card</name>
+    <name xml:lang="ja">スマートカードサポート</name>
+    <name xml:lang="ja_JP">スマートカードサポート</name>
+    <name xml:lang="kn">ಸ್ಮಾರ್ಟ್ ಕಾರ್ಡ್ ಬೆಂಬಲ</name>
+    <name xml:lang="ko">스마트카드 지원</name>
+    <name xml:lang="ml">സ്മാര്‍ട്ട് കാര്‍ഡിനുള്ള പിന്തുണ</name>
+    <name xml:lang="mr">स्मार्ट कार्ड समर्थन</name>
+    <name xml:lang="or">ସ୍ମାର୍ଟ-କାର୍ଡ ସହାୟତା</name>
+    <name xml:lang="pa">ਸਮਾਰਟ ਕਾਰਡ ਸਮਰਥਨ</name>
+    <name xml:lang="pl">Obsługa smart card</name>
+    <name xml:lang="ru">Поддержка смарт-карт</name>
+    <name xml:lang="ru_RU">Поддержка смарт-карт</name>
+    <name xml:lang="ta">ஸ்மார்ட் கார்ட் ஆதரவு</name>
+    <name xml:lang="ta_IN">ஸ்மார்ட் கார்ட் ஆதரவு</name>
+    <name xml:lang="te">స్మార్టు కార్డ్ తోడ్పాటు</name>
+    <name xml:lang="uk">Підтримка смарт-карток</name>
+    <name xml:lang="uk_UA">Підтримка смарт-карток</name>
+    <name xml:lang="zh">智慧卡支援</name>
+    <name xml:lang="zh_CN">智能卡支持</name>
+    <name xml:lang="zh_TW">智慧卡支援</name>
+    <description>Support for using smart card authentication.</description>
+    <description xml:lang="as">স্মাৰ্ট-কাৰ্ড অনুমোদন ব্যৱস্থা ব্যৱহাৰৰ বাবে সমৰ্থন।</description>
+    <description xml:lang="bn">স্মার্ট-কার্ড অনুমোদন ব্যবস্থা ব্যবহারের জন্য সমর্থন।</description>
+    <description xml:lang="bn_IN">স্মার্ট-কার্ড অনুমোদন ব্যবস্থা ব্যবহারের জন্য সমর্থন।</description>
+    <description xml:lang="cs">Podpora pro používání autentizace čipovými kartami.</description>
+    <description xml:lang="cs_CZ">Podpora pro používání autentizace čipovými kartami.</description>
+    <description xml:lang="de">Unterstützung für die Verwendung von Smart Card Authentifikation.</description>
+    <description xml:lang="de_CH">Unterstützung für die Verwendung von Smart Card Authentifikation.</description>
+    <description xml:lang="es">Soporte para uso de autenticación de tarjeta inteligente.</description>
+    <description xml:lang="es_ES">Soporte para uso de autenticación de tarjeta inteligente.</description>
+    <description xml:lang="fr">Prise en charge de l'authentification avec carte à puce.</description>
+    <description xml:lang="gu">સ્માર્ટ કાર્ડ સત્તાધિકરણને વાપરવા માટે આધાર.</description>
+    <description xml:lang="hi">स्मार्ट कार्ड सत्यापन के उपयोग के लिए समर्थन.</description>
+    <description xml:lang="ia">Supporto pro le authentication per chip-carta.</description>
+    <description xml:lang="it">Supporto per l'utilizzo dell'autenticazione delle smart card.</description>
+    <description xml:lang="it_IT">Supporto per l'utilizzo dell'autenticazione delle smart card.</description>
+    <description xml:lang="ja">スマートカード認証の使用に対するサポートです。</description>
+    <description xml:lang="ja_JP">スマートカード認証の使用に対するサポートです。</description>
+    <description xml:lang="kn">ಸ್ಮಾರ್ಟ್ ಕಾರ್ಡ್ ದೃಢೀಕರಣಕ್ಕೆ ಯಾವುದೆ ಬೆಂಬಲ.</description>
+    <description xml:lang="ko">스마트 카드 인증 사용 지원</description>
+    <description xml:lang="ml">സ്മാര്‍ട്ട് കാര്‍ഡ് ഉപയോഗിച്ചു് ആധികാരികത ഉറപ്പാക്കുന്നതിനുള്ള പിന്തുണ.</description>
+    <description xml:lang="mr">स्मार्ट कार्डचा ओळख पटवण्याकरीताचे समर्थन.</description>
+    <description xml:lang="or">ସ୍ମଗର୍ଟ କାର୍ଡ଼ ବୈଧିକରଣ ବ୍ୟବହାର କରିବା ପାଇଁ ସମର୍ଥନ।</description>
+    <description xml:lang="pa">ਸਮਾਰਟ ਕਾਰਡ ਪ੍ਰਮਾਣਿਕਤਾ ਲਈ ਸਮਰਥਨ।</description>
+    <description xml:lang="pl">Obsługa uwierzytelniania za pomocą kart smart card.</description>
+    <description xml:lang="ru">Поддержка аутентификации с помощью смарт-карт.</description>
+    <description xml:lang="ru_RU">Поддержка аутентификации с помощью смарт-карт.</description>
+    <description xml:lang="sv">Stöd för användning av smarta kort för autenticering.</description>
+    <description xml:lang="ta">ஸ்மார்ட் கார்டு அங்கீகாரத்தை பயன்படுத்துவதற்கான ஆதரவு.</description>
+    <description xml:lang="ta_IN">ஸ்மார்ட் கார்டு அங்கீகாரத்தை பயன்படுத்துவதற்கான ஆதரவு.</description>
+    <description xml:lang="te">స్మార్ట్ కార్డ్ ధృవీకరణను వుపయోగించుట కొరకు మద్దతు.</description>
+    <description xml:lang="uk">Підтримка використання смарт-карток для розпізнавання.</description>
+    <description xml:lang="uk_UA">Підтримка використання смарт-карток для розпізнавання.</description>
+    <description xml:lang="zh">支援使用智慧卡認證。</description>
+    <description xml:lang="zh_CN">支持使用智能卡验证。</description>
+    <description xml:lang="zh_TW">支援使用智慧卡認證。</description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq type="default">coolkey</packagereq>
+      <packagereq type="default">esc</packagereq>
+      <packagereq type="default">pam_pkcs11</packagereq>
+      <packagereq type="default">pcsc-lite-ccid</packagereq>
+      <packagereq type="optional">opencryptoki</packagereq>
+      <packagereq type="optional">opensc</packagereq>
+    </packagelist>
+  </group>
+  <group>
+    <id>workstation-product</id>
+    <name>TaishanOS Linux Workstation product core</name>
+    <description>Packages mandatory for the workstation product.</description>
+    <default>true</default>
+    <uservisible>false</uservisible>
+    <packagelist/>
+  </group>
+  <group>
+    <id>x11</id>
+    <name>X Window System</name>
+    <name xml:lang="af">X Window-stelsel</name>
+    <name xml:lang="af_ZA">X Window-stelsel</name>
+    <name xml:lang="am">የX መስኮት ሲስተም</name>
+    <name xml:lang="ar">نظام نوافذ X</name>
+    <name xml:lang="as">X উইন্ডো চিস্টেম</name>
+    <name xml:lang="bal">سیستم ویندو X</name>
+    <name xml:lang="be">X Window System</name>
+    <name xml:lang="bg">Система за прозорци Х</name>
+    <name xml:lang="bn">X উইন্ডো সিস্টেম</name>
+    <name xml:lang="bn_IN">X উইন্ডো সিস্টেম</name>
+    <name xml:lang="bs">X sustav prozora</name>
+    <name xml:lang="ca">Sistema de finestres X</name>
+    <name xml:lang="cs">X Window System</name>
+    <name xml:lang="cs_CZ">X Window System</name>
+    <name xml:lang="cy">System Ffenestri X</name>
+    <name xml:lang="da">Vinduessystemet X</name>
+    <name xml:lang="de">X-Window-System</name>
+    <name xml:lang="de_CH">X-Window-System</name>
+    <name xml:lang="el">Παραθυρικό σύστημα Χ</name>
+    <name xml:lang="en_GB">X Window System</name>
+    <name xml:lang="es">Sistema X Window</name>
+    <name xml:lang="es_ES">Sistema X Window</name>
+    <name xml:lang="et">X Window süsteem</name>
+    <name xml:lang="eu">X leiho sistema</name>
+    <name xml:lang="eu_ES">X leiho sistema</name>
+    <name xml:lang="fa">سیستم پنجره‌ای X</name>
+    <name xml:lang="fa_IR">سیستم پنجره‌ای X</name>
+    <name xml:lang="fi">X-ikkunointijärjestelmä</name>
+    <name xml:lang="fr">Système X Window</name>
+    <name xml:lang="gl">Sistema X Window</name>
+    <name xml:lang="gu">X વિન્ડો સિસ્ટમ</name>
+    <name xml:lang="he">סביבת החלונות X</name>
+    <name xml:lang="hi">X विंडो सिस्टम</name>
+    <name xml:lang="hr">X sustav prozora</name>
+    <name xml:lang="hr_HR">X sustav prozora</name>
+    <name xml:lang="hu">X Window System grafikus rendszer</name>
+    <name xml:lang="hy">X պատուհանների համակարգ</name>
+    <name xml:lang="ia">Systema X Window</name>
+    <name xml:lang="id">Sistem X Window</name>
+    <name xml:lang="ilo">Sistema ti X Window</name>
+    <name xml:lang="is">X gluggakerfið</name>
+    <name xml:lang="it">Sistema X Window</name>
+    <name xml:lang="it_IT">Sistema X Window</name>
+    <name xml:lang="ja">X Window System</name>
+    <name xml:lang="ja_JP">X Window System</name>
+    <name xml:lang="kn">X Window ವ್ಯವಸ್ಥೆ</name>
+    <name xml:lang="ko">X 윈도우 시스템</name>
+    <name xml:lang="lv">X Window sistēma</name>
+    <name xml:lang="mai">X विंडो सिस्टम</name>
+    <name xml:lang="mk">X графички систем</name>
+    <name xml:lang="ml">X Window സിസ്റ്റം</name>
+    <name xml:lang="mr">X विंडो प्रणाली</name>
+    <name xml:lang="ms">Sistem X Window</name>
+    <name xml:lang="ms_MY">Sistem X Window</name>
+    <name xml:lang="nb">X-vindussystemet</name>
+    <name xml:lang="ne">X सञ्झ्याल प्रणाली</name>
+    <name xml:lang="nl">X Window systeem</name>
+    <name xml:lang="no">X-vindussystemet</name>
+    <name xml:lang="nso">Tshepedišo ya Lefesetere la X</name>
+    <name xml:lang="or">X ୱିଣ୍ଡୋ ତନ୍ତ୍ର</name>
+    <name xml:lang="pa">X ਵਿੰਡੋ ਸਿਸਟਮ</name>
+    <name xml:lang="pl">System X Window</name>
+    <name xml:lang="pt">Sistema de Janelas X</name>
+    <name xml:lang="pt_BR">Sistema de Janelas X</name>
+    <name xml:lang="ro">Sistemul de ferestre X</name>
+    <name xml:lang="ru">Система X Window</name>
+    <name xml:lang="ru_RU">Система X Window</name>
+    <name xml:lang="si">X කවුළු පද්ධතිය</name>
+    <name xml:lang="sk">X Window systém</name>
+    <name xml:lang="sl">Okenski sistem X</name>
+    <name xml:lang="sq">Sistemi X i Dritareve</name>
+    <name xml:lang="sr">Икс систем прозора</name>
+    <name xml:lang="sr@latin">X sistem prozora</name>
+    <name xml:lang="sr@Latn">X sistem prozora</name>
+    <name xml:lang="sv">Fönstersystemet X</name>
+    <name xml:lang="ta">X விண்டோ அமைப்பு</name>
+    <name xml:lang="ta_IN">X விண்டோ அமைப்பு</name>
+    <name xml:lang="te">X విండో విధానం</name>
+    <name xml:lang="tg">Системаи X Window</name>
+    <name xml:lang="th">ระบบ X Window</name>
+    <name xml:lang="tr">X Pencere Sistemi</name>
+    <name xml:lang="uk">Система X Window</name>
+    <name xml:lang="uk_UA">Система X Window</name>
+    <name xml:lang="ur">ونڈوز نظام X</name>
+    <name xml:lang="vi">X Window System</name>
+    <name xml:lang="zh">X 視窗系統</name>
+    <name xml:lang="zh_CN">X 窗口系统</name>
+    <name xml:lang="zh_TW">X 視窗系統</name>
+    <name xml:lang="zu">X Isistimu Yewindi</name>
+    <description>X Window System Support.</description>
+    <description xml:lang="as">X উইন্ডো চিস্টেম সমৰ্থন।</description>
+    <description xml:lang="bn">X Window সিস্টেম সমর্থন।</description>
+    <description xml:lang="bn_IN">X Window সিস্টেম সমর্থন।</description>
+    <description xml:lang="cs">Podpora pro X Window System.</description>
+    <description xml:lang="cs_CZ">Podpora pro X Window System.</description>
+    <description xml:lang="de">X-Window-System-Unterstützung.</description>
+    <description xml:lang="de_CH">X-Window-System-Unterstützung.</description>
+    <description xml:lang="es">Soporte para sistema X Window.</description>
+    <description xml:lang="es_ES">Soporte para sistema X Window.</description>
+    <description xml:lang="fr">Prise en charge X Window System.</description>
+    <description xml:lang="gu">X વિન્ડો સિસ્ટમ આધાર.</description>
+    <description xml:lang="hi">X विंडो तंत्र समर्थन.</description>
+    <description xml:lang="ia">Supporto pro le systema X Window.</description>
+    <description xml:lang="it">Supporto sistema X Window.</description>
+    <description xml:lang="it_IT">Supporto sistema X Window.</description>
+    <description xml:lang="ja">X Window システムのサポート</description>
+    <description xml:lang="ja_JP">X Window システムのサポート</description>
+    <description xml:lang="kn">X ವಿಂಡೊ ವ್ಯವಸ್ಥೆಯ ಬೆಂಬಲ.</description>
+    <description xml:lang="ko">X 윈도우 지원.</description>
+    <description xml:lang="ml">X വിന്‍ഡോ സിസ്റ്റം പിന്തുണ.</description>
+    <description xml:lang="mr">X Window प्रणाली समर्थन.</description>
+    <description xml:lang="or">X ୱିଣ୍ଡୋ ତନ୍ତ୍ର ସମର୍ଥନ।</description>
+    <description xml:lang="pa">X ਵਿੰਡੋ ਸਿਸਟਮ ਸਮਰਥਨ।</description>
+    <description xml:lang="pl">Obsługa systemu X Window.</description>
+    <description xml:lang="ru">Поддержка системы X Window.</description>
+    <description xml:lang="ru_RU">Поддержка системы X Window.</description>
+    <description xml:lang="sv">Stöd för fönstersystemet X.</description>
+    <description xml:lang="ta">X விண்டோ கணினி சேவை.</description>
+    <description xml:lang="ta_IN">X விண்டோ கணினி சேவை.</description>
+    <description xml:lang="te">X విండో సిస్టమ్ మద్దతు.</description>
+    <description xml:lang="uk">Підтримка системи X Window.</description>
+    <description xml:lang="uk_UA">Підтримка системи X Window.</description>
+    <description xml:lang="zh">X Window 系統支援。</description>
+    <description xml:lang="zh_CN">X 窗口系统支持。</description>
+    <description xml:lang="zh_TW">X Window 系統支援。</description>
+    <default>false</default>
+    <uservisible>false</uservisible>
+    <packagelist>
+      <packagereq type="mandatory">glx-utils</packagereq>
+      <packagereq type="mandatory">initial-setup-gui</packagereq>
+      <packagereq type="mandatory">mesa-dri-drivers</packagereq>
+      <packagereq type="mandatory">plymouth-system-theme</packagereq>
+      <packagereq type="mandatory">spice-vdagent</packagereq>
+      <packagereq type="mandatory">xorg-x11-drivers</packagereq>
+      <packagereq type="mandatory">xorg-x11-server-Xorg</packagereq>
+      <packagereq type="mandatory">xorg-x11-utils</packagereq>
+      <packagereq type="mandatory">xorg-x11-xauth</packagereq>
+      <packagereq type="mandatory">xorg-x11-xinit</packagereq>
+      <packagereq type="mandatory">xvattr</packagereq>
+      <packagereq type="optional">tigervnc-server</packagereq>
+      <packagereq type="optional">wayland-protocols-devel</packagereq>
+      <packagereq type="optional">xorg-x11-drv-keyboard</packagereq>
+      <packagereq type="optional">xorg-x11-drv-libinput</packagereq>
+      <packagereq type="optional">xorg-x11-drv-mouse</packagereq>
+      <packagereq type="optional">xorg-x11-drv-openchrome</packagereq>
+    </packagelist>
+  </group>
+  <environment>
+    <id>taishanos-desktop-environment</id>
+    <name>TaishanOS Desktop</name>
+    <name xml:lang="as">TaishanOS ডেস্কটপ</name>
+    <name xml:lang="cs">Pracovní prostředí TaishanOS</name>
+    <name xml:lang="cs_CZ">Pracovní prostředí TaishanOS</name>
+    <name xml:lang="de">TaishanOS-Desktop</name>
+    <name xml:lang="de_CH">TaishanOS-Desktop</name>
+    <name xml:lang="es">Escritorio TaishanOS</name>
+    <name xml:lang="es_ES">Escritorio TaishanOS</name>
+    <name xml:lang="fr">Bureau TaishanOS</name>
+    <name xml:lang="gu">TaishanOS ડેસ્કટોપ</name>
+    <name xml:lang="hi">गनोम डेस्कटॉप</name>
+    <name xml:lang="it">Desktop di TaishanOS</name>
+    <name xml:lang="it_IT">Desktop di TaishanOS</name>
+    <name xml:lang="ja">TaishanOS Desktop</name>
+    <name xml:lang="ja_JP">TaishanOS Desktop</name>
+    <name xml:lang="kn">TaishanOS ಡೆಸ್ಕ್‌ಟಾಪ್</name>
+    <name xml:lang="ko">TaishanOS 데스크탑</name>
+    <name xml:lang="ml">ഗ്നോം പണിയിടം</name>
+    <name xml:lang="mr">TaishanOS डेस्कटॉप</name>
+    <name xml:lang="or">TaishanOS ଡେସ୍କଟପ</name>
+    <name xml:lang="pa">TaishanOS ਡੈਸਕਟਾਪ</name>
+    <name xml:lang="pl">Środowisko TaishanOS</name>
+    <name xml:lang="ru">Окружение TaishanOS</name>
+    <name xml:lang="ru_RU">Окружение TaishanOS</name>
+    <name xml:lang="ta">TaishanOS பணிமேடை</name>
+    <name xml:lang="ta_IN">TaishanOS பணிமேடை</name>
+    <name xml:lang="te">గ్నోమ్ డెస్కుటాప్</name>
+    <name xml:lang="uk">Робоча станція TaishanOS</name>
+    <name xml:lang="uk_UA">Робоча станція TaishanOS</name>
+    <name xml:lang="zh">TaishanOS 桌面環境</name>
+    <name xml:lang="zh_CN">TaishanOS 桌面</name>
+    <name xml:lang="zh_TW">TaishanOS 桌面環境</name>
+    <description>TaishanOS is a highly intuitive and user friendly desktop environment.</description>
+    <description xml:lang="as">TaishanOS উচ্চভাৱে আন্তদৃষ্টিক আৰু ব্যৱহাৰকাৰীৰ বাবে সহজ ডেস্কটপ পৰিৱেশ।</description>
+    <description xml:lang="cs">TaishanOS je intuitivní a uživatelsky příjemné pracovní prostředí.</description>
+    <description xml:lang="cs_CZ">TaishanOS je intuitivní a uživatelsky příjemné pracovní prostředí.</description>
+    <description xml:lang="de">TaishanOS ist eine sehr intuitive und benutzerfreundliche Desktop-Umgebung.</description>
+    <description xml:lang="de_CH">TaishanOS ist eine sehr intuitive und benutzerfreundliche Desktop-Umgebung.</description>
+    <description xml:lang="es">TaishanOS es un entorno de escritorio altamente intuitivo y fácil de manejar</description>
+    <description xml:lang="es_ES">TaishanOS es un entorno de escritorio altamente intuitivo y fácil de manejar</description>
+    <description xml:lang="fr">TaishanOS est un environnement de bureau convivial et hautement intuitif.</description>
+    <description xml:lang="gu">TaishanOS એ ખૂબ ઊંચુ સાહજિક અને વપરાશકર્તા મૈત્રી ડૅસ્કટોપ પર્યાવરણ છે.</description>
+    <description xml:lang="hi">गनोम काफी पारस्परिका और उपयोक्ता मैत्रीयुक्त डेस्कटॉप वातावरण है.</description>
+    <description xml:lang="it">TaishanOS è un ambiente desktop facile da usare e altamente intuitivo.</description>
+    <description xml:lang="it_IT">TaishanOS è un ambiente desktop facile da usare e altamente intuitivo.</description>
+    <description xml:lang="ja">TaishanOS は非常に直観的でユーザーフレンドリーなデスクトップ環境になります。</description>
+    <description xml:lang="ja_JP">TaishanOS は非常に直観的でユーザーフレンドリーなデスクトップ環境になります。</description>
+    <description xml:lang="kn">TaishanOS ಒಂದು ಅತ್ಯಂತ ಸುಲಭವಾಗಿ ಅರ್ಥವಾಗುವ ಬಳಕೆದಾರ ಸ್ನೇಹಿ ಗಣಕತೆರೆ ಪರಿಸರ.</description>
+    <description xml:lang="ko">TaishanOS은 사용하기 쉽고 사용자 친화적인 데스크탑 환경입니다.</description>
+    <description xml:lang="ml">വളരെ അവബോധജന്യവും ഉപയോക്താവിനോടു് വളരെ സൌഹൃദ്യവുമുള്ള രീതിയിലുള്ള പണിയിടമാണു് ഗ്നോം.</description>
+    <description xml:lang="mr">TaishanOS हे अत्यंत ज्ञानी आणि वापरकर्ता मदतगार डेस्कटॉप वातावरण आहे.</description>
+    <description xml:lang="or">TaishanOS ଅତି ମାତ୍ରାରେ ସହଜଜ୍ଞାନ ସମ୍ପନ୍ନ ଏବଂ ବ୍ୟବହାରକାରୀଙ୍କ ପାଇଁ ସହଜମୟ ଡେସ୍କଟପ ପରିବେଶ।</description>
+    <description xml:lang="pa">TaishanOS ਇੱਕ ਬਹੁਤ ਹੀ ਅਨੁਭਵੀ ਅਤੇ ਵਰਤੋਂਕਾਰ ਹਿਤਕਾਰੀ ਡੈਸਕਟਾਪ ਵਾਤਾਵਰਣ ਹੈ।</description>
+    <description xml:lang="pl">TaishanOS to intuicyjne i przyjazne dla użytkownika środowisko pulpitu.</description>
+    <description xml:lang="ru">TaishanOS — интуитивное окружение рабочего стола.</description>
+    <description xml:lang="ru_RU">TaishanOS — интуитивное окружение рабочего стола.</description>
+    <description xml:lang="ta">TaishanOS புத்திசாலித்தனமான மற்றும் பயன்படுத்த எளிதான பணிமேடைச் சூழலாகும்.</description>
+    <description xml:lang="ta_IN">TaishanOS புத்திசாலித்தனமான மற்றும் பயன்படுத்த எளிதான பணிமேடைச் சூழலாகும்.</description>
+    <description xml:lang="te">గ్నోమ్ అనేది తేలికగా తెలుసుకొనే మరియు వాడుకరికి అనుకూలమైన డెస్కుటాప్ పరిసరం.</description>
+    <description xml:lang="uk">TaishanOS — зручне у користуванні та інтуїтивно зрозуміле стільничне середовище.</description>
+    <description xml:lang="uk_UA">TaishanOS — зручне у користуванні та інтуїтивно зрозуміле стільничне середовище.</description>
+    <description xml:lang="zh">TaishanOS 是個容易上手且容易使用的桌面環境。</description>
+    <description xml:lang="zh_CN">TaishanOS 是一个非常直观且用户友好的桌面环境。</description>
+    <description xml:lang="zh_TW">TaishanOS 是個容易上手且容易使用的桌面環境。</description>
+    <display_order>3</display_order>
+    <grouplist>
+      <groupid>base</groupid>
+      <groupid>core</groupid>
+      <groupid>desktop-debugging</groupid>
+      <groupid>dial-up</groupid>
+      <groupid>directory-client</groupid>
+      <groupid>fonts</groupid>
+      <groupid>gnome-desktop</groupid>
+      <groupid>guest-agents</groupid>
+      <groupid>guest-desktop-agents</groupid>
+      <groupid>input-methods</groupid>
+      <groupid>internet-browser</groupid>
+      <groupid>java-platform</groupid>
+      <groupid>multimedia</groupid>
+      <groupid>network-file-system-client</groupid>
+      <groupid>networkmanager-submodules</groupid>
+      <groupid>print-client</groupid>
+      <groupid>x11</groupid>
+    </grouplist>
+    <optionlist>
+      <groupid>backup-client</groupid>
+      <groupid>gnome-apps</groupid>
+      <groupid>internet-applications</groupid>
+      <groupid>legacy-x</groupid>
+      <groupid>office-suite</groupid>
+      <groupid>remote-desktop-clients</groupid>
+      <groupid>smart-card</groupid>
+    </optionlist>
+  </environment>
+  <langpacks>
+    <match install="autocorr-%s" name="autocorr-en"/>
+    <match install="firefox-langpack-%s" name="firefox"/>
+    <match install="gimp-help-%s" name="gimp-help"/>
+    <match install="gnome-getting-started-docs-%s" name="gnome-getting-started-docs"/>
+    <match install="hunspell-%s" name="hunspell"/>
+    <match install="hyphen-%s" name="hyphen"/>
+    <match install="kde-l10n-%s" name="kdelibs"/>
+    <match install="libreoffice-langpack-%s" name="libreoffice-core"/>
+    <match install="man-pages-%s" name="man-pages"/>
+    <match install="mythes-%s" name="mythes"/>
+  </langpacks>
+</comps>
