@@ -27,7 +27,7 @@ while getopts 'a:r:v:t:h' OPTION; do
       echo "  -h               显示本帮助"
       echo ""
       echo "Examples:"
-      echo "  sudo ./mkiso.sh -v 7.0 -r sp0 -t s"
+      echo "  sudo $0 -v 7.0 -r sp0 -t s"
       echo ""
       exit 0
       ;;
@@ -35,6 +35,11 @@ while getopts 'a:r:v:t:h' OPTION; do
 done
 
 BASEDIR=${PWD}
+CONFIGDIR=$(BASEDIR)/config
+REPOCONFIGDIR=$(CONFIGDIR)/repo
+XMLCONFIGDIR=$(CONFIGDIR)/xml
+
+
 PRODUCT=YuandianOS
 VERSION="${VERSION:-7}"
 ARCH=${ARCH:-x86_64}
@@ -43,32 +48,31 @@ RELEASE=`echo ${RELEASE} | tr [A-Z] [a-z]`
 REPO_VER="${VERSION%%.0}.${RELEASE##sp}"
 #LABEL=${PRODUCT}-${VERSION}.${RELEASE}.${ARCH}
 LABEL=${PRODUCT}-${VERSION}.${ARCH}
-REPOSITORY="http://10.10.3.101/yuandianos-vault/altarch/7.5.1804/os/aarch64"
-REPOSITORY_yuandian="http://10.10.3.101/yuandianos/7.5.1804/os/aarch64"
-#echo t=$TYPE
+OUTPUTDIR=${BASEDIR}/build
+
+if [[ "X$ARCH" == "Xx86-64" ]]; then
+	REPOSITORY="http://10.10.3.101/centos-vault/7.5.1804/os/x86_64"
+	REPOSITORY_yuandian="http://10.10.3.101/yuandianos/7.5.1804/os/x86_64"
+	ISOREPO=${REPOCONFIGDIR}/X86_Base.repo
+elif [[ "X$ARCH" == "Xaarch64" ]]; then
+	REPOSITORY="http://10.10.3.101/yuandianos-vault/altarch/7.5.1804/os/aarch64"
+	REPOSITORY_yuandian="http://10.10.3.101/yuandianos/7.5.1804/os/aarch64"
+	ISOREPO=${REPOCONFIGDIR}/ARM_Base.repo
+fi
+
+echo t=$TYPE
 if [[ "X$TYPE" == "Xs" ]]; then
-	#REPOSITORY_os="/res5/"
-	#REPOSITORY_updates="/resu/"
 	PKG_GROUP=groups_server.xml
-	ISOREPO=${BASEDIR}/CentOS-Basearm.repo
-	OUTPUTDIR=${BASEDIR}/iso-s
 	PRODUCT_FULLNAME=${PRODUCT}-${VERSION}.${ARCH}-server
 elif [[ "X$TYPE" == "Xd" ]]; then
-	REPOSITORY_os="/red5/"
-	#REPOSITORY_updates="/redu/"
 	PKG_GROUP=groups_desktop.xml
-	ISOREPO=${BASEDIR}/iso-d.repo
-	OUTPUTDIR=${BASEDIR}/iso-d
 	PRODUCT_FULLNAME=${PRODUCT}-${VERSION}.${ARCH}-desktop
 fi
 TMPDIR=${BASEDIR}/cache
 #this repo is ISO repo(yd7os, centos_minim...)
 #PKG_GROUP=groups_desktop.xml
-#YUM_PARAMS="--disablerepo=* --enablerepo=local-epel --enablerepo=iso-* -c $ISOREPO"
-#YUM_PARAMS="--disablerepo=* --enablerepo=iso-base --enablerepo=iso-extras -c $ISOREPO"
 YUM_PARAMS="--disablerepo=* --enablerepo=yuandianos --enablerepo=base --enablerepo=updates --enablerepo=extras -c $ISOREPO"
 #YUM_PARAMS="--disablerepo=* --enablerepo=base --enablerepo=updates --enablerepo=extras -c $ISOREPO"
-#YUM_PARAMS="--disablerepo=* --enablerepo=yuandianos --enablerepo=base --enablerepo=extras -c $ISOREPO"
 grep "<packagereq" ${PKG_GROUP} | sed 's;\(<packagereq.*\)>\(.*\)\(</packagereq>.*\);\2;g' | sort -u >./pkgs
 
 [[ "0" != "${UID}" ]] && echo "use root!" && exit 1
