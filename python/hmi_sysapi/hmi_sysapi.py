@@ -2,13 +2,21 @@
 # -*- coding:utf-8 -*-
 
 import sys
+import os
 
 FILECALIBRATIONCONF='/data/etc/99-calibration.conf'
 FILEBRIGHTNESS='/sys/class/backlight/nv_backlight/brightness'
 FILEMAXBRIGHTNESS='/sys/class/backlight/nv_backlight/max_brightness'
+SOUNDCHANNEL='Master'
 
 def set_sound(args):
-	print 'set sound', args
+	sound=int(args)
+	if sound < 1:
+		sound = 0
+	if sound > 100:
+		sound = 100
+	command='amixer sset ' + SOUNDCHANNEL + ' ' + str(sound) + '%'
+	os.system(command)
 	return 0
 	
 def set_backlight(args):
@@ -29,15 +37,12 @@ def set_backlight(args):
 	return 0
 
 def get_sound():
-	f=open(FILEMAXBRIGHTNESS, 'r')
-	maxsound=int(f.read())
-	f.close()
-	f=open(FILEBRIGHTNESS, 'r')
-	sound=int(f.read())
-	f.close()
-	print 'max sound', maxsound
-	print 'sound', sound
-	return sound*100/maxsound
+	command="amixer sget " + SOUNDCHANNEL + " |grep %|cut -d'%' -f1|cut -d'[' -f2"
+	p=os.popen(command) 
+	sound=p.read()
+	print sound
+	p.close()
+	return int(sound)
 	
 def get_backlight():
 	f=open(FILEMAXBRIGHTNESS, 'r')
@@ -52,7 +57,8 @@ def get_backlight():
 	return int(brightness)*100/int(maxbrightness)
 	
 def set_calibrator():
-	os.system('xinput_calibrator --output-filename /data/etc/99-calibration.conf')
+	command='xinput_calibrator --output-filename ' + FILECALIBRATIONCONF
+	os.system(command)
 	return 0
 
 print(len(sys.argv))
