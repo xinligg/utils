@@ -5,9 +5,9 @@ import sys
 import os
 
 FILECALIBRATIONCONF='/data/etc/99-calibration.conf'
-FILEBRIGHTNESS='/sys/class/backlight/nv_backlight/brightness'
-FILEMAXBRIGHTNESS='/sys/class/backlight/nv_backlight/max_brightness'
-SOUNDCHANNEL='Master'
+FILEBRIGHTNESS='/sys/class/backlight/pwm-backlight.0/brightness'
+FILEMAXBRIGHTNESS='/sys/class/backlight/pwm-backlight.0/max_brightness'
+SOUNDCHANNEL='Headphone'
 
 def set_sound(args):
 	sound=int(args)
@@ -16,6 +16,7 @@ def set_sound(args):
 	if sound > 100:
 		sound = 100
 	command='amixer sset ' + SOUNDCHANNEL + ' ' + str(sound) + '%'
+	#print command
 	os.system(command)
 	return 0
 	
@@ -30,17 +31,18 @@ def set_backlight(args):
 		brightness = 1
 	if brightness > 100:
 		brightness = 100
-	backlight=brightness*100/maxbrightness
+	backlight=brightness*maxbrightness/100
 	f = open(FILEBRIGHTNESS, 'w')
 	f.write(str(backlight))
 	f.close()
 	return 0
 
 def get_sound():
-	command="amixer sget " + SOUNDCHANNEL + " |grep %|cut -d'%' -f1|cut -d'[' -f2"
+	command="amixer sget " + SOUNDCHANNEL + " |tail -n 1 |grep %|cut -d'%' -f1|cut -d'[' -f2"
+	#print command
 	p=os.popen(command) 
 	sound=p.read()
-	print sound
+	#print sound
 	p.close()
 	return int(sound)
 	
@@ -51,9 +53,9 @@ def get_backlight():
 	f=open(FILEBRIGHTNESS, 'r')
 	brightness=f.read()
 	f.close()
-	print 'max brightness', maxbrightness
-	print 'brightness', brightness
-	print int(brightness)*100/int(maxbrightness)
+	#print 'max brightness', maxbrightness
+	#print 'brightness', brightness
+	#print int(brightness)*100/int(maxbrightness)
 	return int(brightness)*100/int(maxbrightness)
 	
 def set_calibrator():
@@ -61,7 +63,7 @@ def set_calibrator():
 	os.system(command)
 	return 0
 
-print(len(sys.argv))
+#print(len(sys.argv))
 opt=''
 arg=''
 if len(sys.argv) >= 2:
@@ -69,8 +71,8 @@ if len(sys.argv) >= 2:
 if len(sys.argv) >= 3:
 	arg = sys.argv[2]
 
-print('opt is ',opt)
-print('arg is ',arg)
+#print('opt is ',opt)
+#print('arg is ',arg)
 
 if opt=='setsound':
 	sys.exit(set_sound(arg))
