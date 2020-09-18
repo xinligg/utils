@@ -1,0 +1,109 @@
+# SuperredOS-Base.repo
+#
+# The mirror system uses the connecting IP address of the client and the
+# update status of each mirror to pick mirrors that are updated to and
+# geographically close to the client.  You should use this for SuperredOS updates
+# unless you are manually picking other mirrors.
+#
+# If the mirrorlist= does not work for you, as a fall back you can try the
+# remarked out baseurl= line instead.
+#
+#
+
+[base]
+name=SuperredOS-$releasever - Base
+#mirrorlist=http://mirrorlist.centos.org/?release=$releasever&arch=$basearch&repo=os&infra=$infra
+#baseurl=http://repo.superred.com.cn/altarch/7.7.1910/os/aarch64/
+baseurl=http://10.10.3.101/altarch/7.7.1910/os/aarch64/
+gpgcheck=1
+gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-SuperredOS-7
+
+#released updates
+[updates]
+name=SuperredOS-$releasever - Updates
+#mirrorlist=http://mirrorlist.centos.org/?release=$releasever&arch=$basearch&repo=updates&infra=$infra
+#baseurl=http://repo.superred.com.cn/altarch/7.7.1910/updates/aarch64/
+baseurl=http://10.10.3.101/altarch/7.7.1910/updates/aarch64/
+gpgcheck=1
+gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-SuperredOS-7
+
+#additional packages that may be useful
+#[extras]
+#name=SuperredOS-$releasever - Extras
+##mirrorlist=http://mirrorlist.centos.org/?release=$releasever&arch=$basearch&repo=extras&infra=$infra
+#gpgcheck=1
+#gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-SuperredOS-7
+#
+##additional packages that extend functionality of existing packages
+#[centosplus]
+#name=SuperredOS-$releasever - Plus
+##mirrorlist=http://mirrorlist.centos.org/?release=$releasever&arch=$basearch&repo=centosplus&infra=$infra
+##baseurl=http://mirror.centos.org/centos/$releasever/centosplus/$basearch/
+##baseurl=https://mirrors.tuna.tsinghua.edu.cn/centos-vault/centosplus/x86_64/
+#gpgcheck=1
+#enabled=0
+#gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-SuperredOS-7
+#
+
+[epel]
+name=Extra Packages for Enterprise Linux 7 - $basearch
+baseurl=http://10.10.3.101/epel/7/$basearch
+enabled=1
+gpgcheck=1
+
+[kernel-4.14]
+name=Kernel for SuperredOS-$releasever - Kernel
+baseurl=http://10.10.3.101/altarch/7.7.1910/kernel/aarch64/kernel-4.14
+gpgcheck=1
+gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-SuperredOS-7
+
+
+[kernel-4.18]
+name=Kernel for SuperredOS-$releasever - Kernel
+baseurl=http://10.10.3.101/altarch/7.7.1910/kernel/aarch64/kernel-4.18
+gpgcheck=1
+gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-SuperredOS-7
+
+[kernel-4.18-4k-pagesize]
+name=Kernel for SuperredOS-$releasever - Kernel
+baseurl=http://10.10.3.101/altarch/7.7.1910/kernel/aarch64/kernel-4.18-4k-pagesize/
+gpgcheck=1
+gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-SuperredOS-7
+
+[kernel-4.19-ft-server]
+name=Kernel for SuperredOS-$releasever - Kernel 419
+baseurl=http://10.10.3.101/altarch/7.7.1910/kernel/aarch64/kernel-4.19-ft-server
+gpgcheck=1
+gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-SuperredOS-7
+
+[kernel-4.19-ft-ws]
+name=Kernel for SuperredOS-$releasever - Kernel 419
+baseurl=http://10.10.3.101/altarch/7.7.1910/kernel/aarch64/kernel-4.19-ft-ws
+gpgcheck=1
+gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-SuperredOS-7
+
+[kernel-4.19-hw-server]
+name=Kernel for SuperredOS-$releasever - Kernel 419
+baseurl=http://10.10.3.101/altarch/7.7.1910/kernel/aarch64/kernel-4.19-hw-server
+gpgcheck=1
+gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-SuperredOS-7
+
+[kernel-4.19-hw-ws]
+name=Kernel for SuperredOS-$releasever - Kernel 419
+baseurl=http://10.10.3.101/altarch/7.7.1910/kernel/aarch64/kernel-4.19-hw-ws
+gpgcheck=1
+gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-SuperredOS-7
+
+[kernel-4.19-ws]
+name=Kernel for SuperredOS-$releasever - Kernel 419
+baseurl=http://10.10.3.101/altarch/7.7.1910/kernel/aarch64/kernel-4.19-ws
+gpgcheck=1
+gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-SuperredOS-7
+
+[localrepo]
+name=Local repo - local
+baseurl=file:///home/superredos/work/mkiso/s77/oem/localrepo
+gpgcheck=1
+gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-SuperredOS-7
+
+

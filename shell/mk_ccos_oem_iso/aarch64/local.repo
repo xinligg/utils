@@ -1,0 +1,5 @@
+[localrepo]
+name=Local repo for SuperRedOS 7 ISO - aarch64
+baseurl=file:///home/superredos/work/mkiso/s77/oem/iso-aarch64-oem/
+failovermethod=priority
+enabled=1
