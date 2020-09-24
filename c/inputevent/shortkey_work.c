@@ -10,7 +10,7 @@
 #define DEVICE_PATH "/dev/input/"
 
 char* get_device_file(){
-        FILE* fp = popen("ls /dev/input/by-id/ -l|grep event-kbd|head -n1|cut -d'/' -f2", "r");
+        FILE* fp = popen("ls /dev/input/by-path/ -l|grep event-kbd|head -n1|cut -d'/' -f2", "r");
         char buffer[1024];
         char *fullfile;
 	if ((fullfile = malloc(sizeof(buffer))) == NULL){
