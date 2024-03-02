@@ -15,6 +15,7 @@
 
 #include <X11/Xlib.h>
 #include <X11/keysym.h>
+#include <X11/Xatom.h>
 #include <jpeglib.h>
 #include <jerror.h>
 
@@ -321,6 +322,12 @@ main (int argc, char *argv[])
   XMapRaised (dis, mainWin);
 
   XSelectInput (dis, mainWin, ExposureMask | KeyPressMask);
+
+  Atom wm_state   = XInternAtom (dis, "_NET_WM_STATE", True );
+  Atom wm_fullscreen = XInternAtom (dis, "_NET_WM_STATE_FULLSCREEN", True );
+
+  XChangeProperty(dis, mainWin, wm_state, XA_ATOM, 32,
+                PropModeReplace, (unsigned char *)&wm_fullscreen, 1);
 
   while (1)
     {
