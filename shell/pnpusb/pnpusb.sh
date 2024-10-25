@@ -2,10 +2,12 @@
  
 bind_usb() {
   echo -n "$1" | tee /sys/bus/pci/drivers/ehci-pci/bind
+  echo -n "$1" | tee /sys/bus/pci/drivers/xhci_hcd/bind
 }
  
 unbind_usb() {
   echo -n "$1" | tee /sys/bus/pci/drivers/ehci-pci/unbind
+  echo -n "$1" | tee /sys/bus/pci/drivers/xhci_hcd/unbind
 }
  
 DEVICE_NUM=`lspci |grep USB|awk -F' ' '{print$1}'|wc -l`
