@@ -1,0 +1,1 @@
+grub-mkimage -d /usr/lib/grub/arm64-efi/ -c pxekirin9000c.cfg -p /kirin9000c -o BOOTAA64.EFI -O arm64-efi part_gpt part_msdos disk fat exfat ext2 ntfs xfs hfs iso9660 normal search_fs_file configfile linux chain loopback echo efi_gop file gfxmenu gfxterm gfxterm_background gfxterm_menu halt reboot help jpeg ls png true loadenv test tftp http
