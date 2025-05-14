@@ -127,13 +127,13 @@ int set_ext4_uuid(const char* partition, const char* uuid_str) {
 
     // 解析标准UUID格式 (如 a1b2c3d4-e5f6-7890-1234-567890abcdef)
     for (i = 0; i < 16; i++) {
-        if (i == 4 || i == 6 || i == 8 || i == 10) {
+//        if (i == 4 || i == 6 || i == 8 || i == 10) {
             if (*pos == '-') pos++;
-            else {
-                fprintf(stderr, "无效的UUID格式(缺少分隔符)\n");
-                return -1;
-            }
-        }
+//            else {
+//                fprintf(stderr, "无效的UUID格式(缺少分隔符)\n");
+//                return -1;
+//            }
+//        }
         
         if (sscanf(pos, "%2x", &byte) != 1) {
             fprintf(stderr, "无效的UUID格式(非16进制字符)\n");
